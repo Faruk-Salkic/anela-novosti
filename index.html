@@ -1,0 +1,360 @@
+<!DOCTYPE html>
+<html lang="bs">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noindex, nofollow">
+<title>Anela Velić – Novosti iz svijeta osiguranja</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Playfair+Display:wght@700;800&display=swap&subset=latin-ext" rel="stylesheet">
+<style>
+  :root{
+    --plava:#003F8A;
+    --plava-tamna:#002a5c;
+    --plava-svijetla:#eaf1fa;
+    --zuta:#FFD700;
+    --tekst:#1c2333;
+    --tekst-blagi:#5a6478;
+    --pozadina:#f5f7fb;
+    --kartica:#ffffff;
+    --ivica:#e3e8f1;
+  }
+  *{margin:0;padding:0;box-sizing:border-box}
+  body{font-family:'Inter',system-ui,sans-serif;background:var(--pozadina);color:var(--tekst);-webkit-font-smoothing:antialiased}
+
+  /* ---------- ULAZNA STRANICA (code gate) ---------- */
+  #kapija{
+    position:fixed;inset:0;z-index:100;
+    background:linear-gradient(160deg,var(--plava-tamna) 0%,var(--plava) 55%,#0b5ab8 100%);
+    display:flex;align-items:center;justify-content:center;padding:24px;
+  }
+  #kapija::before{
+    content:"";position:absolute;inset:0;opacity:.08;
+    background-image:radial-gradient(circle at 20% 30%,#fff 1px,transparent 1px),radial-gradient(circle at 80% 70%,#fff 1px,transparent 1px);
+    background-size:56px 56px,72px 72px;
+  }
+  .kapija-kartica{
+    position:relative;width:100%;max-width:400px;text-align:center;
+    background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.15);
+    backdrop-filter:blur(12px);border-radius:24px;padding:44px 34px 38px;
+    box-shadow:0 30px 80px rgba(0,0,0,.35);
+    animation:uplov .7s ease both;
+  }
+  @keyframes uplov{from{opacity:0;transform:translateY(18px)}to{opacity:1;transform:none}}
+  .avatar{
+    width:112px;height:112px;border-radius:50%;margin:0 auto 18px;
+    border:3px solid var(--zuta);box-shadow:0 8px 24px rgba(0,0,0,.3);
+    overflow:hidden;background:var(--zuta);
+    display:flex;align-items:center;justify-content:center;
+  }
+  .avatar img{width:100%;height:100%;object-fit:cover;display:block}
+  .avatar .inicijali{font-family:'Playfair Display',serif;font-size:40px;font-weight:800;color:var(--plava)}
+  .kapija-kartica h1{
+    font-family:'Playfair Display',serif;font-size:30px;font-weight:800;
+    color:#fff;letter-spacing:.3px;margin-bottom:6px;
+  }
+  .kapija-kartica .pod{color:rgba(255,255,255,.75);font-size:14.5px;margin-bottom:28px;line-height:1.5}
+  .kapija-kartica .pod b{color:var(--zuta);font-weight:600}
+  #kodForma{display:flex;flex-direction:column;gap:12px}
+  #kodInput{
+    padding:14px 16px;border-radius:12px;border:1px solid rgba(255,255,255,.25);
+    background:rgba(255,255,255,.12);color:#fff;font-size:16px;text-align:center;
+    letter-spacing:2px;outline:none;font-family:inherit;transition:border .2s,background .2s;
+  }
+  #kodInput::placeholder{color:rgba(255,255,255,.45);letter-spacing:normal}
+  #kodInput:focus{border-color:var(--zuta);background:rgba(255,255,255,.18)}
+  #kodDugme{
+    padding:14px;border:none;border-radius:12px;cursor:pointer;
+    background:var(--zuta);color:var(--plava-tamna);font-weight:700;font-size:15.5px;
+    font-family:inherit;transition:transform .15s,box-shadow .2s;
+  }
+  #kodDugme:hover{transform:translateY(-1px);box-shadow:0 8px 20px rgba(255,215,0,.35)}
+  #kodGreska{color:#ffb3b3;font-size:13.5px;min-height:18px}
+  .kapija-noga{margin-top:22px;color:rgba(255,255,255,.4);font-size:12px}
+  .tresi{animation:tresi .4s}
+  @keyframes tresi{0%,100%{transform:translateX(0)}25%{transform:translateX(-8px)}75%{transform:translateX(8px)}}
+
+  /* ---------- GLAVNA STRANICA ---------- */
+  #aplikacija{display:none;min-height:100vh}
+  header.traka{
+    background:linear-gradient(135deg,var(--plava-tamna),var(--plava));color:#fff;
+    padding:34px 20px 78px;position:relative;overflow:hidden;
+  }
+  header.traka::after{
+    content:"";position:absolute;right:-60px;top:-60px;width:260px;height:260px;
+    border-radius:50%;background:rgba(255,215,0,.12);
+  }
+  .traka-unutra{max-width:1060px;margin:0 auto;display:flex;align-items:center;gap:18px;position:relative}
+  .mini-avatar{
+    width:58px;height:58px;border-radius:50%;border:2px solid var(--zuta);
+    overflow:hidden;flex-shrink:0;background:var(--zuta);
+    display:flex;align-items:center;justify-content:center;
+  }
+  .mini-avatar img{width:100%;height:100%;object-fit:cover}
+  .mini-avatar .inicijali{font-family:'Playfair Display',serif;font-weight:800;font-size:21px;color:var(--plava)}
+  .traka h1{font-family:'Playfair Display',serif;font-size:26px;font-weight:800;letter-spacing:.3px}
+  .traka .slogan{font-size:13.5px;color:rgba(255,255,255,.78);margin-top:3px}
+  #azurirano{
+    margin-left:auto;font-size:12.5px;color:rgba(255,255,255,.85);
+    background:rgba(255,255,255,.12);border:1px solid rgba(255,255,255,.2);
+    padding:7px 14px;border-radius:999px;white-space:nowrap;
+  }
+
+  .sadrzaj{max-width:1060px;margin:-46px auto 60px;padding:0 20px;position:relative}
+
+  .alatna{
+    background:var(--kartica);border:1px solid var(--ivica);border-radius:16px;
+    padding:16px 18px;box-shadow:0 10px 30px rgba(0,42,92,.08);
+    display:flex;flex-wrap:wrap;gap:12px;align-items:center;margin-bottom:26px;
+  }
+  #pretraga{
+    flex:1;min-width:200px;padding:11px 14px 11px 38px;border-radius:10px;
+    border:1px solid var(--ivica);font-size:14.5px;font-family:inherit;outline:none;
+    background:#fafbfd url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="%235a6478" stroke-width="2.4"><circle cx="11" cy="11" r="7"/><line x1="21" y1="21" x2="16.5" y2="16.5"/></svg>') 12px center no-repeat;
+    transition:border .2s;
+  }
+  #pretraga:focus{border-color:var(--plava)}
+  #izvorFilter{
+    padding:11px 14px;border-radius:10px;border:1px solid var(--ivica);
+    font-size:14px;font-family:inherit;background:#fafbfd;outline:none;cursor:pointer;color:var(--tekst);
+  }
+  .cipovi{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:26px}
+  .cip{
+    padding:8px 16px;border-radius:999px;border:1px solid var(--ivica);
+    background:var(--kartica);font-size:13.5px;font-weight:500;cursor:pointer;
+    font-family:inherit;color:var(--tekst-blagi);transition:all .18s;
+  }
+  .cip:hover{border-color:var(--plava);color:var(--plava)}
+  .cip.aktivan{background:var(--plava);border-color:var(--plava);color:#fff;font-weight:600}
+
+  #mreza{display:grid;grid-template-columns:repeat(auto-fill,minmax(310px,1fr));gap:18px}
+  .vijest{
+    background:var(--kartica);border:1px solid var(--ivica);border-radius:16px;
+    padding:22px;display:flex;flex-direction:column;gap:12px;
+    transition:transform .2s,box-shadow .2s;animation:uplov .5s ease both;
+  }
+  .vijest:hover{transform:translateY(-3px);box-shadow:0 16px 36px rgba(0,42,92,.12)}
+  .vijest-vrh{display:flex;align-items:center;gap:8px;flex-wrap:wrap}
+  .znacka{
+    font-size:11.5px;font-weight:700;letter-spacing:.4px;text-transform:uppercase;
+    padding:4px 11px;border-radius:999px;background:var(--plava-svijetla);color:var(--plava);
+  }
+  .vijest-datum{font-size:12.5px;color:var(--tekst-blagi);margin-left:auto}
+  .vijest h2{font-size:17px;font-weight:700;line-height:1.4;color:var(--plava-tamna)}
+  .vijest .sazetak{font-size:14px;line-height:1.65;color:var(--tekst)}
+  .vazno{
+    background:#fffbea;border-left:3px solid var(--zuta);
+    border-radius:0 10px 10px 0;padding:10px 14px;font-size:13.5px;line-height:1.55;color:#5c4d00;
+  }
+  .vazno b{color:#453a00}
+  .vijest-dno{margin-top:auto;display:flex;align-items:center;justify-content:space-between;padding-top:6px}
+  .vijest-izvor{font-size:12.5px;color:var(--tekst-blagi)}
+  .vijest a.original{
+    font-size:13.5px;font-weight:600;color:var(--plava);text-decoration:none;
+    display:inline-flex;align-items:center;gap:5px;
+  }
+  .vijest a.original:hover{text-decoration:underline}
+
+  #prazno{
+    display:none;text-align:center;padding:70px 20px;color:var(--tekst-blagi);
+    background:var(--kartica);border:1px dashed var(--ivica);border-radius:16px;font-size:15px;
+  }
+  footer.noga{
+    text-align:center;padding:26px 20px 40px;color:var(--tekst-blagi);font-size:12.5px;line-height:1.7;
+  }
+  footer.noga b{color:var(--plava)}
+
+  @media (max-width:640px){
+    .traka-unutra{flex-wrap:wrap}
+    #azurirano{margin-left:0}
+    .traka h1{font-size:22px}
+  }
+</style>
+</head>
+<body>
+
+<!-- ULAZ -->
+<div id="kapija">
+  <div class="kapija-kartica">
+    <div class="avatar">
+      <img src="anela.jpg" alt="Anela Velić" onerror="this.remove();this.parentElement.innerHTML='<span class=&quot;inicijali&quot;>AV</span>'">
+    </div>
+    <h1>Anela Velić</h1>
+    <div class="pod">Novosti iz svijeta osiguranja u Njemačkoj<br>Unesi <b>pristupni kod</b> za nastavak</div>
+    <form id="kodForma">
+      <input id="kodInput" type="password" placeholder="Pristupni kod" autocomplete="off" autofocus>
+      <div id="kodGreska"></div>
+      <button id="kodDugme" type="submit">Otvori novosti</button>
+    </form>
+    <div class="kapija-noga">Privatna stranica · Pristup samo uz kod</div>
+  </div>
+</div>
+
+<!-- APLIKACIJA -->
+<div id="aplikacija">
+  <header class="traka">
+    <div class="traka-unutra">
+      <div class="mini-avatar">
+        <img src="anela.jpg" alt="" onerror="this.remove();this.parentElement.innerHTML='<span class=&quot;inicijali&quot;>AV</span>'">
+      </div>
+      <div>
+        <h1>Anela Velić · Novosti</h1>
+        <div class="slogan">Šta je novo u svijetu osiguranja u Njemačkoj</div>
+      </div>
+      <div id="azurirano"></div>
+    </div>
+  </header>
+
+  <main class="sadrzaj">
+    <div class="alatna">
+      <input id="pretraga" type="search" placeholder="Pretraži novosti…">
+      <select id="izvorFilter"><option value="">Svi izvori</option></select>
+    </div>
+    <div class="cipovi" id="cipovi"></div>
+    <div id="mreza"></div>
+    <div id="prazno">Nema novosti koje odgovaraju filterima. Probaj ukloniti filter ili pretragu.</div>
+  </main>
+
+  <footer class="noga">
+    Novosti se automatski osvježavaju svaka 3 dana.<br>
+    <b>Anela Velić</b> · Partner za osiguranja · Nürnberg
+  </footer>
+</div>
+
+<script>
+const KOD = "anela";
+let vijesti = [];
+let aktivnaKategorija = "";
+let aktivanIzvor = "";
+let upit = "";
+
+/* ---- kapija ---- */
+const kapija = document.getElementById("kapija");
+const aplikacija = document.getElementById("aplikacija");
+
+function otvoriAplikaciju(){
+  kapija.style.display = "none";
+  aplikacija.style.display = "block";
+  ucitajVijesti();
+}
+
+document.getElementById("kodForma").addEventListener("submit", function(e){
+  e.preventDefault();
+  const unos = document.getElementById("kodInput").value.trim().toLowerCase();
+  if(unos === KOD){
+    sessionStorage.setItem("pristup","da");
+    otvoriAplikaciju();
+  } else {
+    const kartica = document.querySelector(".kapija-kartica");
+    document.getElementById("kodGreska").textContent = "Pogrešan kod. Pokušaj ponovo.";
+    kartica.classList.remove("tresi"); void kartica.offsetWidth; kartica.classList.add("tresi");
+  }
+});
+
+if(sessionStorage.getItem("pristup") === "da"){ otvoriAplikaciju(); }
+
+/* ---- podaci ---- */
+async function ucitajVijesti(){
+  try{
+    const odgovor = await fetch("news.json?t=" + Date.now());
+    const podaci = await odgovor.json();
+    vijesti = podaci.vijesti || [];
+    prikaziAzurirano(podaci.azurirano);
+    izgradiFiltere();
+    prikazi();
+  }catch(gr){
+    document.getElementById("mreza").innerHTML = "";
+    const p = document.getElementById("prazno");
+    p.style.display = "block";
+    p.textContent = "Novosti trenutno nisu dostupne. Pokušaj kasnije.";
+  }
+}
+
+function prikaziAzurirano(iso){
+  if(!iso) return;
+  document.getElementById("azurirano").textContent = "Ažurirano: " + formatirajDatum(iso);
+}
+
+function formatirajDatum(iso){
+  const d = new Date(iso);
+  if(isNaN(d)) return "";
+  const mjeseci = ["januar","februar","mart","april","maj","juni","juli","august","septembar","oktobar","novembar","decembar"];
+  return d.getDate() + ". " + mjeseci[d.getMonth()] + " " + d.getFullYear() + ".";
+}
+
+/* ---- filteri ---- */
+function izgradiFiltere(){
+  const kategorije = [...new Set(vijesti.map(v => v.kategorija).filter(Boolean))].sort((a,b)=>a.localeCompare(b,"bs"));
+  const cipovi = document.getElementById("cipovi");
+  cipovi.innerHTML = "";
+  const sve = napraviCip("Sve", "");
+  sve.classList.add("aktivan");
+  cipovi.appendChild(sve);
+  kategorije.forEach(k => cipovi.appendChild(napraviCip(k, k)));
+
+  const izvori = [...new Set(vijesti.map(v => v.izvor).filter(Boolean))].sort();
+  const sel = document.getElementById("izvorFilter");
+  sel.innerHTML = '<option value="">Svi izvori</option>';
+  izvori.forEach(i => {
+    const o = document.createElement("option");
+    o.value = i; o.textContent = i;
+    sel.appendChild(o);
+  });
+}
+
+function napraviCip(tekst, vrijednost){
+  const b = document.createElement("button");
+  b.className = "cip";
+  b.textContent = tekst;
+  b.addEventListener("click", () => {
+    aktivnaKategorija = vrijednost;
+    document.querySelectorAll(".cip").forEach(c => c.classList.remove("aktivan"));
+    b.classList.add("aktivan");
+    prikazi();
+  });
+  return b;
+}
+
+document.getElementById("pretraga").addEventListener("input", e => { upit = e.target.value.toLowerCase(); prikazi(); });
+document.getElementById("izvorFilter").addEventListener("change", e => { aktivanIzvor = e.target.value; prikazi(); });
+
+/* ---- prikaz ---- */
+function prikazi(){
+  const mreza = document.getElementById("mreza");
+  const prazno = document.getElementById("prazno");
+  const filtrirano = vijesti
+    .filter(v => !aktivnaKategorija || v.kategorija === aktivnaKategorija)
+    .filter(v => !aktivanIzvor || v.izvor === aktivanIzvor)
+    .filter(v => !upit || (v.naslov + " " + v.sazetak + " " + (v.zastoVazno||"")).toLowerCase().includes(upit))
+    .sort((a,b) => (b.datum||"").localeCompare(a.datum||""));
+
+  mreza.innerHTML = "";
+  prazno.style.display = filtrirano.length ? "none" : "block";
+
+  filtrirano.forEach((v, i) => {
+    const kartica = document.createElement("article");
+    kartica.className = "vijest";
+    kartica.style.animationDelay = (i * 60) + "ms";
+    kartica.innerHTML =
+      '<div class="vijest-vrh">' +
+        '<span class="znacka">' + esc(v.kategorija || "Opšte") + '</span>' +
+        '<span class="vijest-datum">' + esc(formatirajDatum(v.datum)) + '</span>' +
+      '</div>' +
+      '<h2>' + esc(v.naslov) + '</h2>' +
+      '<p class="sazetak">' + esc(v.sazetak) + '</p>' +
+      (v.zastoVazno ? '<div class="vazno"><b>Zašto je važno:</b> ' + esc(v.zastoVazno) + '</div>' : '') +
+      '<div class="vijest-dno">' +
+        '<span class="vijest-izvor">' + esc(v.izvor || "") + '</span>' +
+        (v.link ? '<a class="original" href="' + esc(v.link) + '" target="_blank" rel="noopener">Pročitaj original ↗</a>' : '') +
+      '</div>';
+    mreza.appendChild(kartica);
+  });
+}
+
+function esc(s){
+  return String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+}
+</script>
+</body>
+</html>

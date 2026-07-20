@@ -1,0 +1,45 @@
+{
+  "azurirano": "2026-07-20T07:00:00.000Z",
+  "vijesti": [
+    {
+      "id": "2026-07-20-1",
+      "datum": "2026-07-19",
+      "kategorija": "Pravna zaštita",
+      "izvor": "VWheute",
+      "link": "https://versicherungswirtschaft-heute.de/",
+      "naslov": "Sve više sporova oko otkaza na poslu: pravna zaštita ponovo u fokusu",
+      "sazetak": "Broj radnih sporova u Njemačkoj raste, a osiguravatelji bilježe rekordan broj prijava po polisama pravne zaštite. Najčešći slučajevi su otkazi, neisplaćene plate i sporovi oko radnog vremena.",
+      "zastoVazno": "Naši ljudi u Njemačkoj često ne znaju da advokata za radni spor može platiti osiguranje. Rechtsschutz polisa pokriva troškove advokata i suda."
+    },
+    {
+      "id": "2026-07-20-2",
+      "datum": "2026-07-18",
+      "kategorija": "Auto osiguranje",
+      "izvor": "Pfefferminzia",
+      "link": "https://www.pfefferminzia.de/",
+      "naslov": "KFZ premije nastavljaju rasti: šta očekivati pri produženju police",
+      "sazetak": "Osiguravatelji najavljuju novo poskupljenje auto osiguranja zbog rasta cijena rezervnih dijelova i troškova popravki. Prosječna premija mogla bi porasti i do dvocifrenog procenta.",
+      "zastoVazno": "Novembar je mjesec kada se mijenja auto osiguranje u Njemačkoj. Ko na vrijeme uporedi ponude, može značajno uštedjeti."
+    },
+    {
+      "id": "2026-07-20-3",
+      "datum": "2026-07-17",
+      "kategorija": "Životno i BU",
+      "izvor": "AssCompact",
+      "link": "https://www.asscompact.de/",
+      "naslov": "Psihičke bolesti i dalje glavni uzrok radne nesposobnosti",
+      "sazetak": "Novi podaci pokazuju da su psihička oboljenja, uključujući burnout, najčešći razlog zašto ljudi u Njemačkoj više ne mogu raditi svoj posao. Slijede bolesti kičme i zglobova.",
+      "zastoVazno": "Državna pomoć kod radne nesposobnosti je često ispod 1.100 eura mjesečno. BU osiguranje je jedna od najvažnijih polisa za svakoga ko živi od svog rada."
+    },
+    {
+      "id": "2026-07-20-4",
+      "datum": "2026-07-17",
+      "kategorija": "Zdravstveno",
+      "izvor": "VWheute",
+      "link": "https://versicherungswirtschaft-heute.de/",
+      "naslov": "Dopunsko zubno osiguranje sve traženije: cijene tretmana rastu",
+      "sazetak": "Troškovi zubnih implantata i protetike u Njemačkoj rastu iz godine u godinu, a zakonsko osiguranje pokriva samo osnovni dio. Interes za dopunsko zubno osiguranje je na rekordnom nivou.",
+      "zastoVazno": "Implantat može koštati i preko 2.000 eura po zubu. Dobra dopunska polisa pokriva veliki dio tog troška, a neke nemaju period čekanja."
+    }
+  ]
+}

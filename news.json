@@ -1,45 +1,35 @@
 {
-  "azurirano": "2026-07-20T07:00:00.000Z",
+  "azurirano": "2026-07-20T17:48:08.209Z",
   "vijesti": [
     {
       "id": "2026-07-20-1",
-      "datum": "2026-07-19",
-      "kategorija": "Pravna zaštita",
-      "izvor": "VWheute",
-      "link": "https://versicherungswirtschaft-heute.de/",
-      "naslov": "Sve više sporova oko otkaza na poslu: pravna zaštita ponovo u fokusu",
-      "sazetak": "Broj radnih sporova u Njemačkoj raste, a osiguravatelji bilježe rekordan broj prijava po polisama pravne zaštite. Najčešći slučajevi su otkazi, neisplaćene plate i sporovi oko radnog vremena.",
-      "zastoVazno": "Naši ljudi u Njemačkoj često ne znaju da advokata za radni spor može platiti osiguranje. Rechtsschutz polisa pokriva troškove advokata i suda."
+      "datum": "2026-07-20",
+      "kategorija": "Zdravstveno",
+      "izvor": "Pfefferminzia",
+      "link": "https://www.pfefferminzia.de/gesundheit/kuerzungen-bei-gkv-leistungen-kosten-fuer-andere-sozialsysteme/",
+      "naslov": "Kratice u zdravstvenom osiguranju: Kako su smanjene zdravstvene usluge",
+      "sazetak": "Smanjenje usluga u zakonskom zdravstvenom osiguranju može uticati na druge socijalne sisteme, uključujući penzije i invaliditet. Istraživači upozoravaju na potencijalne dodatne troškove za građane zbog ovih promjena.",
+      "zastoVazno": "Ove promjene mogu direktno uticati na kvalitet zdravstvene zaštite koju ljudi dobijaju, što je ključno za naše ljude koji možda nisu upoznati sa svim zakonima i pravilima."
     },
     {
       "id": "2026-07-20-2",
-      "datum": "2026-07-18",
-      "kategorija": "Auto osiguranje",
+      "datum": "2026-07-20",
+      "kategorija": "Penzija",
       "izvor": "Pfefferminzia",
-      "link": "https://www.pfefferminzia.de/",
-      "naslov": "KFZ premije nastavljaju rasti: šta očekivati pri produženju police",
-      "sazetak": "Osiguravatelji najavljuju novo poskupljenje auto osiguranja zbog rasta cijena rezervnih dijelova i troškova popravki. Prosječna premija mogla bi porasti i do dvocifrenog procenta.",
-      "zastoVazno": "Novembar je mjesec kada se mijenja auto osiguranje u Njemačkoj. Ko na vrijeme uporedi ponude, može značajno uštedjeti."
+      "link": "https://www.pfefferminzia.de/vorsorge/rentenreform-buerger-wuenschen-sich-finanzielle-sicherheit-im-alter/",
+      "naslov": "Reforma penzionog sistema: Građani traže sigurnost u starosti",
+      "sazetak": "Većina građana očekuje od reforme penzionog sistema da obezbijedi finansijsku sigurnost u starosti. Pitanje prevencije siromaštva u starosti je od ključnog značaja za mnoge.",
+      "zastoVazno": "S obzirom na to da mnogi članovi dijaspore možda planiraju svoj odlazak u penziju u Njemačkoj, važno je razumjeti promjene koje će uticati na njihove penzije."
     },
     {
       "id": "2026-07-20-3",
       "datum": "2026-07-17",
       "kategorija": "Životno i BU",
-      "izvor": "AssCompact",
-      "link": "https://www.asscompact.de/",
-      "naslov": "Psihičke bolesti i dalje glavni uzrok radne nesposobnosti",
-      "sazetak": "Novi podaci pokazuju da su psihička oboljenja, uključujući burnout, najčešći razlog zašto ljudi u Njemačkoj više ne mogu raditi svoj posao. Slijede bolesti kičme i zglobova.",
-      "zastoVazno": "Državna pomoć kod radne nesposobnosti je često ispod 1.100 eura mjesečno. BU osiguranje je jedna od najvažnijih polisa za svakoga ko živi od svog rada."
-    },
-    {
-      "id": "2026-07-20-4",
-      "datum": "2026-07-17",
-      "kategorija": "Zdravstveno",
-      "izvor": "VWheute",
-      "link": "https://versicherungswirtschaft-heute.de/",
-      "naslov": "Dopunsko zubno osiguranje sve traženije: cijene tretmana rastu",
-      "sazetak": "Troškovi zubnih implantata i protetike u Njemačkoj rastu iz godine u godinu, a zakonsko osiguranje pokriva samo osnovni dio. Interes za dopunsko zubno osiguranje je na rekordnom nivou.",
-      "zastoVazno": "Implantat može koštati i preko 2.000 eura po zubu. Dobra dopunska polisa pokriva veliki dio tog troška, a neke nemaju period čekanja."
+      "izvor": "Pfefferminzia",
+      "link": "https://www.pfefferminzia.de/gesundheit/erkrankung-unfall-co-was-zur-ueberschuldung-der-buerger-fuehrt/",
+      "naslov": "Preporuke za osiguranje od nezgode: Kako se zaštititi od prekomjernog zaduženja",
+      "sazetak": "Erkrankungen, nezgode i gubitak posla su među glavnim uzrocima prekomjernog zaduženja građana. Važno je razumjeti kako osiguranje može pomoći u ovim situacijama.",
+      "zastoVazno": "Osiguranje od nezgode može biti ključno za one koji su suočeni sa mogućnošću gubitka prihoda usljed nesreće ili bolesti, posebno za nove imigrante."
     }
   ]
 }

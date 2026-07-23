@@ -1,35 +1,35 @@
 {
-  "azurirano": "2026-07-20T17:48:08.209Z",
+  "azurirano": "2026-07-23T05:00:29.379Z",
   "vijesti": [
     {
-      "id": "2026-07-20-1",
-      "datum": "2026-07-20",
-      "kategorija": "Zdravstveno",
-      "izvor": "Pfefferminzia",
-      "link": "https://www.pfefferminzia.de/gesundheit/kuerzungen-bei-gkv-leistungen-kosten-fuer-andere-sozialsysteme/",
-      "naslov": "Kratice u zdravstvenom osiguranju: Kako su smanjene zdravstvene usluge",
-      "sazetak": "Smanjenje usluga u zakonskom zdravstvenom osiguranju može uticati na druge socijalne sisteme, uključujući penzije i invaliditet. Istraživači upozoravaju na potencijalne dodatne troškove za građane zbog ovih promjena.",
-      "zastoVazno": "Ove promjene mogu direktno uticati na kvalitet zdravstvene zaštite koju ljudi dobijaju, što je ključno za naše ljude koji možda nisu upoznati sa svim zakonima i pravilima."
+      "id": "2026-07-23-1",
+      "datum": "2026-07-22",
+      "kategorija": "Penzija",
+      "izvor": "VWheute",
+      "link": "https://versicherungswirtschaft-heute.de/unternehmen-und-management/2026-07-23/referentenentwurf-zur-fruhstartrente-finanzministerium-schafft-ausnahmeregelung-fur-lebensversicherer/",
+      "naslov": "Reforma penzijske štednje: Država uvodi nove mjesečne uplate za djecu",
+      "sazetak": "Od 2027. godine, svaki mjesec će djeca od 6 do 18 godina primati državnu uplatu od 10 eura za penzijsko osiguranje. Ovo je prvi put da država aktivno sudjeluje u osiguranju djece kako bi ih potakla na štednju.",
+      "zastoVazno": "Ova reforma će pomoći našoj djeci da se bolje pripreme za budućnost i osiguraju sebi dodatnu penziju kada odrastu."
     },
     {
-      "id": "2026-07-20-2",
-      "datum": "2026-07-20",
+      "id": "2026-07-23-2",
+      "datum": "2026-07-21",
       "kategorija": "Penzija",
       "izvor": "Pfefferminzia",
-      "link": "https://www.pfefferminzia.de/vorsorge/rentenreform-buerger-wuenschen-sich-finanzielle-sicherheit-im-alter/",
-      "naslov": "Reforma penzionog sistema: Građani traže sigurnost u starosti",
-      "sazetak": "Većina građana očekuje od reforme penzionog sistema da obezbijedi finansijsku sigurnost u starosti. Pitanje prevencije siromaštva u starosti je od ključnog značaja za mnoge.",
-      "zastoVazno": "S obzirom na to da mnogi članovi dijaspore možda planiraju svoj odlazak u penziju u Njemačkoj, važno je razumjeti promjene koje će uticati na njihove penzije."
+      "link": "https://www.pfefferminzia.de/vorsorge/riester-kunden-wollen-zur-av-reform-beraten-werden/",
+      "naslov": "Potrošači s Riester ugovorima žele savjet o reformama",
+      "sazetak": "Ukupno 75% ljudi s Riester penzijskim planovima želi dobiti savjete od svojih pružatelja usluga o tome kako reforme mogu uticati na njih. Većina njih očekuje da će ih savjetnici kontaktirati kako bi razgovarali o potencijalnim promjenama.",
+      "zastoVazno": "Važno je da ljudi s Riester planovima dobiju informirane savjete kako bi mogli ispravno upravljati svojim penzijskim fondovima."
     },
     {
-      "id": "2026-07-20-3",
-      "datum": "2026-07-17",
-      "kategorija": "Životno i BU",
+      "id": "2026-07-23-3",
+      "datum": "2026-07-22",
+      "kategorija": "Nekretnine",
       "izvor": "Pfefferminzia",
-      "link": "https://www.pfefferminzia.de/gesundheit/erkrankung-unfall-co-was-zur-ueberschuldung-der-buerger-fuehrt/",
-      "naslov": "Preporuke za osiguranje od nezgode: Kako se zaštititi od prekomjernog zaduženja",
-      "sazetak": "Erkrankungen, nezgode i gubitak posla su među glavnim uzrocima prekomjernog zaduženja građana. Važno je razumjeti kako osiguranje može pomoći u ovim situacijama.",
-      "zastoVazno": "Osiguranje od nezgode može biti ključno za one koji su suočeni sa mogućnošću gubitka prihoda usljed nesreće ili bolesti, posebno za nove imigrante."
+      "link": "https://www.pfefferminzia.de/vorsorge/hauskauf-verbraucherschuetzer-warnen-vor-vollfinanzierung/",
+      "naslov": "Potrošači upozoravaju na rizike punog finansiranja kupovine kuće",
+      "sazetak": "Potrošačke organizacije upozoravaju da banke previše promoviraju punu finansiranje, gdje kupci zadužuju cijeli iznos kupovine. Ovaj model može dovesti do velike zaduženosti i finansijske nestabilnosti.",
+      "zastoVazno": "Važno je da naši ljudi budu svjesni ovih rizika prije nego što se odluče za kupovinu nekretnina kako bi zaštitili svoje finansije."
     }
   ]
 }

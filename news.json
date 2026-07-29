@@ -1,55 +1,35 @@
 {
-  "azurirano": "2026-07-26T05:00:31.689Z",
+  "azurirano": "2026-07-29T05:00:29.743Z",
   "vijesti": [
     {
-      "id": "2026-07-26-1",
-      "datum": "2026-07-24",
-      "kategorija": "Opšte",
-      "izvor": "VWheute",
-      "link": "https://versicherungswirtschaft-heute.de/politik-und-regulierung/2026-07-24/praemien-fuer-industrieversicherungen-sinken-weltweit-um-sechs-prozent/",
-      "naslov": "Smanjenje premija za industrijska osiguranja širom svijeta",
-      "sazetak": "Premije za industrijska osiguranja nastavile su da opadaju, sa smanjenjem od šest posto u drugom kvartalu 2026. godine. Ova tendencija se nastavila nakon pet postotnog smanjenja u prvom kvartalu, što ukazuje na promjene na tržištu osiguranja.",
-      "zastoVazno": "Smanjenje premija može uticati na troškove osiguranja za preduzeća i pojedince, što je važno za svakog potrošača koji razmatra osiguranje."
-    },
-    {
-      "id": "2026-07-26-2",
-      "datum": "2026-07-23",
-      "kategorija": "Penzija",
+      "id": "2026-07-29-1",
+      "datum": "2026-07-28",
+      "kategorija": "Zdravstveno",
       "izvor": "Pfefferminzia",
-      "link": "https://www.pfefferminzia.de/vorsorge/vier-ueberraschungen-in-der-fruehstartrente/",
-      "naslov": "Frühstartrente: Četiri iznenađenja u novom zakonu",
-      "sazetak": "Novi zakon o Frühstartrente donosi nekoliko neobičnih odredbi koje mogu iznenaditi mnoge. Iako su očekivanja velika, postoji i zabrinutost oko dizajna proizvoda i njegove finansijske dimenzije.",
-      "zastoVazno": "Razumijevanje promjena u zakonima o penzijama može pomoći ljudima da bolje planiraju svoju budućnost i osiguraju sebi adekvatne prihode u starosti."
+      "link": "https://www.pfefferminzia.de/gesundheit/wenn-die-rueckkehr-von-pkv-in-die-gkv-schiefgeht/",
+      "naslov": "Vraćanje iz privatnog u zakonsko zdravstveno osiguranje može biti teško",
+      "sazetak": "Osobe koje žele preći iz privatnog zdravstvenog osiguranja (PKV) u zakonsko (GKV) moraju obratiti pažnju na pravilnu procedure. Ako ne pruže potrebne dokaze ili to učine prekasno, mogu izgubiti važeći PKV ugovor.",
+      "zastoVazno": "Ova informacija je važna za sve one koji razmišljaju o promjeni zdravstvenog osiguranja, jer može utjecati na njihovu pokrivenost i troškove liječenja."
     },
     {
-      "id": "2026-07-26-3",
-      "datum": "2026-07-23",
+      "id": "2026-07-29-2",
+      "datum": "2026-07-28",
       "kategorija": "Životno i BU",
       "izvor": "Pfefferminzia",
-      "link": "https://www.pfefferminzia.de/branche/lebensversicherung-anbieter-verspielen-neugeschaeft-im-service/",
-      "naslov": "Problemi sa životnim osiguranjem: Nedostaci u uslugama",
-      "sazetak": "Tržište životnog osiguranja u Njemačkoj suočava se s velikim izazovima uslijed rasta regulatornih zahtjeva i sve veće sličnosti proizvoda. To dovodi do problema u diferencijaciji među osiguravateljima.",
-      "zastoVazno": "Problemi s uslugama životnih osiguravatelja mogu uticati na klijente koji traže zaštitu i sigurnost, pa je važno biti informisan o tržišnim kretanjima."
+      "link": "https://www.pfefferminzia.de/arbeit/bav-vorn-bbu-abgeschlagen-so-steht-es-um-die-betriebliche-vorsorge/",
+      "naslov": "Bavljenje profesionalnom neobazovanošću: Osiguranje za radnu nesposobnost",
+      "sazetak": "Mnogi radnici u Njemačkoj ne koriste osiguranje od radne nesposobnosti (BU). Manji postotak koristi ovo osiguranje, što ukazuje na neprepoznat potencijal u zaštiti vlastitih sredstava.",
+      "zastoVazno": "Važno je da ljudi shvate prednosti osiguranja od radne nesposobnosti, jer može pomoći u očuvanju finansijske stabilnosti u slučaju nepredviđenih situacija."
     },
     {
-      "id": "2026-07-26-4",
-      "datum": "2026-07-22",
-      "kategorija": "Penzija",
-      "izvor": "VWheute",
-      "link": "https://versicherungswirtschaft-heute.de/unternehmen-und-management/2026-07-23/referentenentwurf-zur-fruhstartrente-finanzministerium-schafft-ausnahmeregelung-fur-lebensversicherer/",
-      "naslov": "Novi zakoni o prilagođenoj privatnoj penziji za decu",
-      "sazetak": "Od 2027. godine, država će mesečno doprinositi deset evra za svako dete starije od šest godina kako bi osigurala sredstva za njihovu penziju. Ovaj novi zakon predstavlja značajan korak ka poboljšanju penzijskih šema.",
-      "zastoVazno": "Ovo je važno za roditelje koji planiraju budućnost svoje dece i žele osigurati im finansijsku stabilnost u starosti."
-    },
-    {
-      "id": "2026-07-26-5",
-      "datum": "2026-07-24",
-      "kategorija": "Penzija",
+      "id": "2026-07-29-3",
+      "datum": "2026-07-28",
+      "kategorija": "Zdravstveno",
       "izvor": "Pfefferminzia",
-      "link": "https://www.pfefferminzia.de/vorsorge/frauen-und-maenner-vorsorge-schere-oeffnet-sich-weiter/",
-      "naslov": "Žene i muškarci: Razlike u privatnoj penziji se šire",
-      "sazetak": "Istraživanje pokazuje da se razlika između muškaraca i žena u privatnoj penziji nastavlja povećavati. Dok muškarci poboljšavaju svoje strategije štednje, sve više žena ne štedi za starost.",
-      "zastoVazno": "Ove informacije su važne za žene koje se suočavaju s rizikom od nesigurne penzije i koje bi trebale razmisliti o svojim budućim finansijskim planovima."
+      "link": "https://www.pfefferminzia.de/gesundheit/offener-hilfsmittelkatalog-oft-nicht-so-offen-wie-man-denkt/",
+      "naslov": "Zdravstvena osiguranja u Njemačkoj i troškovi medicinskih pomagala",
+      "sazetak": "Korisnici zdravstvenih usluga često se suočavaju s nejasnoćama oko troškova medicinskih pomagala koji nisu uvijek pokriveni osiguranjem. Osiguranje može razlikovati između usluga koje pokriva i onih koje ne pokriva.",
+      "zastoVazno": "Razumijevanje ovih informacija može pomoći ljudima da izbjegnu neočekivane troškove i planiraju finansijski za kupovinu potrebnih pomagala."
     }
   ]
 }

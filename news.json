@@ -1,35 +1,35 @@
 {
-  "azurirano": "2026-07-29T05:00:29.743Z",
+  "azurirano": "2026-08-01T05:00:28.878Z",
   "vijesti": [
     {
-      "id": "2026-07-29-1",
-      "datum": "2026-07-28",
+      "id": "2026-08-01-1",
+      "datum": "2026-07-31",
       "kategorija": "Zdravstveno",
       "izvor": "Pfefferminzia",
-      "link": "https://www.pfefferminzia.de/gesundheit/wenn-die-rueckkehr-von-pkv-in-die-gkv-schiefgeht/",
-      "naslov": "Vraćanje iz privatnog u zakonsko zdravstveno osiguranje može biti teško",
-      "sazetak": "Osobe koje žele preći iz privatnog zdravstvenog osiguranja (PKV) u zakonsko (GKV) moraju obratiti pažnju na pravilnu procedure. Ako ne pruže potrebne dokaze ili to učine prekasno, mogu izgubiti važeći PKV ugovor.",
-      "zastoVazno": "Ova informacija je važna za sve one koji razmišljaju o promjeni zdravstvenog osiguranja, jer može utjecati na njihovu pokrivenost i troškove liječenja."
+      "link": "https://www.pfefferminzia.de/gesundheit/trotz-gkv-reform-mehrheit-rechnet-mit-hoeheren-beitraegen/",
+      "naslov": "Većina očekuje poskupljenje zdravstvenog osiguranja ove godine",
+      "sazetak": "Prema istraživanju, 88% građana Njemačke očekuje da će troškovi zdravstvene i njege osiguranja rasti ove ili sljedeće godine. Ovo istraživanje pokazuje zabrinutost građana uprkos reformama u sistemu zdravstvenog osiguranja.",
+      "zastoVazno": "Ovo je bitno za dijasporu jer poskupljenja zdravstvenog osiguranja direktno utiču na finansijsko planiranje i pristup zdravstvenim uslugama."
     },
     {
-      "id": "2026-07-29-2",
-      "datum": "2026-07-28",
-      "kategorija": "Životno i BU",
+      "id": "2026-08-01-2",
+      "datum": "2026-07-31",
+      "kategorija": "Penzija",
       "izvor": "Pfefferminzia",
-      "link": "https://www.pfefferminzia.de/arbeit/bav-vorn-bbu-abgeschlagen-so-steht-es-um-die-betriebliche-vorsorge/",
-      "naslov": "Bavljenje profesionalnom neobazovanošću: Osiguranje za radnu nesposobnost",
-      "sazetak": "Mnogi radnici u Njemačkoj ne koriste osiguranje od radne nesposobnosti (BU). Manji postotak koristi ovo osiguranje, što ukazuje na neprepoznat potencijal u zaštiti vlastitih sredstava.",
-      "zastoVazno": "Važno je da ljudi shvate prednosti osiguranja od radne nesposobnosti, jer može pomoći u očuvanju finansijske stabilnosti u slučaju nepredviđenih situacija."
+      "link": "https://www.pfefferminzia.de/vorsorge/deutsche-verlassen-sich-zu-sehr-auf-gesetzliche-rente/",
+      "naslov": "Njemački građani se previše oslanjaju na zakonske penzije",
+      "sazetak": "Istraživanje pokazuje da se 78% radnih građana u Njemačkoj oslanja na zakonsku penziju, dok mnogi ne razmatraju dodatne opcije kao privatne penzije. To može dovesti do problema u budućnosti kada penzije ne budu dovoljne.",
+      "zastoVazno": "Razumijevanje ovog trenda je ključno za Bosance i Hrvate u Njemačkoj da pravilno planiraju svoju penziju i izbjegnu neugodna iznenađenja."
     },
     {
-      "id": "2026-07-29-3",
-      "datum": "2026-07-28",
-      "kategorija": "Zdravstveno",
+      "id": "2026-08-01-3",
+      "datum": "2026-07-30",
+      "kategorija": "Nekretnine",
       "izvor": "Pfefferminzia",
-      "link": "https://www.pfefferminzia.de/gesundheit/offener-hilfsmittelkatalog-oft-nicht-so-offen-wie-man-denkt/",
-      "naslov": "Zdravstvena osiguranja u Njemačkoj i troškovi medicinskih pomagala",
-      "sazetak": "Korisnici zdravstvenih usluga često se suočavaju s nejasnoćama oko troškova medicinskih pomagala koji nisu uvijek pokriveni osiguranjem. Osiguranje može razlikovati između usluga koje pokriva i onih koje ne pokriva.",
-      "zastoVazno": "Razumijevanje ovih informacija može pomoći ljudima da izbjegnu neočekivane troškove i planiraju finansijski za kupovinu potrebnih pomagala."
+      "link": "https://www.pfefferminzia.de/zuhause/versicherer-melden-weniger-blitze-aber-teurere-schaeden/",
+      "naslov": "Osiguravači prijavljuju manje gromova, ali skuplje štete",
+      "sazetak": "U 2025. godini gromovi su nanijeli manje štete nego prethodne, ali su pojedinačni slučajevi postali skuplji za osiguravače. Iako je ukupan broj šteta pao, troškovi su znatno porasli.",
+      "zastoVazno": "Za naše ljude u Njemačkoj, ovo sugerira da bi kroz osiguranje trebalo bolje planirati pokriće za prirodne nepogode."
     }
   ]
 }

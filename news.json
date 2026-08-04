@@ -1,35 +1,35 @@
 {
-  "azurirano": "2026-08-01T05:00:28.878Z",
+  "azurirano": "2026-08-04T05:00:30.133Z",
   "vijesti": [
     {
-      "id": "2026-08-01-1",
-      "datum": "2026-07-31",
+      "id": "2026-08-04-1",
+      "datum": "2026-08-03",
       "kategorija": "Zdravstveno",
       "izvor": "Pfefferminzia",
-      "link": "https://www.pfefferminzia.de/gesundheit/trotz-gkv-reform-mehrheit-rechnet-mit-hoeheren-beitraegen/",
-      "naslov": "Većina očekuje poskupljenje zdravstvenog osiguranja ove godine",
-      "sazetak": "Prema istraživanju, 88% građana Njemačke očekuje da će troškovi zdravstvene i njege osiguranja rasti ove ili sljedeće godine. Ovo istraživanje pokazuje zabrinutost građana uprkos reformama u sistemu zdravstvenog osiguranja.",
-      "zastoVazno": "Ovo je bitno za dijasporu jer poskupljenja zdravstvenog osiguranja direktno utiču na finansijsko planiranje i pristup zdravstvenim uslugama."
+      "link": "https://www.pfefferminzia.de/gesundheit/zahl-der-stressdiagnosen-erreicht-neuen-hoechststand/",
+      "naslov": "U Njemačkoj raste broj slučajeva stresa među zaposlenima",
+      "sazetak": "Broj dijagnoza stresa među zaposlenima u Njemačkoj dosegao je novi vrhunac. Podaci pokazuju da je u 2025. godini bilo skoro 119 bolovanja na 100 osiguranika zbog stresa, što je znatan porast u odnosu na prethodne godine.",
+      "zastoVazno": "Ova informacija je važna za dijasporu jer ukazuje na sve veći pritisak na radnike u Njemačkoj, što može utjecati na njihov pristup zdravstvenom osiguranju i profesionalnoj pomoći."
     },
     {
-      "id": "2026-08-01-2",
-      "datum": "2026-07-31",
-      "kategorija": "Penzija",
+      "id": "2026-08-04-2",
+      "datum": "2026-08-03",
+      "kategorija": "Auto osiguranje",
       "izvor": "Pfefferminzia",
-      "link": "https://www.pfefferminzia.de/vorsorge/deutsche-verlassen-sich-zu-sehr-auf-gesetzliche-rente/",
-      "naslov": "Njemački građani se previše oslanjaju na zakonske penzije",
-      "sazetak": "Istraživanje pokazuje da se 78% radnih građana u Njemačkoj oslanja na zakonsku penziju, dok mnogi ne razmatraju dodatne opcije kao privatne penzije. To može dovesti do problema u budućnosti kada penzije ne budu dovoljne.",
-      "zastoVazno": "Razumijevanje ovog trenda je ključno za Bosance i Hrvate u Njemačkoj da pravilno planiraju svoju penziju i izbjegnu neugodna iznenađenja."
+      "link": "https://www.pfefferminzia.de/mobilitaet/diese-kfz-versicherer-ueberzeugen-ihre-kunden/",
+      "naslov": "Koji KFZ osiguravači su omiljeni među korisnicima u Njemačkoj?",
+      "sazetak": "Iako su cijene osiguranja rasle, korisnici i dalje dobro ocjenjuju KFZ osiguravače. Najnovija anketa pokazuje da filijali i direktni osiguravači imaju visoke ocjene zadovoljstva.",
+      "zastoVazno": "Razumijevanje koje osiguranje je dobro može pomoći našim ljudima da donesu prave odluke pri izboru automobilske osiguranja, posebno u svjetlu poskupljenja."
     },
     {
-      "id": "2026-08-01-3",
-      "datum": "2026-07-30",
-      "kategorija": "Nekretnine",
+      "id": "2026-08-04-3",
+      "datum": "2026-08-03",
+      "kategorija": "Opšte",
       "izvor": "Pfefferminzia",
-      "link": "https://www.pfefferminzia.de/zuhause/versicherer-melden-weniger-blitze-aber-teurere-schaeden/",
-      "naslov": "Osiguravači prijavljuju manje gromova, ali skuplje štete",
-      "sazetak": "U 2025. godini gromovi su nanijeli manje štete nego prethodne, ali su pojedinačni slučajevi postali skuplji za osiguravače. Iako je ukupan broj šteta pao, troškovi su znatno porasli.",
-      "zastoVazno": "Za naše ljude u Njemačkoj, ovo sugerira da bi kroz osiguranje trebalo bolje planirati pokriće za prirodne nepogode."
+      "link": "https://www.pfefferminzia.de/branche/die-unterschaetzte-klausel-in-der-unfallversicherung/",
+      "naslov": "Bitna klauzula u osiguranju od nezgode koja se često zanemaruje",
+      "sazetak": "U osiguranju od nezgode jedan važan detalj se često ne spominje, a to je utjecaj postojećih bolesti na isplatu osiguranja. Mnogi ne znaju da ova klauzula može značajno utjecati na iznos koji će primiti u slučaju nezgode.",
+      "zastoVazno": "Poznavanje ove klauzule može pomoći osiguranicima da bolje razumeju svoja prava i obaveze, što je ključno za finansijsku zaštitu u slučaju nezgode."
     }
   ]
 }

@@ -1,35 +1,45 @@
 {
-  "azurirano": "2026-08-04T05:00:30.133Z",
+  "azurirano": "2026-08-07T05:00:33.659Z",
   "vijesti": [
     {
-      "id": "2026-08-04-1",
-      "datum": "2026-08-03",
-      "kategorija": "Zdravstveno",
+      "id": "2026-08-07-1",
+      "datum": "2026-08-06",
+      "kategorija": "Nekretnine",
       "izvor": "Pfefferminzia",
-      "link": "https://www.pfefferminzia.de/gesundheit/zahl-der-stressdiagnosen-erreicht-neuen-hoechststand/",
-      "naslov": "U Njemačkoj raste broj slučajeva stresa među zaposlenima",
-      "sazetak": "Broj dijagnoza stresa među zaposlenima u Njemačkoj dosegao je novi vrhunac. Podaci pokazuju da je u 2025. godini bilo skoro 119 bolovanja na 100 osiguranika zbog stresa, što je znatan porast u odnosu na prethodne godine.",
-      "zastoVazno": "Ova informacija je važna za dijasporu jer ukazuje na sve veći pritisak na radnike u Njemačkoj, što može utjecati na njihov pristup zdravstvenom osiguranju i profesionalnoj pomoći."
+      "link": "https://www.pfefferminzia.de/zuhause/hausratversicherung-wohnort-entscheidet-ueber-den-beitrag/",
+      "naslov": "Osiguranje domaćinstava: Kako vaša lokacija utiče na cijenu",
+      "sazetak": "Istraživanje je pokazalo da cijena osiguranja domaćinstava zavisi od regionalnog rizika od provale. To znači da ljudi u različitim dijelovima Njemačke plaćaju različite premije za zaštitu od provale, požara i štete od vode.",
+      "zastoVazno": "Za naše ljude u Njemačkoj, razumijevanje kako njihova lokacija utiče na cijenu osiguranja može pomoći pri odabiru povoljnije polise."
     },
     {
-      "id": "2026-08-04-2",
-      "datum": "2026-08-03",
-      "kategorija": "Auto osiguranje",
+      "id": "2026-08-07-2",
+      "datum": "2026-08-06",
+      "kategorija": "Životno i BU",
       "izvor": "Pfefferminzia",
-      "link": "https://www.pfefferminzia.de/mobilitaet/diese-kfz-versicherer-ueberzeugen-ihre-kunden/",
-      "naslov": "Koji KFZ osiguravači su omiljeni među korisnicima u Njemačkoj?",
-      "sazetak": "Iako su cijene osiguranja rasle, korisnici i dalje dobro ocjenjuju KFZ osiguravače. Najnovija anketa pokazuje da filijali i direktni osiguravači imaju visoke ocjene zadovoljstva.",
-      "zastoVazno": "Razumijevanje koje osiguranje je dobro može pomoći našim ljudima da donesu prave odluke pri izboru automobilske osiguranja, posebno u svjetlu poskupljenja."
+      "link": "https://www.pfefferminzia.de/gesundheit/teilweise-krankschreibung-kommt-nicht-gut-an/",
+      "naslov": "Kako dijeljenje radnih dana utiče na radnu nesposobnost",
+      "sazetak": "Predložena reforma u oblasti zdravstva nudi opciju djelomične radne nesposobnosti, gdje zaposleni mogu raditi smanjenim radnim vremenom tokom bolesti. Ipak, mnogi poslodavci don't smatraju ovu ideju korisnom.",
+      "zastoVazno": "Ova informacija može biti bitna za naše sugrađane koji se suočavaju sa zdravstvenim problemima, jer bi im ovo moglo omogućiti dalju finansijsku podršku tokom oporavka."
     },
     {
-      "id": "2026-08-04-3",
-      "datum": "2026-08-03",
+      "id": "2026-08-07-3",
+      "datum": "2026-08-06",
       "kategorija": "Opšte",
       "izvor": "Pfefferminzia",
-      "link": "https://www.pfefferminzia.de/branche/die-unterschaetzte-klausel-in-der-unfallversicherung/",
-      "naslov": "Bitna klauzula u osiguranju od nezgode koja se često zanemaruje",
-      "sazetak": "U osiguranju od nezgode jedan važan detalj se često ne spominje, a to je utjecaj postojećih bolesti na isplatu osiguranja. Mnogi ne znaju da ova klauzula može značajno utjecati na iznos koji će primiti u slučaju nezgode.",
-      "zastoVazno": "Poznavanje ove klauzule može pomoći osiguranicima da bolje razumeju svoja prava i obaveze, što je ključno za finansijsku zaštitu u slučaju nezgode."
+      "link": "https://www.pfefferminzia.de/branche/das-sind-die-besten-versicherer-fuer-familien/",
+      "naslov": "Familije biraju najpovoljnije osiguratelje",
+      "sazetak": "Prema studiji, Huk-Coburg je osiguratelj koji porodice najviše hvale zbog dobrih iskustava. To može pomoći potrošačima da se lakše odluče prilikom odabira osiguravajućeg društva.",
+      "zastoVazno": "Za naše ljude koji su zabrinuti za svoje porodice, informacioni resursi o pouzdanim osigurateljima su od ključne važnosti pri odabiru pravog osiguranja."
+    },
+    {
+      "id": "2026-08-07-4",
+      "datum": "2026-08-06",
+      "kategorija": "Životno i BU",
+      "izvor": "Pfefferminzia",
+      "link": "https://www.pfefferminzia.de/vorsorge/risikoleben-was-produkt-und-beratung-leisten-muessen/",
+      "naslov": "Rizik osiguranja života: Šta klijenti trebaju znati",
+      "sazetak": "Ovaj članak istražuje kako se osiguranje života prilagođava potrebama klijenata u nestabilnim vremenima. Prikazane su ključne informacije koje bi svaki potrošač trebao znati pri odabiru polise.",
+      "zastoVazno": "Za naše ljude koji planiraju budućnost, razumijevanje rizika i mogućnosti osiguranja života može značiti sigurniju finansijsku budućnost."
     }
   ]
 }

@@ -1,45 +1,45 @@
 {
-  "azurirano": "2026-08-07T05:00:33.659Z",
+  "azurirano": "2026-08-10T05:00:57.822Z",
   "vijesti": [
     {
-      "id": "2026-08-07-1",
+      "id": "2026-08-10-1",
+      "datum": "2026-08-07",
+      "kategorija": "Auto osiguranje",
+      "izvor": "Pfefferminzia",
+      "link": "https://www.pfefferminzia.de/mobilitaet/urteil-kfz-haftpflicht-darf-mietwagenkosten-nicht-druecken/",
+      "naslov": "KFZ-Haftpflicht mora pokriti troškove najma automobila",
+      "sazetak": "Jedna presuda je odlučila da osiguranje odgovornosti iz saobraćaja ne može smanjiti troškove najma automobila. Ova presuda dolazi nakon slučaja u kojem je žena morala iznajmiti auto zbog popravke nakon nesreće.",
+      "zastoVazno": "Ova odluka je značajna za sve vozače, jer osiguranje treba pokriti sve razumne troškove vezane uz nesreću, uključujući i troškove najma vozila."
+    },
+    {
+      "id": "2026-08-10-2",
       "datum": "2026-08-06",
       "kategorija": "Nekretnine",
       "izvor": "Pfefferminzia",
       "link": "https://www.pfefferminzia.de/zuhause/hausratversicherung-wohnort-entscheidet-ueber-den-beitrag/",
-      "naslov": "Osiguranje domaćinstava: Kako vaša lokacija utiče na cijenu",
-      "sazetak": "Istraživanje je pokazalo da cijena osiguranja domaćinstava zavisi od regionalnog rizika od provale. To znači da ljudi u različitim dijelovima Njemačke plaćaju različite premije za zaštitu od provale, požara i štete od vode.",
-      "zastoVazno": "Za naše ljude u Njemačkoj, razumijevanje kako njihova lokacija utiče na cijenu osiguranja može pomoći pri odabiru povoljnije polise."
+      "naslov": "Kako lokalitet utiče na cijenu osiguranja domaćinstva",
+      "sazetak": "Cijena osiguranja domaćinstva ovisi o mjestu stanovanja, kako pokazuje nova studija. Na cijenu utiče i lokalni rizik od provale, požara ili poplave.",
+      "zastoVazno": "Za naše ljude u Njemačkoj važno je razumjeti faktore koji utiču na cijene osiguranja kako bi mogli efikasnije planirati svoj budžet."
     },
     {
-      "id": "2026-08-07-2",
-      "datum": "2026-08-06",
-      "kategorija": "Životno i BU",
-      "izvor": "Pfefferminzia",
-      "link": "https://www.pfefferminzia.de/gesundheit/teilweise-krankschreibung-kommt-nicht-gut-an/",
-      "naslov": "Kako dijeljenje radnih dana utiče na radnu nesposobnost",
-      "sazetak": "Predložena reforma u oblasti zdravstva nudi opciju djelomične radne nesposobnosti, gdje zaposleni mogu raditi smanjenim radnim vremenom tokom bolesti. Ipak, mnogi poslodavci don't smatraju ovu ideju korisnom.",
-      "zastoVazno": "Ova informacija može biti bitna za naše sugrađane koji se suočavaju sa zdravstvenim problemima, jer bi im ovo moglo omogućiti dalju finansijsku podršku tokom oporavka."
-    },
-    {
-      "id": "2026-08-07-3",
+      "id": "2026-08-10-3",
       "datum": "2026-08-06",
       "kategorija": "Opšte",
-      "izvor": "Pfefferminzia",
-      "link": "https://www.pfefferminzia.de/branche/das-sind-die-besten-versicherer-fuer-familien/",
-      "naslov": "Familije biraju najpovoljnije osiguratelje",
-      "sazetak": "Prema studiji, Huk-Coburg je osiguratelj koji porodice najviše hvale zbog dobrih iskustava. To može pomoći potrošačima da se lakše odluče prilikom odabira osiguravajućeg društva.",
-      "zastoVazno": "Za naše ljude koji su zabrinuti za svoje porodice, informacioni resursi o pouzdanim osigurateljima su od ključne važnosti pri odabiru pravog osiguranja."
+      "izvor": "VWheute",
+      "link": "https://versicherungswirtschaft-heute.de/unternehmen-und-management/2026-08-07/starkes-lebensgeschaeft-faengt-unwetterschaeden-ab-generali-steigert-gewinn-zweistellig/",
+      "naslov": "Povišene cijene osiguranja zbog prirodnih katastrofa",
+      "sazetak": "Velike osiguravajuće kuće poput Generali su suočene s povišenim troškovima zbog prirodnih katastrofa. To je dovelo do povećanja premija osiguranja.",
+      "zastoVazno": "Ova informacija je bitna za sve koji razmišljaju o osiguranju, kako bi bili svjesni da cijene mogu rasti zbog klimatskih promjena i prirodnih katastrofa."
     },
     {
-      "id": "2026-08-07-4",
+      "id": "2026-08-10-4",
       "datum": "2026-08-06",
-      "kategorija": "Životno i BU",
+      "kategorija": "Zdravstveno",
       "izvor": "Pfefferminzia",
-      "link": "https://www.pfefferminzia.de/vorsorge/risikoleben-was-produkt-und-beratung-leisten-muessen/",
-      "naslov": "Rizik osiguranja života: Šta klijenti trebaju znati",
-      "sazetak": "Ovaj članak istražuje kako se osiguranje života prilagođava potrebama klijenata u nestabilnim vremenima. Prikazane su ključne informacije koje bi svaki potrošač trebao znati pri odabiru polise.",
-      "zastoVazno": "Za naše ljude koji planiraju budućnost, razumijevanje rizika i mogućnosti osiguranja života može značiti sigurniju finansijsku budućnost."
+      "link": "https://www.pfefferminzia.de/gesundheit/teilweise-krankschreibung-kommt-nicht-gut-an/",
+      "naslov": "Djelomična bolest i osiguranje: Poslodavci skeptični",
+      "sazetak": "Novi prijedlog o djelomičnoj bolestu u okviru zdravstvene reforme naišao je na otpor kod poslodavaca. Većina smatra da to ne bi bilo korisno.",
+      "zastoVazno": "Ova tema je bitna za radnike koji bi mogli biti pogođeni promjenama u pravilima osiguranja i mogućnostima rada tokom bolesti."
     }
   ]
 }

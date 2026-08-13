@@ -1,45 +1,45 @@
 {
-  "azurirano": "2026-08-10T05:00:57.822Z",
+  "azurirano": "2026-08-13T05:00:35.718Z",
   "vijesti": [
     {
-      "id": "2026-08-10-1",
-      "datum": "2026-08-07",
-      "kategorija": "Auto osiguranje",
+      "id": "2026-08-13-1",
+      "datum": "2026-08-12",
+      "kategorija": "Penzija",
       "izvor": "Pfefferminzia",
-      "link": "https://www.pfefferminzia.de/mobilitaet/urteil-kfz-haftpflicht-darf-mietwagenkosten-nicht-druecken/",
-      "naslov": "KFZ-Haftpflicht mora pokriti troškove najma automobila",
-      "sazetak": "Jedna presuda je odlučila da osiguranje odgovornosti iz saobraćaja ne može smanjiti troškove najma automobila. Ova presuda dolazi nakon slučaja u kojem je žena morala iznajmiti auto zbog popravke nakon nesreće.",
-      "zastoVazno": "Ova odluka je značajna za sve vozače, jer osiguranje treba pokriti sve razumne troškove vezane uz nesreću, uključujući i troškove najma vozila."
+      "link": "https://www.pfefferminzia.de/vorsorge/kabinett-beschliesst-fruehstartrente/",
+      "naslov": "Kabinett odobrava novu Frühstartrente za roditelje sa djecom",
+      "sazetak": "Njemačko Bundeskabinett je odobrilo zakon o Frühstartrente, koji predviđa mjesečne isplate od 10 eura za djecu između 6 i 18 godina. Ova inicijativa će pomoći porodicama da osiguraju dodatnu finansijsku podršku tokom odrastanja djece.",
+      "zastoVazno": "Ova mjera može donijeti dodatnu pomoć bosanskim i hrvatskim porodicama koje rastu u Njemačkoj, pružajući im podršku u odgoju djece."
     },
     {
-      "id": "2026-08-10-2",
-      "datum": "2026-08-06",
-      "kategorija": "Nekretnine",
-      "izvor": "Pfefferminzia",
-      "link": "https://www.pfefferminzia.de/zuhause/hausratversicherung-wohnort-entscheidet-ueber-den-beitrag/",
-      "naslov": "Kako lokalitet utiče na cijenu osiguranja domaćinstva",
-      "sazetak": "Cijena osiguranja domaćinstva ovisi o mjestu stanovanja, kako pokazuje nova studija. Na cijenu utiče i lokalni rizik od provale, požara ili poplave.",
-      "zastoVazno": "Za naše ljude u Njemačkoj važno je razumjeti faktore koji utiču na cijene osiguranja kako bi mogli efikasnije planirati svoj budžet."
+      "id": "2026-08-13-2",
+      "datum": "2026-08-10",
+      "kategorija": "Odgovornost",
+      "izvor": "VWheute",
+      "link": "https://versicherungswirtschaft-heute.de/politik-und-regulierung/2026-08-10/haftpflichtrisiko-bei-e-scootern-deutlich-gestiegen/",
+      "naslov": "Odštetni zahtjevi za E-Scootere znatno porasli",
+      "sazetak": "U Njemačkoj se povećala opasnost od štete prouzrokovane E-Scooterima, naročito kod iznajmljenih. Statistika pokazuje porast učestalosti šteta na 13 šteta po 1000 vozila u 2025. godini.",
+      "zastoVazno": "Važno je za vozače E-Scootera, posebno u gradovima, kako bi bili svjesni novih rizika i potencijalnih troškova koje mogu imati."
     },
     {
-      "id": "2026-08-10-3",
-      "datum": "2026-08-06",
+      "id": "2026-08-13-3",
+      "datum": "2026-08-11",
+      "kategorija": "Opšte",
+      "izvor": "Pfefferminzia",
+      "link": "https://www.pfefferminzia.de/zuhause/hohe-nachfrage-mehr-als-2-millionen-haustiere-abgesichert/",
+      "naslov": "Osiguranje za kućne ljubimce postaje sve popularnije",
+      "sazetak": "Tržište osiguranja za kućne ljubimce u Njemačkoj rapidno raste. Broj osiguranih kućnih ljubimaca porastao je na preko 2 miliona, što je više nego dvostruko u poslednjih pet godina.",
+      "zastoVazno": "Ova informacija može poslužiti dijaspori koja razmišlja o osiguranju svojih ljubimaca, pokazujući im benefit takve vrste osiguranja."
+    },
+    {
+      "id": "2026-08-13-4",
+      "datum": "2026-08-11",
       "kategorija": "Opšte",
       "izvor": "VWheute",
-      "link": "https://versicherungswirtschaft-heute.de/unternehmen-und-management/2026-08-07/starkes-lebensgeschaeft-faengt-unwetterschaeden-ab-generali-steigert-gewinn-zweistellig/",
-      "naslov": "Povišene cijene osiguranja zbog prirodnih katastrofa",
-      "sazetak": "Velike osiguravajuće kuće poput Generali su suočene s povišenim troškovima zbog prirodnih katastrofa. To je dovelo do povećanja premija osiguranja.",
-      "zastoVazno": "Ova informacija je bitna za sve koji razmišljaju o osiguranju, kako bi bili svjesni da cijene mogu rasti zbog klimatskih promjena i prirodnih katastrofa."
-    },
-    {
-      "id": "2026-08-10-4",
-      "datum": "2026-08-06",
-      "kategorija": "Zdravstveno",
-      "izvor": "Pfefferminzia",
-      "link": "https://www.pfefferminzia.de/gesundheit/teilweise-krankschreibung-kommt-nicht-gut-an/",
-      "naslov": "Djelomična bolest i osiguranje: Poslodavci skeptični",
-      "sazetak": "Novi prijedlog o djelomičnoj bolestu u okviru zdravstvene reforme naišao je na otpor kod poslodavaca. Većina smatra da to ne bi bilo korisno.",
-      "zastoVazno": "Ova tema je bitna za radnike koji bi mogli biti pogođeni promjenama u pravilima osiguranja i mogućnostima rada tokom bolesti."
+      "link": "https://versicherungswirtschaft-heute.de/politik-und-regulierung/2026-08-11/versicherer-zahlen-azubis-im-ersten-jahr-1-455-euro-monatlich/",
+      "naslov": "Osiguravatelji povećavaju plate za pripravnike",
+      "sazetak": "Osigurateljske kompanije u Njemačkoj su povećale plate za pripravnike za 3,9% na prosječno 1.455 eura mjesečno u prvoj godini. To predstavlja jedan od najviših rasta u ovoj oblasti.",
+      "zastoVazno": "Ova vijest je važna za mlade ljude u dijaspori koji razmišljaju o karijeri u osiguranju, jer im naglašava finansijske mogućnosti u ovoj industriji."
     }
   ]
 }

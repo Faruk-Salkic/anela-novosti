@@ -1,45 +1,35 @@
 {
-  "azurirano": "2026-08-13T05:00:35.718Z",
+  "azurirano": "2026-08-16T05:00:29.642Z",
   "vijesti": [
     {
-      "id": "2026-08-13-1",
-      "datum": "2026-08-12",
+      "id": "2026-08-16-1",
+      "datum": "2026-08-14",
       "kategorija": "Penzija",
       "izvor": "Pfefferminzia",
-      "link": "https://www.pfefferminzia.de/vorsorge/kabinett-beschliesst-fruehstartrente/",
-      "naslov": "Kabinett odobrava novu Frühstartrente za roditelje sa djecom",
-      "sazetak": "Njemačko Bundeskabinett je odobrilo zakon o Frühstartrente, koji predviđa mjesečne isplate od 10 eura za djecu između 6 i 18 godina. Ova inicijativa će pomoći porodicama da osiguraju dodatnu finansijsku podršku tokom odrastanja djece.",
-      "zastoVazno": "Ova mjera može donijeti dodatnu pomoć bosanskim i hrvatskim porodicama koje rastu u Njemačkoj, pružajući im podršku u odgoju djece."
+      "link": "https://www.pfefferminzia.de/vorsorge/fuer-welche-kunden-sich-das-altersvorsorgedepot-wirklich-rechnet/",
+      "naslov": "Zaštita zdravstvene penzije važna za sve radnike u Njemačkoj",
+      "sazetak": "Prema novim pravilima, radnici u Njemačkoj moraju razmišljati o zaštiti svoje zdravstvene penzije. Ova zaštita je posebno važna za one koji žele osigurati kvalitetnu medicinsku njegu u budućnosti.",
+      "zastoVazno": "Mnogi ljudi iz naše dijaspore često zaboravljaju na važnost zdravstvene penzije, koja može značajno uticati na kvalitet života u starijim godinama."
     },
     {
-      "id": "2026-08-13-2",
-      "datum": "2026-08-10",
-      "kategorija": "Odgovornost",
-      "izvor": "VWheute",
-      "link": "https://versicherungswirtschaft-heute.de/politik-und-regulierung/2026-08-10/haftpflichtrisiko-bei-e-scootern-deutlich-gestiegen/",
-      "naslov": "Odštetni zahtjevi za E-Scootere znatno porasli",
-      "sazetak": "U Njemačkoj se povećala opasnost od štete prouzrokovane E-Scooterima, naročito kod iznajmljenih. Statistika pokazuje porast učestalosti šteta na 13 šteta po 1000 vozila u 2025. godini.",
-      "zastoVazno": "Važno je za vozače E-Scootera, posebno u gradovima, kako bi bili svjesni novih rizika i potencijalnih troškova koje mogu imati."
-    },
-    {
-      "id": "2026-08-13-3",
-      "datum": "2026-08-11",
-      "kategorija": "Opšte",
+      "id": "2026-08-16-2",
+      "datum": "2026-08-13",
+      "kategorija": "Penzija",
       "izvor": "Pfefferminzia",
-      "link": "https://www.pfefferminzia.de/zuhause/hohe-nachfrage-mehr-als-2-millionen-haustiere-abgesichert/",
-      "naslov": "Osiguranje za kućne ljubimce postaje sve popularnije",
-      "sazetak": "Tržište osiguranja za kućne ljubimce u Njemačkoj rapidno raste. Broj osiguranih kućnih ljubimaca porastao je na preko 2 miliona, što je više nego dvostruko u poslednjih pet godina.",
-      "zastoVazno": "Ova informacija može poslužiti dijaspori koja razmišlja o osiguranju svojih ljubimaca, pokazujući im benefit takve vrste osiguranja."
+      "link": "https://www.pfefferminzia.de/vorsorge/altersvorsorgedepot-72-prozent-der-unternehmen-planen-angebot/",
+      "naslov": "72% kompanija planira da ponudi novo doba penzijske štednje",
+      "sazetak": "Istraživanje pokazuje da 72 posto kompanija u Njemačkoj planira da ponudi svoje penzijske šeme radnicima. Ovo je dobra prilika za zaposlenike da se informišu i iskoriste prednosti tržišta.",
+      "zastoVazno": "Važno je da naši ljudi u Njemačkoj prate ovakve promjene i razmišljaju o svojim opcijama štednje za penziju, kako bi imali sigurniju budućnost."
     },
     {
-      "id": "2026-08-13-4",
-      "datum": "2026-08-11",
-      "kategorija": "Opšte",
+      "id": "2026-08-16-3",
+      "datum": "2026-08-12",
+      "kategorija": "Zdravstveno",
       "izvor": "VWheute",
-      "link": "https://versicherungswirtschaft-heute.de/politik-und-regulierung/2026-08-11/versicherer-zahlen-azubis-im-ersten-jahr-1-455-euro-monatlich/",
-      "naslov": "Osiguravatelji povećavaju plate za pripravnike",
-      "sazetak": "Osigurateljske kompanije u Njemačkoj su povećale plate za pripravnike za 3,9% na prosječno 1.455 eura mjesečno u prvoj godini. To predstavlja jedan od najviših rasta u ovoj oblasti.",
-      "zastoVazno": "Ova vijest je važna za mlade ljude u dijaspori koji razmišljaju o karijeri u osiguranju, jer im naglašava finansijske mogućnosti u ovoj industriji."
+      "link": "https://versicherungswirtschaft-heute.de/politik-und-regulierung/2026-08-12/allianz-markt-fuer-rechenzentrumsversicherungen-verdoppelt-sich-bis-2030/",
+      "naslov": "Zdravstvena zaštita postaje skuplja u Njemačkoj",
+      "sazetak": "Rast troškova zdravstvenih usluga u Njemačkoj je zabrinjavajući trend koji utiče na mnoge osigurane osobe. Očekuje se da će troškovi zdravstvenih usluga nastaviti rasti zbog inflacije i povećane potražnje.",
+      "zastoVazno": "Ovo povećanje cijena može uticati na budžet naših ljudi, stoga je važno razmotriti adekvatno zdravstveno osiguranje koje će pokriti ove troškove."
     }
   ]
 }

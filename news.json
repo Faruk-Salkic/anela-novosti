@@ -1,35 +1,35 @@
 {
-  "azurirano": "2026-08-16T05:00:29.642Z",
+  "azurirano": "2026-08-19T05:00:30.678Z",
   "vijesti": [
     {
-      "id": "2026-08-16-1",
-      "datum": "2026-08-14",
-      "kategorija": "Penzija",
+      "id": "2026-08-19-1",
+      "datum": "2026-08-18",
+      "kategorija": "Nekretnine",
       "izvor": "Pfefferminzia",
-      "link": "https://www.pfefferminzia.de/vorsorge/fuer-welche-kunden-sich-das-altersvorsorgedepot-wirklich-rechnet/",
-      "naslov": "Zaštita zdravstvene penzije važna za sve radnike u Njemačkoj",
-      "sazetak": "Prema novim pravilima, radnici u Njemačkoj moraju razmišljati o zaštiti svoje zdravstvene penzije. Ova zaštita je posebno važna za one koji žele osigurati kvalitetnu medicinsku njegu u budućnosti.",
-      "zastoVazno": "Mnogi ljudi iz naše dijaspore često zaboravljaju na važnost zdravstvene penzije, koja može značajno uticati na kvalitet života u starijim godinama."
+      "link": "https://www.pfefferminzia.de/gewerbe/bau-schadenkosten-steigen-in-fuenf-jahren-um-ein-drittel/",
+      "naslov": "Troškovi za izgradnju rastu: štete će se povećati za trećinu",
+      "sazetak": "U narednih pet godina očekuje se povećanje troškova šteta u građevini za jedan trećinu. To će uticati na cijene osiguranja i sigurnost projekata.",
+      "zastoVazno": "Za dijasporu je važno znati da će povećanje troškova šteta uticati na cijene građevinskog i imovinskog osiguranja."
     },
     {
-      "id": "2026-08-16-2",
-      "datum": "2026-08-13",
-      "kategorija": "Penzija",
+      "id": "2026-08-19-2",
+      "datum": "2026-08-17",
+      "kategorija": "Nekretnine",
       "izvor": "Pfefferminzia",
-      "link": "https://www.pfefferminzia.de/vorsorge/altersvorsorgedepot-72-prozent-der-unternehmen-planen-angebot/",
-      "naslov": "72% kompanija planira da ponudi novo doba penzijske štednje",
-      "sazetak": "Istraživanje pokazuje da 72 posto kompanija u Njemačkoj planira da ponudi svoje penzijske šeme radnicima. Ovo je dobra prilika za zaposlenike da se informišu i iskoriste prednosti tržišta.",
-      "zastoVazno": "Važno je da naši ljudi u Njemačkoj prate ovakve promjene i razmišljaju o svojim opcijama štednje za penziju, kako bi imali sigurniju budućnost."
+      "link": "https://www.pfefferminzia.de/zuhause/waldbrandversicherung-wie-sich-waldbesitzer-wappnen/",
+      "naslov": "Kako se zaštititi od požara u šumama: Važne informacije za vlasnike",
+      "sazetak": "Kako se klima mijenja, rizik od požara u šumama raste. Vlasnici zemljišta bi trebali razmotriti osiguranje od požara kao dodatnu zaštitu.",
+      "zastoVazno": "Za naše ljude koji posjeduju zemljište u Njemačkoj, informisanje o osiguranju od požara može biti ključno za zaštitu njihove imovine."
     },
     {
-      "id": "2026-08-16-3",
-      "datum": "2026-08-12",
-      "kategorija": "Zdravstveno",
+      "id": "2026-08-19-3",
+      "datum": "2026-08-17",
+      "kategorija": "Penzija",
       "izvor": "VWheute",
-      "link": "https://versicherungswirtschaft-heute.de/politik-und-regulierung/2026-08-12/allianz-markt-fuer-rechenzentrumsversicherungen-verdoppelt-sich-bis-2030/",
-      "naslov": "Zdravstvena zaštita postaje skuplja u Njemačkoj",
-      "sazetak": "Rast troškova zdravstvenih usluga u Njemačkoj je zabrinjavajući trend koji utiče na mnoge osigurane osobe. Očekuje se da će troškovi zdravstvenih usluga nastaviti rasti zbog inflacije i povećane potražnje.",
-      "zastoVazno": "Ovo povećanje cijena može uticati na budžet naših ljudi, stoga je važno razmotriti adekvatno zdravstveno osiguranje koje će pokriti ove troškove."
+      "link": "https://versicherungswirtschaft-heute.de/koepfe-und-positionen/2026-08-17/stuttgarter-chef-bader-ueber-das-altersvorsorgedepot-gebt-es-auf-als-staat-produktanbieter-sein-wollen/",
+      "naslov": "Novi zakon o penzijama: Šta treba znati about budućnost penzija",
+      "sazetak": "Novi zakon koji se razmatra mogao bi značajno promijeniti sistem penzija u Njemačkoj. Dodaje fleksibilnost i opcije za planiranje penzija.",
+      "zastoVazno": "Razumijevanje promjena u zakonu o penzijama važno je za sve koji planiraju svoju budućnost i sigurnost u starijoj dobi."
     }
   ]
 }

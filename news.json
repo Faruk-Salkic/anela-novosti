@@ -1,35 +1,35 @@
 {
-  "azurirano": "2026-08-19T05:00:30.678Z",
+  "azurirano": "2026-08-22T05:00:29.043Z",
   "vijesti": [
     {
-      "id": "2026-08-19-1",
-      "datum": "2026-08-18",
-      "kategorija": "Nekretnine",
+      "id": "2026-08-22-1",
+      "datum": "2026-08-20",
+      "kategorija": "Auto osiguranje",
       "izvor": "Pfefferminzia",
-      "link": "https://www.pfefferminzia.de/gewerbe/bau-schadenkosten-steigen-in-fuenf-jahren-um-ein-drittel/",
-      "naslov": "Troškovi za izgradnju rastu: štete će se povećati za trećinu",
-      "sazetak": "U narednih pet godina očekuje se povećanje troškova šteta u građevini za jedan trećinu. To će uticati na cijene osiguranja i sigurnost projekata.",
-      "zastoVazno": "Za dijasporu je važno znati da će povećanje troškova šteta uticati na cijene građevinskog i imovinskog osiguranja."
+      "link": "https://www.pfefferminzia.de/mobilitaet/kfz-versicherung-bleibt-2026-in-den-schwarzen-zahlen/",
+      "naslov": "Kfz-osiguranje 2026: Stabilni trendovi i smanjenje cijena",
+      "sazetak": "Kfz-osiguranje se oporavlja nakon godina poskupljenja. Nova analiza pokazuje da su cijene osiguranja za automobile konačno počele opadati, pružajući olakšanje vozačima u Njemačkoj. Očekuje se da će se trend stabilizirati i zadržati u granicama pozitivnog rasta.",
+      "zastoVazno": "Ova vijest je važna za vozače u Njemačkoj koji traže načine da smanje svoje troškove osiguranja. Smanjenje cijena može značajno olakšati budžet i omogućiti bolji izbor polica osiguranja."
     },
     {
-      "id": "2026-08-19-2",
-      "datum": "2026-08-17",
-      "kategorija": "Nekretnine",
+      "id": "2026-08-22-2",
+      "datum": "2026-08-21",
+      "kategorija": "Životno i BU",
       "izvor": "Pfefferminzia",
-      "link": "https://www.pfefferminzia.de/zuhause/waldbrandversicherung-wie-sich-waldbesitzer-wappnen/",
-      "naslov": "Kako se zaštititi od požara u šumama: Važne informacije za vlasnike",
-      "sazetak": "Kako se klima mijenja, rizik od požara u šumama raste. Vlasnici zemljišta bi trebali razmotriti osiguranje od požara kao dodatnu zaštitu.",
-      "zastoVazno": "Za naše ljude koji posjeduju zemljište u Njemačkoj, informisanje o osiguranju od požara može biti ključno za zaštitu njihove imovine."
+      "link": "https://www.pfefferminzia.de/branche/was-der-spd-plan-fuer-die-bu-versicherung-in-der-praxis-bedeutet/",
+      "naslov": "BU-osiguranje: Nova pravila za preživjele od raka",
+      "sazetak": "SPD je predložio nova pravila koja bi olakšala preživjelima od raka da se osiguraju. Preporučuje se da preživjeli ne moraju iznositi svoje stanje nakon pet godina, što će imati uticaj na politiku BU-osiguranja.",
+      "zastoVazno": "Ova promjena je bitna za one koji su preživjeli teške bolesti, jer im omogućava lakše pristupanje zdravstvenim osiguranjima. To može pomoći mnogima da se zaštite u budućnosti."
     },
     {
-      "id": "2026-08-19-3",
-      "datum": "2026-08-17",
-      "kategorija": "Penzija",
-      "izvor": "VWheute",
-      "link": "https://versicherungswirtschaft-heute.de/koepfe-und-positionen/2026-08-17/stuttgarter-chef-bader-ueber-das-altersvorsorgedepot-gebt-es-auf-als-staat-produktanbieter-sein-wollen/",
-      "naslov": "Novi zakon o penzijama: Šta treba znati about budućnost penzija",
-      "sazetak": "Novi zakon koji se razmatra mogao bi značajno promijeniti sistem penzija u Njemačkoj. Dodaje fleksibilnost i opcije za planiranje penzija.",
-      "zastoVazno": "Razumijevanje promjena u zakonu o penzijama važno je za sve koji planiraju svoju budućnost i sigurnost u starijoj dobi."
+      "id": "2026-08-22-3",
+      "datum": "2026-08-21",
+      "kategorija": "Zdravstveno",
+      "izvor": "Pfefferminzia",
+      "link": "https://www.pfefferminzia.de/vorsorge/pflegereform-pkv-verband-wettert-ueber-klingbeil/",
+      "naslov": "Reformu zdravstvenog osiguranja čeka veliko preispitivanje",
+      "sazetak": "Njemački model zdravstvenog osiguranja suočava se s krizom i potrebom za реформама. Ministar zdravlja najavio je promjene koje će uticati na sve građane, posebno na penzionere i pacijente.",
+      "zastoVazno": "Važno je da naši ljudi budu informisani o nadolazećim promjenama kako bi mogli planirati svoje zdravstveno osiguranje i razumjeli na koji način će to utjecati na njih."
     }
   ]
 }

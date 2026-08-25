@@ -1,35 +1,45 @@
 {
-  "azurirano": "2026-08-22T05:00:29.043Z",
+  "azurirano": "2026-08-25T05:00:33.979Z",
   "vijesti": [
     {
-      "id": "2026-08-22-1",
-      "datum": "2026-08-20",
+      "id": "2026-08-25-1",
+      "datum": "2026-08-25",
+      "kategorija": "Odgovornost",
+      "izvor": "VWheute",
+      "link": "https://versicherungswirtschaft-heute.de/schlaglicht/2026-08-25/huk-coburg-ueberholt-die-allianz-auch-bei-den-hausrat-und-haftpflichtvertraegen/",
+      "naslov": "Huk-Coburg postaje lider u osiguranju domaćinstava i odgovornosti",
+      "sazetak": "Osiguravatelj Huk-Coburg je prešao najvažnu granicu u domaćem osiguranju, prelazeći Allianz po broju ugovora. Sada imaju više od 15 miliona osiguranih vozila, dok se Allianz približava deset miliona. Ovo pokazuje rastuću konkurenciju na tržištu.",
+      "zastoVazno": "Ova vijest je važna za naše ljude jer ukazuje na promjene koje mogu utjecati na cijene i uslove osiguranja domaćinstava i automobila u Njemačkoj."
+    },
+    {
+      "id": "2026-08-25-2",
+      "datum": "2026-08-24",
       "kategorija": "Auto osiguranje",
-      "izvor": "Pfefferminzia",
-      "link": "https://www.pfefferminzia.de/mobilitaet/kfz-versicherung-bleibt-2026-in-den-schwarzen-zahlen/",
-      "naslov": "Kfz-osiguranje 2026: Stabilni trendovi i smanjenje cijena",
-      "sazetak": "Kfz-osiguranje se oporavlja nakon godina poskupljenja. Nova analiza pokazuje da su cijene osiguranja za automobile konačno počele opadati, pružajući olakšanje vozačima u Njemačkoj. Očekuje se da će se trend stabilizirati i zadržati u granicama pozitivnog rasta.",
-      "zastoVazno": "Ova vijest je važna za vozače u Njemačkoj koji traže načine da smanje svoje troškove osiguranja. Smanjenje cijena može značajno olakšati budžet i omogućiti bolji izbor polica osiguranja."
+      "izvor": "VWheute",
+      "link": "https://versicherungswirtschaft-heute.de/maerkte-und-vertrieb/2026-08-24/gdv-fordert-verbindliche-sicherheitsregeln-bei-micro-cars/",
+      "naslov": "GDV traži pravila sigurnosti za micro-auta",
+      "sazetak": "Njemačka automobilska industrija prijavljuje rast popularnosti micro-automobila, a osiguravatelji traže obavezna sigurnosna pravila za njih. Na kraju 2025. godine, 46.000 ovih vozila je imalo osiguranje.",
+      "zastoVazno": "Ovo je važno jer se micro-automobili sve više koriste, a sigurnosne mjere mogu osigurati zaštitu vozača i pješaka."
     },
     {
-      "id": "2026-08-22-2",
-      "datum": "2026-08-21",
-      "kategorija": "Životno i BU",
+      "id": "2026-08-25-3",
+      "datum": "2026-08-24",
+      "kategorija": "Penzija",
       "izvor": "Pfefferminzia",
-      "link": "https://www.pfefferminzia.de/branche/was-der-spd-plan-fuer-die-bu-versicherung-in-der-praxis-bedeutet/",
-      "naslov": "BU-osiguranje: Nova pravila za preživjele od raka",
-      "sazetak": "SPD je predložio nova pravila koja bi olakšala preživjelima od raka da se osiguraju. Preporučuje se da preživjeli ne moraju iznositi svoje stanje nakon pet godina, što će imati uticaj na politiku BU-osiguranja.",
-      "zastoVazno": "Ova promjena je bitna za one koji su preživjeli teške bolesti, jer im omogućava lakše pristupanje zdravstvenim osiguranjima. To može pomoći mnogima da se zaštite u budućnosti."
+      "link": "https://www.pfefferminzia.de/vorsorge/linnemann-will-rentenbeitraege-fuer-pflegende-nicht-kuerzen/",
+      "naslov": "Linnemann želi zaštititi penziono osiguranje za negovatelje",
+      "sazetak": "Novi ministar zdravstva Carsten Linnemann planira zadržati penzijske doprinose za osobe koje njeguju svoje najmilije. Smatra ih ključnim za zdravstveni sistem.",
+      "zastoVazno": "Ova vijest je važna za bosansku i srpsku dijasporu jer mnogi imaju članove porodice koji pružaju njegu i ovakav pristup može značajno uticati na njihovu budućnost."
     },
     {
-      "id": "2026-08-22-3",
-      "datum": "2026-08-21",
+      "id": "2026-08-25-4",
+      "datum": "2026-08-23",
       "kategorija": "Zdravstveno",
-      "izvor": "Pfefferminzia",
-      "link": "https://www.pfefferminzia.de/vorsorge/pflegereform-pkv-verband-wettert-ueber-klingbeil/",
-      "naslov": "Reformu zdravstvenog osiguranja čeka veliko preispitivanje",
-      "sazetak": "Njemački model zdravstvenog osiguranja suočava se s krizom i potrebom za реформама. Ministar zdravlja najavio je promjene koje će uticati na sve građane, posebno na penzionere i pacijente.",
-      "zastoVazno": "Važno je da naši ljudi budu informisani o nadolazećim promjenama kako bi mogli planirati svoje zdravstveno osiguranje i razumjeli na koji način će to utjecati na njih."
+      "izvor": "VWheute",
+      "link": "https://versicherungswirtschaft-heute.de/schlaglicht/2026-08-24/debeka-chef-brahm-keine-pkv-kundenwelle-durch-gkv-reform/",
+      "naslov": "Debeka: Neće doći do talasa kupovine privatnog osiguranja",
+      "sazetak": "Predsednik Debeke, Thomas Brahm, kritizuje trenutne reforme u zdravstvu i penzijskoj zaštiti, govoreći da se ne očekuje povećan broj klijenata privatnog zdravstvenog osiguranja usljed reformi.",
+      "zastoVazno": "Ova informacija je važna za naše ljude koji razmatraju prelazak na privatno osiguranje, jer ukazuje na trenutne probleme u zdravstvu."
     }
   ]
 }

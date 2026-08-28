@@ -1,45 +1,35 @@
 {
-  "azurirano": "2026-08-25T05:00:33.979Z",
+  "azurirano": "2026-08-28T05:00:38.683Z",
   "vijesti": [
     {
-      "id": "2026-08-25-1",
+      "id": "2026-08-28-1",
       "datum": "2026-08-25",
-      "kategorija": "Odgovornost",
-      "izvor": "VWheute",
-      "link": "https://versicherungswirtschaft-heute.de/schlaglicht/2026-08-25/huk-coburg-ueberholt-die-allianz-auch-bei-den-hausrat-und-haftpflichtvertraegen/",
-      "naslov": "Huk-Coburg postaje lider u osiguranju domaćinstava i odgovornosti",
-      "sazetak": "Osiguravatelj Huk-Coburg je prešao najvažnu granicu u domaćem osiguranju, prelazeći Allianz po broju ugovora. Sada imaju više od 15 miliona osiguranih vozila, dok se Allianz približava deset miliona. Ovo pokazuje rastuću konkurenciju na tržištu.",
-      "zastoVazno": "Ova vijest je važna za naše ljude jer ukazuje na promjene koje mogu utjecati na cijene i uslove osiguranja domaćinstava i automobila u Njemačkoj."
-    },
-    {
-      "id": "2026-08-25-2",
-      "datum": "2026-08-24",
       "kategorija": "Auto osiguranje",
       "izvor": "VWheute",
-      "link": "https://versicherungswirtschaft-heute.de/maerkte-und-vertrieb/2026-08-24/gdv-fordert-verbindliche-sicherheitsregeln-bei-micro-cars/",
-      "naslov": "GDV traži pravila sigurnosti za micro-auta",
-      "sazetak": "Njemačka automobilska industrija prijavljuje rast popularnosti micro-automobila, a osiguravatelji traže obavezna sigurnosna pravila za njih. Na kraju 2025. godine, 46.000 ovih vozila je imalo osiguranje.",
-      "zastoVazno": "Ovo je važno jer se micro-automobili sve više koriste, a sigurnosne mjere mogu osigurati zaštitu vozača i pješaka."
+      "link": "https://versicherungswirtschaft-heute.de/politik-und-regulierung/2026-08-25/kfz-schaeden-unfallzahlen-sinken-reparaturen-werden-teurer/",
+      "naslov": "Kfz-štete: Broj nesreća opada, troškovi popravaka rastu",
+      "sazetak": "Iako se ukupna učestalost nesreća smanjuje, troškovi popravaka vozila u Njemačkoj rastu. U 2024. godini prosječan materijalni trošak po šteti iznosi više od 4.250 eura, što je skoro 60% više nego 2017. godine.",
+      "zastoVazno": "Viši troškovi popravaka mogu utjecati na cijene auto osiguranja, što je važno za vozače u Njemačkoj kako bi planirali budžet."
     },
     {
-      "id": "2026-08-25-3",
-      "datum": "2026-08-24",
-      "kategorija": "Penzija",
-      "izvor": "Pfefferminzia",
-      "link": "https://www.pfefferminzia.de/vorsorge/linnemann-will-rentenbeitraege-fuer-pflegende-nicht-kuerzen/",
-      "naslov": "Linnemann želi zaštititi penziono osiguranje za negovatelje",
-      "sazetak": "Novi ministar zdravstva Carsten Linnemann planira zadržati penzijske doprinose za osobe koje njeguju svoje najmilije. Smatra ih ključnim za zdravstveni sistem.",
-      "zastoVazno": "Ova vijest je važna za bosansku i srpsku dijasporu jer mnogi imaju članove porodice koji pružaju njegu i ovakav pristup može značajno uticati na njihovu budućnost."
-    },
-    {
-      "id": "2026-08-25-4",
-      "datum": "2026-08-23",
+      "id": "2026-08-28-2",
+      "datum": "2026-08-27",
       "kategorija": "Zdravstveno",
       "izvor": "VWheute",
-      "link": "https://versicherungswirtschaft-heute.de/schlaglicht/2026-08-24/debeka-chef-brahm-keine-pkv-kundenwelle-durch-gkv-reform/",
-      "naslov": "Debeka: Neće doći do talasa kupovine privatnog osiguranja",
-      "sazetak": "Predsednik Debeke, Thomas Brahm, kritizuje trenutne reforme u zdravstvu i penzijskoj zaštiti, govoreći da se ne očekuje povećan broj klijenata privatnog zdravstvenog osiguranja usljed reformi.",
-      "zastoVazno": "Ova informacija je važna za naše ljude koji razmatraju prelazak na privatno osiguranje, jer ukazuje na trenutne probleme u zdravstvu."
+      "link": "https://versicherungswirtschaft-heute.de/politik-und-regulierung/2026-08-27/ascore-private-krankenversicherung-verzeichnet-rueckgang-bei-sicherheitswerten/",
+      "naslov": "Ascore: Privatno zdravstveno osiguranje beleži pad bezbednosnih vrednosti",
+      "sazetak": "Analiza privatnog zdravstvenog osiguranja pokazuje da su četiri od 32 ocenjena osiguravajuća društva postigla najvišu ocenu. To su Signal Iduna, R+V, Universa i Württembergische, dok drugi zabeležavaju pad u bezbednosnim vrednostima za 2026. godinu.",
+      "zastoVazno": "Ova informacija je bitna za sve koji razmišljaju o privatnom zdravstvenom osiguranju, jer može pomoći u izboru najpouzdanijih ponuđača."
+    },
+    {
+      "id": "2026-08-28-3",
+      "datum": "2026-08-25",
+      "kategorija": "Penzija",
+      "izvor": "VWheute",
+      "link": "https://versicherungswirtschaft-heute.de/unternehmen-und-management/2026-08-25/bund-der-versicherten-raet-verbrauchern-von-lebensversicherung-ab/",
+      "naslov": "Bund der Versicherten savetuje potrošačima da izbegavaju životno osiguranje",
+      "sazetak": "Bund der Versicherten upozorava da kapitalizovana životna osiguranja nisu pogodna za štednju za penziju. Predlaže se da su bolje opcije ETF štedni planovi zbog nekoliko značajnih nedostataka životnog osiguranja.",
+      "zastoVazno": "Ovo je važna informacija za naše ljude koji razmišljaju o načinima štednje za penziju i traže najbolje mogućnosti."
     }
   ]
 }

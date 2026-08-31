@@ -1,35 +1,35 @@
 {
-  "azurirano": "2026-08-28T05:00:38.683Z",
+  "azurirano": "2026-08-31T05:00:30.607Z",
   "vijesti": [
     {
-      "id": "2026-08-28-1",
-      "datum": "2026-08-25",
-      "kategorija": "Auto osiguranje",
-      "izvor": "VWheute",
-      "link": "https://versicherungswirtschaft-heute.de/politik-und-regulierung/2026-08-25/kfz-schaeden-unfallzahlen-sinken-reparaturen-werden-teurer/",
-      "naslov": "Kfz-štete: Broj nesreća opada, troškovi popravaka rastu",
-      "sazetak": "Iako se ukupna učestalost nesreća smanjuje, troškovi popravaka vozila u Njemačkoj rastu. U 2024. godini prosječan materijalni trošak po šteti iznosi više od 4.250 eura, što je skoro 60% više nego 2017. godine.",
-      "zastoVazno": "Viši troškovi popravaka mogu utjecati na cijene auto osiguranja, što je važno za vozače u Njemačkoj kako bi planirali budžet."
+      "id": "2026-08-31-1",
+      "datum": "2026-08-28",
+      "kategorija": "Pravna zaštita",
+      "izvor": "Pfefferminzia",
+      "link": "https://www.pfefferminzia.de/mobilitaet/rechtsschutzversicherungen-werden-zunehmend-genutzt/",
+      "naslov": "Pravna zaštita postaje sve popularnija među građanima",
+      "sazetak": "Prema novim podacima, sve više ljudi u Njemačkoj koristi pravnu zaštitu. U 2025. godini zabilježeno je 5,1 milion zahtjeva za nadoknadu štete, a broj osiguranika stalno raste. Očekuje se da će potražnja za pravnom zaštitom rasti u budućnosti.",
+      "zastoVazno": "Ovo je bitno jer pravna zaštita može pomoći našim ljudima da se zaštite od različitih pravnih problema bez dodatnog finansijskog stresa."
     },
     {
-      "id": "2026-08-28-2",
+      "id": "2026-08-31-2",
       "datum": "2026-08-27",
       "kategorija": "Zdravstveno",
       "izvor": "VWheute",
       "link": "https://versicherungswirtschaft-heute.de/politik-und-regulierung/2026-08-27/ascore-private-krankenversicherung-verzeichnet-rueckgang-bei-sicherheitswerten/",
-      "naslov": "Ascore: Privatno zdravstveno osiguranje beleži pad bezbednosnih vrednosti",
-      "sazetak": "Analiza privatnog zdravstvenog osiguranja pokazuje da su četiri od 32 ocenjena osiguravajuća društva postigla najvišu ocenu. To su Signal Iduna, R+V, Universa i Württembergische, dok drugi zabeležavaju pad u bezbednosnim vrednostima za 2026. godinu.",
-      "zastoVazno": "Ova informacija je bitna za sve koji razmišljaju o privatnom zdravstvenom osiguranju, jer može pomoći u izboru najpouzdanijih ponuđača."
+      "naslov": "Privatna zdravstvena osiguranja gube na sigurnosti",
+      "sazetak": "Prema analizama, privatna zdravstvena osiguranja u Njemačkoj beleže pad sigurnosnih vrednosti. Od 32 proverena osiguravača, samo četiri su dobila najvišu ocenu. Ovo može uticati na dostupnost i kvalitet zdravstvenih usluga.",
+      "zastoVazno": "Za naše ljude, ovo može značiti promene u uslovima zdravstvenih usluga i osiguranja, što je važno pratiti pri odabiru adekvatne polise."
     },
     {
-      "id": "2026-08-28-3",
-      "datum": "2026-08-25",
+      "id": "2026-08-31-3",
+      "datum": "2026-08-28",
       "kategorija": "Penzija",
-      "izvor": "VWheute",
-      "link": "https://versicherungswirtschaft-heute.de/unternehmen-und-management/2026-08-25/bund-der-versicherten-raet-verbrauchern-von-lebensversicherung-ab/",
-      "naslov": "Bund der Versicherten savetuje potrošačima da izbegavaju životno osiguranje",
-      "sazetak": "Bund der Versicherten upozorava da kapitalizovana životna osiguranja nisu pogodna za štednju za penziju. Predlaže se da su bolje opcije ETF štedni planovi zbog nekoliko značajnih nedostataka životnog osiguranja.",
-      "zastoVazno": "Ovo je važna informacija za naše ljude koji razmišljaju o načinima štednje za penziju i traže najbolje mogućnosti."
+      "izvor": "Pfefferminzia",
+      "link": "https://www.pfefferminzia.de/vorsorge/die-fuenf-groessten-fehler-vor-rentenbeginn/",
+      "naslov": "Najveći greške pri odlasku u penziju",
+      "sazetak": "Mnogi ljudi prave velike greške prilikom planiranja penzije, poput nedostatka plana ili podcjenjivanja potrebnih finansijskih sredstava. Planiranje je ključno kako bi se izbegle neprijatnosti u starijoj dobi.",
+      "zastoVazno": "Ovo je važno za našu dijasporu jer pravilan plan može osigurati financijsku stabilnost u penziji."
     }
   ]
 }

@@ -1,35 +1,35 @@
 {
-  "azurirano": "2026-09-06T05:00:28.020Z",
+  "azurirano": "2026-09-09T05:00:27.858Z",
   "vijesti": [
     {
-      "id": "2026-09-06-1",
-      "datum": "2026-09-03",
-      "kategorija": "Odgovornost",
-      "izvor": "Pfefferminzia",
-      "link": "https://www.pfefferminzia.de/zuhause/bestnote-bleibt-rar-ausreisser-nach-unten-verschwinden/",
-      "naslov": "Kvalitetna privatna odgovornost i visoke ocjene osiguravatelja",
-      "sazetak": "Analiza pokazuje da se kvaliteta privatnog osiguranja odgovornosti poboljšava, posebno u donjem segmentu tržišta. Ove informacije su važne za sve koji traže pouzdana rješenja za osiguranje.",
-      "zastoVazno": "Kvalitetno osiguranje odgovornosti može pružiti sigurnost u svakodnevnom životu, pogotovo za porodice i mlade ljude."
-    },
-    {
-      "id": "2026-09-06-2",
-      "datum": "2026-09-02",
-      "kategorija": "Auto osiguranje",
-      "izvor": "VWheute",
-      "link": "https://versicherungswirtschaft-heute.de/politik-und-regulierung/2026-09-03/qualitaetsverlust-und-steigende-praemien-fuer-fahranfaenger/",
-      "naslov": "Rast cijena i izazovi za vozače u osiguranju vozila",
-      "sazetak": "Koji su uzroci rasta cijena u osiguranju vozila? Novi zakoni i promjene u obrazovnim standardima vozača mogu uticati na troškove. Važno je znati kako se ove promjene mogu odraziti na vaše premije.",
-      "zastoVazno": "Razumijevanje ovih promjena može pomoći vozačima da bolje planiraju svoje troškove osiguranja i pronađu najbolja rješenja."
-    },
-    {
-      "id": "2026-09-06-3",
-      "datum": "2026-09-04",
+      "id": "2026-09-09-1",
+      "datum": "2026-09-08",
       "kategorija": "Zdravstveno",
       "izvor": "Pfefferminzia",
-      "link": "https://www.pfefferminzia.de/gesundheit/13-sparten-krankenversicherer-im-kundenurteil/",
-      "naslov": "Istraživanje pokazuje popularnost zdravstvenih osiguravatelja u Njemačkoj",
-      "sazetak": "Istraživanje o zadovoljstvu korisnika među zdravstvenim osiguravateljima pokazuje koji su najbolji izbori za potrošače. Ovi podaci pomažu ljudima u odabiru pravog osiguravatelja.",
-      "zastoVazno": "Zdravstveno osiguranje je ključno za sve, posebno za ljude koji žive u inostranstvu i žele da budu sigurni u svoje zdravstvene usluge."
+      "link": "https://www.pfefferminzia.de/arbeit/gkv-reform-chance-fuer-die-betriebliche-krankenversicherung/",
+      "naslov": "Reforma zakona o zdravstvu vodi ka većim troškovima za osiguranike",
+      "sazetak": "Reforma zakona o zdravstvenom osiguranju donosi izmjene koje će rezultirati većim troškovima za osiguranike. Zakonodavne promjene utiču na visinu doplata i mogućnost smanjenja usluga.",
+      "zastoVazno": "Ove promjene će direktno uticati na finansijsku situaciju građana koji su osigurani u Njemačkoj, posebno onih koji koriste osnovno zdravstveno osiguranje."
+    },
+    {
+      "id": "2026-09-09-2",
+      "datum": "2026-09-08",
+      "kategorija": "Zdravstveno",
+      "izvor": "Pfefferminzia",
+      "link": "https://www.pfefferminzia.de/gesundheit/private-krankenversicherung-stabil-aber-unter-druck/",
+      "naslov": "Zdravstvena reforma: Teži uslovi za zakonsko zdravstveno osiguranje",
+      "sazetak": "Prema novim zakonima, zakonski osiguranici bi mogli očekivati povećanje doplata i duže vreme čekanja za usluge. Ove promjene uključuju i mogućnost smanjenja obima usluga.",
+      "zastoVazno": "Građani sa zakonskim zdravstvenim osiguranjem će biti direktno pogođeni povećanjem troškova, što može dovesti do otežanog pristupa zdravstvenim uslugama."
+    },
+    {
+      "id": "2026-09-09-3",
+      "datum": "2026-09-07",
+      "kategorija": "Opšte",
+      "izvor": "Pfefferminzia",
+      "link": "https://www.pfefferminzia.de/arbeit/lohnfortzahlung-kostet-arbeitgeber-fast-86-milliarden-euro/",
+      "naslov": "Lohnfortzahlung: Veliki trošak za poslodavce u Njemačkoj",
+      "sazetak": "U Njemačkoj je 2025. godine trošak za Lohnfortzahlung, odnosno plaćanje plata tokom bolovanja, iznosio skoro 86 milijardi eura. Poslodavci su suočeni sa rastućim troškovima.",
+      "zastoVazno": "Ova informacija je bitna za radnike i poslodavce jer implicira na mogućnost viših troškova rada, što može uticati na zaposlenost i plate."
     }
   ]
 }

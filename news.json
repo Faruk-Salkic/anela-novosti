@@ -1,35 +1,35 @@
 {
-  "azurirano": "2026-09-09T05:00:27.858Z",
+  "azurirano": "2026-09-12T05:00:28.265Z",
   "vijesti": [
     {
-      "id": "2026-09-09-1",
+      "id": "2026-09-12-1",
       "datum": "2026-09-08",
-      "kategorija": "Zdravstveno",
-      "izvor": "Pfefferminzia",
-      "link": "https://www.pfefferminzia.de/arbeit/gkv-reform-chance-fuer-die-betriebliche-krankenversicherung/",
-      "naslov": "Reforma zakona o zdravstvu vodi ka većim troškovima za osiguranike",
-      "sazetak": "Reforma zakona o zdravstvenom osiguranju donosi izmjene koje će rezultirati većim troškovima za osiguranike. Zakonodavne promjene utiču na visinu doplata i mogućnost smanjenja usluga.",
-      "zastoVazno": "Ove promjene će direktno uticati na finansijsku situaciju građana koji su osigurani u Njemačkoj, posebno onih koji koriste osnovno zdravstveno osiguranje."
+      "kategorija": "Auto osiguranje",
+      "izvor": "VWheute",
+      "link": "https://versicherungswirtschaft-heute.de/maerkte-und-vertrieb/2026-09-09/neue-regionalklassen-in-der-kfz-versicherung-an-der-stadtgrenze-droht-das-preisgefaelle/",
+      "naslov": "Nova pravila u Kfz osiguranju: Promjene koje bi mogle uticati na vozače",
+      "sazetak": "Zbog novih regionalnih klasifikacija, skoro deset miliona vozača će biti prebačeno u drugačije klase osiguranja. Ove promjene mogu dovesti do većih troškova ili ušteda, zavisno od lokacije vozača.",
+      "zastoVazno": "Ove promjene mogu uticati na troškove osiguranja za vozače, posebno za one koji žive na granici između klasa. Važno je pratiti promjene kako bi se izbjegli dodatni troškovi."
     },
     {
-      "id": "2026-09-09-2",
-      "datum": "2026-09-08",
-      "kategorija": "Zdravstveno",
-      "izvor": "Pfefferminzia",
-      "link": "https://www.pfefferminzia.de/gesundheit/private-krankenversicherung-stabil-aber-unter-druck/",
-      "naslov": "Zdravstvena reforma: Teži uslovi za zakonsko zdravstveno osiguranje",
-      "sazetak": "Prema novim zakonima, zakonski osiguranici bi mogli očekivati povećanje doplata i duže vreme čekanja za usluge. Ove promjene uključuju i mogućnost smanjenja obima usluga.",
-      "zastoVazno": "Građani sa zakonskim zdravstvenim osiguranjem će biti direktno pogođeni povećanjem troškova, što može dovesti do otežanog pristupa zdravstvenim uslugama."
+      "id": "2026-09-12-2",
+      "datum": "2026-09-09",
+      "kategorija": "Auto osiguranje",
+      "izvor": "VWheute",
+      "link": "https://versicherungswirtschaft-heute.de/politik-und-regulierung/2026-09-10/bgh-kaskoversicherte-muessen-werkstattrisiko-auf-sich-nehmen/",
+      "naslov": "Sud odlučuje: Ko snosi rizik u kasko osiguranju?",
+      "sazetak": "Njemački Bundesgerichtshof donio je odluku da osiguranici snose rizik vezan za rad u servisu pri kasko osiguranju. Ova odluka ima značajnu težinu za sve vozače koji koriste kasko osiguranje.",
+      "zastoVazno": "Ovo je važno za vozače koji žele razumjeti svoja prava i obaveze u slučaju štete, kao i mogućnost potraživanja nadoknade."
     },
     {
-      "id": "2026-09-09-3",
-      "datum": "2026-09-07",
-      "kategorija": "Opšte",
-      "izvor": "Pfefferminzia",
-      "link": "https://www.pfefferminzia.de/arbeit/lohnfortzahlung-kostet-arbeitgeber-fast-86-milliarden-euro/",
-      "naslov": "Lohnfortzahlung: Veliki trošak za poslodavce u Njemačkoj",
-      "sazetak": "U Njemačkoj je 2025. godine trošak za Lohnfortzahlung, odnosno plaćanje plata tokom bolovanja, iznosio skoro 86 milijardi eura. Poslodavci su suočeni sa rastućim troškovima.",
-      "zastoVazno": "Ova informacija je bitna za radnike i poslodavce jer implicira na mogućnost viših troškova rada, što može uticati na zaposlenost i plate."
+      "id": "2026-09-12-3",
+      "datum": "2026-09-11",
+      "kategorija": "Zdravstveno",
+      "izvor": "VWheute",
+      "link": "https://www.pfefferminzia.de/gesundheit/wie-viel-geld-krankenkassen-mit-immobilien-verloren/",
+      "naslov": "Preporuke za nove tarife zdravstvenog osiguranja",
+      "sazetak": "Nove analize pokazuju da je prihod od nekretninskih investicija zdravstvenih osiguravajućih društava značajno opao. Ovo može utjecati na cjelokupan sistem zdravstvenog osiguranja i njegove tarife.",
+      "zastoVazno": "Ove informacije su važne za korisnike zdravstvenih osiguranja koji žele biti svjesni mogućih promjena u svojim tarifama."
     }
   ]
 }

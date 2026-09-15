@@ -1,35 +1,35 @@
 {
-  "azurirano": "2026-09-12T05:00:28.265Z",
+  "azurirano": "2026-09-15T05:00:27.433Z",
   "vijesti": [
     {
-      "id": "2026-09-12-1",
-      "datum": "2026-09-08",
-      "kategorija": "Auto osiguranje",
+      "id": "2026-09-15-1",
+      "datum": "2026-09-14",
+      "kategorija": "Opšte",
       "izvor": "VWheute",
-      "link": "https://versicherungswirtschaft-heute.de/maerkte-und-vertrieb/2026-09-09/neue-regionalklassen-in-der-kfz-versicherung-an-der-stadtgrenze-droht-das-preisgefaelle/",
-      "naslov": "Nova pravila u Kfz osiguranju: Promjene koje bi mogle uticati na vozače",
-      "sazetak": "Zbog novih regionalnih klasifikacija, skoro deset miliona vozača će biti prebačeno u drugačije klase osiguranja. Ove promjene mogu dovesti do većih troškova ili ušteda, zavisno od lokacije vozača.",
-      "zastoVazno": "Ove promjene mogu uticati na troškove osiguranja za vozače, posebno za one koji žive na granici između klasa. Važno je pratiti promjene kako bi se izbjegli dodatni troškovi."
+      "link": "https://versicherungswirtschaft-heute.de/politik-und-regulierung/2026-09-14/die-neue-produkt­haftung-laesst-den-markt-noch-kalt/",
+      "naslov": "Nova regulativa o proizvodnoj odgovornosti donosi promjene",
+      "sazetak": "Novi zakon o proizvodnoj odgovornosti u EU fokusira se na odgovornost softverskih i povezanih sistema. Ovo može značajno uticati na potrošače jer pruža veću zaštitu u slučaju šteta uzrokovanih ovim tehnologijama.",
+      "zastoVazno": "Ova promjena je važna za našu dijasporu jer može utjecati na zaštićenost potrošača u Njemačkoj i obavezuje kompanije na veću odgovornost, što može donijeti i nove troškove."
     },
     {
-      "id": "2026-09-12-2",
-      "datum": "2026-09-09",
-      "kategorija": "Auto osiguranje",
-      "izvor": "VWheute",
-      "link": "https://versicherungswirtschaft-heute.de/politik-und-regulierung/2026-09-10/bgh-kaskoversicherte-muessen-werkstattrisiko-auf-sich-nehmen/",
-      "naslov": "Sud odlučuje: Ko snosi rizik u kasko osiguranju?",
-      "sazetak": "Njemački Bundesgerichtshof donio je odluku da osiguranici snose rizik vezan za rad u servisu pri kasko osiguranju. Ova odluka ima značajnu težinu za sve vozače koji koriste kasko osiguranje.",
-      "zastoVazno": "Ovo je važno za vozače koji žele razumjeti svoja prava i obaveze u slučaju štete, kao i mogućnost potraživanja nadoknade."
-    },
-    {
-      "id": "2026-09-12-3",
+      "id": "2026-09-15-2",
       "datum": "2026-09-11",
+      "kategorija": "Penzija",
+      "izvor": "Pfefferminzia",
+      "link": "https://www.pfefferminzia.de/branche/sozialpartnerdialog-ueber-bav-was-sich-fuer-makler-aendert/",
+      "naslov": "Reforma zakona o obaveznom osiguranju počinje u oktobru",
+      "sazetak": "U Berlinu će 8. oktobra 2026. početi socijalni dijalog o obaveznom penzionom osiguranju. Ova reforma može donijeti promjene u pravilima i mogućnostima za osiguranje na radu.",
+      "zastoVazno": "Ovaj dijalog je bitan jer može otvoriti nova vrata za naše ljude koji rade u Njemačkoj, posebno za one koji se pripremaju za penziju."
+    },
+    {
+      "id": "2026-09-15-3",
+      "datum": "2026-09-14",
       "kategorija": "Zdravstveno",
-      "izvor": "VWheute",
-      "link": "https://www.pfefferminzia.de/gesundheit/wie-viel-geld-krankenkassen-mit-immobilien-verloren/",
-      "naslov": "Preporuke za nove tarife zdravstvenog osiguranja",
-      "sazetak": "Nove analize pokazuju da je prihod od nekretninskih investicija zdravstvenih osiguravajućih društava značajno opao. Ovo može utjecati na cjelokupan sistem zdravstvenog osiguranja i njegove tarife.",
-      "zastoVazno": "Ove informacije su važne za korisnike zdravstvenih osiguranja koji žele biti svjesni mogućih promjena u svojim tarifama."
+      "izvor": "Pfefferminzia",
+      "link": "https://www.pfefferminzia.de/branche/altersvorsorgedepot-musterfall-20-jaehriger-berufseinsteiger/",
+      "naslov": "Zdravstveno osiguranje: Preporuke za mlade radnike",
+      "sazetak": "Mladi radnici mogu profitirati od zdravstvenog osiguranja koje nudi dodatnu pokrivenost u odnosu na standardnu zdravstvenu zaštitu. Važno je da se informišu o dostupnim opcijama.",
+      "zastoVazno": "Za naše mlade ljude u Njemačkoj, pravilno zdravstveno osiguranje može značiti razliku između dobre i loše zdravstvene zaštite."
     }
   ]
 }

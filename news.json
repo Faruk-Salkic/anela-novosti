@@ -1,35 +1,45 @@
 {
-  "azurirano": "2026-09-15T05:00:27.433Z",
+  "azurirano": "2026-09-18T05:00:30.096Z",
   "vijesti": [
     {
-      "id": "2026-09-15-1",
+      "id": "2026-09-18-1",
+      "datum": "2026-09-16",
+      "kategorija": "Auto osiguranje",
+      "izvor": "Pfefferminzia",
+      "link": "https://www.pfefferminzia.de/mobilitaet/kfz-versicherung-wie-weit-sich-der-beitrag-druecken-laesst/",
+      "naslov": "KFZ-Versicherung: Kako uštedjeti na svojim troškovima osiguranja",
+      "sazetak": "S novom sezonom prelaska u KFZ osiguranje, istraženo je kako možete smanjiti svoje troškove. Izvještaj pokazuje koje mjere mogu dovesti do značajnih ušteda na premijama osiguranja.",
+      "zastoVazno": "Za naše ljude u Njemačkoj, pravilno odabran i jeftiniji paket osiguranja može značajno smanjiti troškove tokom vožnje."
+    },
+    {
+      "id": "2026-09-18-2",
+      "datum": "2026-09-16",
+      "kategorija": "Zdravstveno",
+      "izvor": "Pfefferminzia",
+      "link": "https://www.pfefferminzia.de/gesundheit/map-report-nur-drei-pkv-anbieter-erreichen-die-bestnote/",
+      "naslov": "Map-Report: Samo tri PKV pružatelja dobijaju najbolju ocjenu",
+      "sazetak": "Zadnji izvještaj o privatnom zdravstvenom osiguranju pokazuje da samo tri kompanije ostvaruju najvišu ocjenu. Ove informacije su važne prilikom odabira zdravstvenog osiguranja.",
+      "zastoVazno": "Poznavanje najboljih pružatelja zdravstvenih usluga može pomoći našim ljudima da donesu bolje odluke o izboru privatnog zdravstvenog osiguranja u Njemačkoj."
+    },
+    {
+      "id": "2026-09-18-3",
+      "datum": "2026-09-15",
+      "kategorija": "Auto osiguranje",
+      "izvor": "VWheute",
+      "link": "https://versicherungswirtschaft-heute.de/schlaglicht/2026-09-15/huk-coburg-chef-heitmann-check24-macht-das-einfach-gut-deswegen-nehmen-wir-sie-sehr-ernst/",
+      "naslov": "Huk-Coburg: Kako se našao na vrhu tržišta KFZ osiguranja",
+      "sazetak": "Huk-Coburg, najveći osiguratelj u Njemačkoj prema broju osiguranih vozila, ponovo bilježi uspjehe. U kompaniji smatraju da je njihov uspeh rezultat zadovoljstva klijenata i kvalitetne ponude.",
+      "zastoVazno": "Razumevanje uspeha vodeće osiguravajuće kuće može pomoći našim ljudima da izaberu najbolje opcije za svoje potrebe osiguranja vozila."
+    },
+    {
+      "id": "2026-09-18-4",
       "datum": "2026-09-14",
       "kategorija": "Opšte",
       "izvor": "VWheute",
-      "link": "https://versicherungswirtschaft-heute.de/politik-und-regulierung/2026-09-14/die-neue-produkt­haftung-laesst-den-markt-noch-kalt/",
-      "naslov": "Nova regulativa o proizvodnoj odgovornosti donosi promjene",
-      "sazetak": "Novi zakon o proizvodnoj odgovornosti u EU fokusira se na odgovornost softverskih i povezanih sistema. Ovo može značajno uticati na potrošače jer pruža veću zaštitu u slučaju šteta uzrokovanih ovim tehnologijama.",
-      "zastoVazno": "Ova promjena je važna za našu dijasporu jer može utjecati na zaštićenost potrošača u Njemačkoj i obavezuje kompanije na veću odgovornost, što može donijeti i nove troškove."
-    },
-    {
-      "id": "2026-09-15-2",
-      "datum": "2026-09-11",
-      "kategorija": "Penzija",
-      "izvor": "Pfefferminzia",
-      "link": "https://www.pfefferminzia.de/branche/sozialpartnerdialog-ueber-bav-was-sich-fuer-makler-aendert/",
-      "naslov": "Reforma zakona o obaveznom osiguranju počinje u oktobru",
-      "sazetak": "U Berlinu će 8. oktobra 2026. početi socijalni dijalog o obaveznom penzionom osiguranju. Ova reforma može donijeti promjene u pravilima i mogućnostima za osiguranje na radu.",
-      "zastoVazno": "Ovaj dijalog je bitan jer može otvoriti nova vrata za naše ljude koji rade u Njemačkoj, posebno za one koji se pripremaju za penziju."
-    },
-    {
-      "id": "2026-09-15-3",
-      "datum": "2026-09-14",
-      "kategorija": "Zdravstveno",
-      "izvor": "Pfefferminzia",
-      "link": "https://www.pfefferminzia.de/branche/altersvorsorgedepot-musterfall-20-jaehriger-berufseinsteiger/",
-      "naslov": "Zdravstveno osiguranje: Preporuke za mlade radnike",
-      "sazetak": "Mladi radnici mogu profitirati od zdravstvenog osiguranja koje nudi dodatnu pokrivenost u odnosu na standardnu zdravstvenu zaštitu. Važno je da se informišu o dostupnim opcijama.",
-      "zastoVazno": "Za naše mlade ljude u Njemačkoj, pravilno zdravstveno osiguranje može značiti razliku između dobre i loše zdravstvene zaštite."
+      "link": "https://versicherungswirtschaft-heute.de/politik-und-regulierung/2026-09-14/die-neue-produkthaftung-laesst-den-markt-noch-kalt/",
+      "naslov": "Novo pravilo o produktaškoj odgovornosti može uticati na osiguranje",
+      "sazetak": "Novi zakon o produktaškoj odgovornosti stupa na snagu, a to može imati velike posledice za osiguratelje i korisnike. Ove promene obuhvataju i upotrebu veštačke inteligencije.",
+      "zastoVazno": "Važno je znati kako nova pravila utiču na osiguranje, kako bi naši ljudi bili zaštićeni i informisani o svojim pravima."
     }
   ]
 }

@@ -1,45 +1,45 @@
 {
-  "azurirano": "2026-09-18T05:00:30.096Z",
+  "azurirano": "2026-09-21T05:00:30.345Z",
   "vijesti": [
     {
-      "id": "2026-09-18-1",
-      "datum": "2026-09-16",
-      "kategorija": "Auto osiguranje",
-      "izvor": "Pfefferminzia",
-      "link": "https://www.pfefferminzia.de/mobilitaet/kfz-versicherung-wie-weit-sich-der-beitrag-druecken-laesst/",
-      "naslov": "KFZ-Versicherung: Kako uštedjeti na svojim troškovima osiguranja",
-      "sazetak": "S novom sezonom prelaska u KFZ osiguranje, istraženo je kako možete smanjiti svoje troškove. Izvještaj pokazuje koje mjere mogu dovesti do značajnih ušteda na premijama osiguranja.",
-      "zastoVazno": "Za naše ljude u Njemačkoj, pravilno odabran i jeftiniji paket osiguranja može značajno smanjiti troškove tokom vožnje."
-    },
-    {
-      "id": "2026-09-18-2",
-      "datum": "2026-09-16",
+      "id": "2026-09-21-1",
+      "datum": "2026-09-18",
       "kategorija": "Zdravstveno",
       "izvor": "Pfefferminzia",
-      "link": "https://www.pfefferminzia.de/gesundheit/map-report-nur-drei-pkv-anbieter-erreichen-die-bestnote/",
-      "naslov": "Map-Report: Samo tri PKV pružatelja dobijaju najbolju ocjenu",
-      "sazetak": "Zadnji izvještaj o privatnom zdravstvenom osiguranju pokazuje da samo tri kompanije ostvaruju najvišu ocjenu. Ove informacije su važne prilikom odabira zdravstvenog osiguranja.",
-      "zastoVazno": "Poznavanje najboljih pružatelja zdravstvenih usluga može pomoći našim ljudima da donesu bolje odluke o izboru privatnog zdravstvenog osiguranja u Njemačkoj."
+      "link": "https://www.pfefferminzia.de/gesundheit/wo-pkv-experten-neues-geschaeft-fuer-makler-sehen/",
+      "naslov": "Zdravstveno osiguranje: Kako zakon o stabilizaciji doprinosa utiče na troškove",
+      "sazetak": "Novi zakon o stabilizaciji doprinosa za zdravstveno osiguranje u Njemačkoj obezbeđuje kontrolu rasta troškova. Ova promena će uticati na sve osigurane, posebno na one koji već imaju visoke troškove liječenja.",
+      "zastoVazno": "Ova informacija je važna za našu dijasporu jer će direktno uticati na iznos koji će se plaćati za zdravstveno osiguranje, što može biti značajan deo budžeta."
     },
     {
-      "id": "2026-09-18-3",
-      "datum": "2026-09-15",
-      "kategorija": "Auto osiguranje",
+      "id": "2026-09-21-2",
+      "datum": "2026-09-18",
+      "kategorija": "Životno i BU",
       "izvor": "VWheute",
-      "link": "https://versicherungswirtschaft-heute.de/schlaglicht/2026-09-15/huk-coburg-chef-heitmann-check24-macht-das-einfach-gut-deswegen-nehmen-wir-sie-sehr-ernst/",
-      "naslov": "Huk-Coburg: Kako se našao na vrhu tržišta KFZ osiguranja",
-      "sazetak": "Huk-Coburg, najveći osiguratelj u Njemačkoj prema broju osiguranih vozila, ponovo bilježi uspjehe. U kompaniji smatraju da je njihov uspeh rezultat zadovoljstva klijenata i kvalitetne ponude.",
-      "zastoVazno": "Razumevanje uspeha vodeće osiguravajuće kuće može pomoći našim ljudima da izaberu najbolje opcije za svoje potrebe osiguranja vozila."
+      "link": "https://versicherungswirtschaft-heute.de/unternehmen-und-management/2026-09-18/arbeitsplatzabbau-bei-unternehmen-belastet-rechtsschutzversicherer/",
+      "naslov": "Radna nesposobnost: Kako promjene utiču na osiguranje",
+      "sazetak": "Zbog trenutne ekonomske situacije, radna nesposobnost postaje čest razlog za korišćenje osiguravajućih prava. Preporučuje se da se pregledaju polise osiguranja kako bi se osiguralo adekvatno pokriće.",
+      "zastoVazno": "Sve veći broj ljudi se susreće s ovim problemom, pa je od suštinske važnosti da se poznaju prava i obaveze vezane za osiguranje od radne nesposobnosti."
     },
     {
-      "id": "2026-09-18-4",
-      "datum": "2026-09-14",
-      "kategorija": "Opšte",
+      "id": "2026-09-21-3",
+      "datum": "2026-09-18",
+      "kategorija": "Pravna zaštita",
       "izvor": "VWheute",
-      "link": "https://versicherungswirtschaft-heute.de/politik-und-regulierung/2026-09-14/die-neue-produkthaftung-laesst-den-markt-noch-kalt/",
-      "naslov": "Novo pravilo o produktaškoj odgovornosti može uticati na osiguranje",
-      "sazetak": "Novi zakon o produktaškoj odgovornosti stupa na snagu, a to može imati velike posledice za osiguratelje i korisnike. Ove promene obuhvataju i upotrebu veštačke inteligencije.",
-      "zastoVazno": "Važno je znati kako nova pravila utiču na osiguranje, kako bi naši ljudi bili zaštićeni i informisani o svojim pravima."
+      "link": "https://versicherungswirtschaft-heute.de/unternehmen-und-management/2026-09-18/arbeitsplatzabbau-bei-unternehmen-belastet-rechtsschutzversicherer/",
+      "naslov": "Pravna zaštita: Uticaj smanjenja radnih mesta na osiguranje",
+      "sazetak": "Smrštenje radne snage u kompanijama dovodi do povećanja potreba za pravnom pomoći. Radnici se češće odlučuju na pravne korake zbog otkaza, što opterećuje osiguravatelje.",
+      "zastoVazno": "Za naše ljude u Njemačkoj je ključno razumeti kako se sistem pravne zaštite može koristiti u slučajevima sporova na radnom mestu."
+    },
+    {
+      "id": "2026-09-21-4",
+      "datum": "2026-09-18",
+      "kategorija": "Nekretnine",
+      "izvor": "Pfefferminzia",
+      "link": "https://www.pfefferminzia.de/zuhause/drohnenversicherung-fuenf-irrtuemer-beim-tarifvergleich/",
+      "naslov": "Osiguranje domaćinstva: Kako troškovi rastu",
+      "sazetak": "Troškovi osiguranja domaćinstava u Njemačkoj su u porastu zbog povećanih rizika i inflacije. Preporučuje se da građani preispitaju svoje polise i razmotre dodatne pokriće.",
+      "zastoVazno": "Za naše ljude važno je znati da se osiguranje domaćinstva može prilagoditi kako bi se zaštitili od nepredviđenih troškova."
     }
   ]
 }

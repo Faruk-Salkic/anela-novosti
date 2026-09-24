@@ -1,45 +1,35 @@
 {
-  "azurirano": "2026-09-21T05:00:30.345Z",
+  "azurirano": "2026-09-24T05:00:31.369Z",
   "vijesti": [
     {
-      "id": "2026-09-21-1",
-      "datum": "2026-09-18",
-      "kategorija": "Zdravstveno",
-      "izvor": "Pfefferminzia",
-      "link": "https://www.pfefferminzia.de/gesundheit/wo-pkv-experten-neues-geschaeft-fuer-makler-sehen/",
-      "naslov": "Zdravstveno osiguranje: Kako zakon o stabilizaciji doprinosa utiče na troškove",
-      "sazetak": "Novi zakon o stabilizaciji doprinosa za zdravstveno osiguranje u Njemačkoj obezbeđuje kontrolu rasta troškova. Ova promena će uticati na sve osigurane, posebno na one koji već imaju visoke troškove liječenja.",
-      "zastoVazno": "Ova informacija je važna za našu dijasporu jer će direktno uticati na iznos koji će se plaćati za zdravstveno osiguranje, što može biti značajan deo budžeta."
-    },
-    {
-      "id": "2026-09-21-2",
-      "datum": "2026-09-18",
-      "kategorija": "Životno i BU",
-      "izvor": "VWheute",
-      "link": "https://versicherungswirtschaft-heute.de/unternehmen-und-management/2026-09-18/arbeitsplatzabbau-bei-unternehmen-belastet-rechtsschutzversicherer/",
-      "naslov": "Radna nesposobnost: Kako promjene utiču na osiguranje",
-      "sazetak": "Zbog trenutne ekonomske situacije, radna nesposobnost postaje čest razlog za korišćenje osiguravajućih prava. Preporučuje se da se pregledaju polise osiguranja kako bi se osiguralo adekvatno pokriće.",
-      "zastoVazno": "Sve veći broj ljudi se susreće s ovim problemom, pa je od suštinske važnosti da se poznaju prava i obaveze vezane za osiguranje od radne nesposobnosti."
-    },
-    {
-      "id": "2026-09-21-3",
-      "datum": "2026-09-18",
-      "kategorija": "Pravna zaštita",
-      "izvor": "VWheute",
-      "link": "https://versicherungswirtschaft-heute.de/unternehmen-und-management/2026-09-18/arbeitsplatzabbau-bei-unternehmen-belastet-rechtsschutzversicherer/",
-      "naslov": "Pravna zaštita: Uticaj smanjenja radnih mesta na osiguranje",
-      "sazetak": "Smrštenje radne snage u kompanijama dovodi do povećanja potreba za pravnom pomoći. Radnici se češće odlučuju na pravne korake zbog otkaza, što opterećuje osiguravatelje.",
-      "zastoVazno": "Za naše ljude u Njemačkoj je ključno razumeti kako se sistem pravne zaštite može koristiti u slučajevima sporova na radnom mestu."
-    },
-    {
-      "id": "2026-09-21-4",
-      "datum": "2026-09-18",
+      "id": "2026-09-24-1",
+      "datum": "2026-09-23",
       "kategorija": "Nekretnine",
+      "izvor": "VWheute",
+      "link": "https://versicherungswirtschaft-heute.de/maerkte-und-vertrieb/2026-09-24/bundesregierung-vor-durchbruch-bei-elementardeckung-setzt-aber-weiter-auf-bewaehrtes-versicherungssystem/",
+      "naslov": "Bundesregierung planira povećanje osiguranja od elementarnih šteta",
+      "sazetak": "Njemačka vlada želi povećati dostupnost osiguranja od elementarnih šteta. Ministar pravde Stefanie Hubig najavila je nove mjere na osiguravajućem sajmu kako bi se poboljšala zaštita građana od prirodnih katastrofa.",
+      "zastoVazno": "Ovo je ključno za naše ljude u Njemačkoj jer će bolje osiguranje od prirodnih katastrofa pomoći u zaštiti imovine i životne sigurnosti."
+    },
+    {
+      "id": "2026-09-24-2",
+      "datum": "2026-09-22",
+      "kategorija": "Pravna zaštita",
       "izvor": "Pfefferminzia",
-      "link": "https://www.pfefferminzia.de/zuhause/drohnenversicherung-fuenf-irrtuemer-beim-tarifvergleich/",
-      "naslov": "Osiguranje domaćinstva: Kako troškovi rastu",
-      "sazetak": "Troškovi osiguranja domaćinstava u Njemačkoj su u porastu zbog povećanih rizika i inflacije. Preporučuje se da građani preispitaju svoje polise i razmotre dodatne pokriće.",
-      "zastoVazno": "Za naše ljude važno je znati da se osiguranje domaćinstva može prilagoditi kako bi se zaštitili od nepredviđenih troškova."
+      "link": "https://www.pfefferminzia.de/rechtsschutz/aktualnosti/najnovije/",
+      "naslov": "Stanje u pravnim osiguranjima: Koliko je važno imati zaštitu?",
+      "sazetak": "Pravna zaštita postaje sve važnija, naročito u kontekstu rasta sporova i zahtjeva za naknadom štete. To obezbjeđuje dodatnu sigurnost domaćinstvima i pojedincima u različitim pravnim situacijama.",
+      "zastoVazno": "Za ljude sa slabijim poznavanjem njemačkog sistema, pravno osiguranje predstavlja važan alat za zaštitu njihovih prava i interesa."
+    },
+    {
+      "id": "2026-09-24-3",
+      "datum": "2026-09-22",
+      "kategorija": "Opšte",
+      "izvor": "Pfefferminzia",
+      "link": "https://www.pfefferminzia.de/politik-und-regulierung/unfallversicherung-angebot-schrumpft-qualitaet-steigt/",
+      "naslov": "Unfallversicherung: Smanjenje ponude, povećanje kvalitete usluga",
+      "sazetak": "Ponuda osiguranja od nesreća se smanjuje, ali raste kvaliteta. Samo 13,9% tarife je ocenjena kao 'odlična' u recentnom izveštaju o osiguranju od nesreća.",
+      "zastoVazno": "S obzirom na to da su nesreće nepredvidljive, ovo je važno za naše ljude koji žele osigurati svoju sigurnost i zaštitu u slučaju nezgode."
     }
   ]
 }

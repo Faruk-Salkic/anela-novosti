@@ -1,35 +1,45 @@
 {
-  "azurirano": "2026-09-24T05:00:31.369Z",
+  "azurirano": "2026-09-27T05:00:28.818Z",
   "vijesti": [
     {
-      "id": "2026-09-24-1",
-      "datum": "2026-09-23",
-      "kategorija": "Nekretnine",
-      "izvor": "VWheute",
-      "link": "https://versicherungswirtschaft-heute.de/maerkte-und-vertrieb/2026-09-24/bundesregierung-vor-durchbruch-bei-elementardeckung-setzt-aber-weiter-auf-bewaehrtes-versicherungssystem/",
-      "naslov": "Bundesregierung planira povećanje osiguranja od elementarnih šteta",
-      "sazetak": "Njemačka vlada želi povećati dostupnost osiguranja od elementarnih šteta. Ministar pravde Stefanie Hubig najavila je nove mjere na osiguravajućem sajmu kako bi se poboljšala zaštita građana od prirodnih katastrofa.",
-      "zastoVazno": "Ovo je ključno za naše ljude u Njemačkoj jer će bolje osiguranje od prirodnih katastrofa pomoći u zaštiti imovine i životne sigurnosti."
-    },
-    {
-      "id": "2026-09-24-2",
-      "datum": "2026-09-22",
-      "kategorija": "Pravna zaštita",
+      "id": "2026-09-27-1",
+      "datum": "2026-09-25",
+      "kategorija": "Zdravstveno",
       "izvor": "Pfefferminzia",
-      "link": "https://www.pfefferminzia.de/rechtsschutz/aktualnosti/najnovije/",
-      "naslov": "Stanje u pravnim osiguranjima: Koliko je važno imati zaštitu?",
-      "sazetak": "Pravna zaštita postaje sve važnija, naročito u kontekstu rasta sporova i zahtjeva za naknadom štete. To obezbjeđuje dodatnu sigurnost domaćinstvima i pojedincima u različitim pravnim situacijama.",
-      "zastoVazno": "Za ljude sa slabijim poznavanjem njemačkog sistema, pravno osiguranje predstavlja važan alat za zaštitu njihovih prava i interesa."
+      "link": "https://www.pfefferminzia.de/gesundheit/krankenkasse-dak-meldet-30-prozent-mehr-betrugsfaelle/",
+      "naslov": "Krankenkasse DAK izvještava o 30% više slučajeva prevara",
+      "sazetak": "Krankenkasse DAK je prijavila značajan porast slučajeva prevara u zdravstvenom sistemu. U 2024. i 2025. godini zabilježeno je oko 2.300 novih slučajeva, što predstavlja povećanje od 30% u odnosu na prethodne godine.",
+      "zastoVazno": "Ova informacija je važna za Bosance, Hrvate i Srbe u Njemačkoj jer se povećani slučajevi prevara mogu odraziti na visinu premija zdravstvenog osiguranja."
     },
     {
-      "id": "2026-09-24-3",
-      "datum": "2026-09-22",
+      "id": "2026-09-27-2",
+      "datum": "2026-09-24",
       "kategorija": "Opšte",
       "izvor": "Pfefferminzia",
-      "link": "https://www.pfefferminzia.de/politik-und-regulierung/unfallversicherung-angebot-schrumpft-qualitaet-steigt/",
-      "naslov": "Unfallversicherung: Smanjenje ponude, povećanje kvalitete usluga",
-      "sazetak": "Ponuda osiguranja od nesreća se smanjuje, ali raste kvaliteta. Samo 13,9% tarife je ocenjena kao 'odlična' u recentnom izveštaju o osiguranju od nesreća.",
-      "zastoVazno": "S obzirom na to da su nesreće nepredvidljive, ovo je važno za naše ljude koji žele osigurati svoju sigurnost i zaštitu u slučaju nezgode."
+      "link": "https://www.pfefferminzia.de/zuhause/pflicht-oder-nicht-elementarschutz-kommt-auf-den-tisch/",
+      "naslov": "Obavezni elementi osiguranja postaju tema rasprave",
+      "sazetak": "U Njemačkoj se vodi rasprava o mogućnosti uvođenja obavezne elementarne zaštite osiguranja. Ovo osiguranje može pružiti zaštitu od prirodnih katastrofa, što je tema koja se sve više ističe.",
+      "zastoVazno": "Za dijasporu u Njemačkoj, ovo može značiti obavezu da se osiguraju od prirodnih katastrofa, što može pomoći u zaštiti njihovih imanja."
+    },
+    {
+      "id": "2026-09-27-3",
+      "datum": "2026-09-23",
+      "kategorija": "Nekretnine",
+      "izvor": "Pfefferminzia",
+      "link": "https://versicherungswirtschaft-heute.de/maerkte-und-vertrieb/2026-09-24/bundesregierung-vor-durchbruch-bei-elementardeckung-setzt-aber-weiter-auf-bewaehrtes-versicherungssystem/",
+      "naslov": "Povećanje obaveznog osiguranja protiv elementarnih šteta",
+      "sazetak": "Njemačka vlada planira povećati broj osiguranih kuća i stanova od elementarnih šteta. Ovi potezi dolaze kao reakcija na povećane štete uzrokovane klimatskim promjenama.",
+      "zastoVazno": "Ova vijest je značajna za ljude u Njemačkoj jer može utjecati na troškove osiguranja i pravila o osiguranju doma."
+    },
+    {
+      "id": "2026-09-27-4",
+      "datum": "2026-09-23",
+      "kategorija": "Auto osiguranje",
+      "izvor": "Pfefferminzia",
+      "link": "https://www.pfefferminzia.de/vertrieb/ohne-stress-durch-die-kfz-wechselzeit-dank-digitaler-prozesse/",
+      "naslov": "Digitalni procesi olakšavaju vrijeme promjene auto osiguranja",
+      "sazetak": "Digitalni alati pomažu u pojednostavljenju procesa promjene auto osiguranja, što može ubrzati i olakšati prelazak na novo osiguranje. Webinar će se održati 8. oktobra.",
+      "zastoVazno": "Zbog promjena u osiguranju, važno je da dijaspora zna o ovim digitalnim rješenjima koja mogu smanjiti stres tokom ovih promjena."
     }
   ]
 }

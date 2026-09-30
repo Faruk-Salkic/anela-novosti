@@ -1,45 +1,35 @@
 {
-  "azurirano": "2026-09-27T05:00:28.818Z",
+  "azurirano": "2026-09-30T05:00:30.721Z",
   "vijesti": [
     {
-      "id": "2026-09-27-1",
-      "datum": "2026-09-25",
+      "id": "2026-09-30-1",
+      "datum": "2026-09-28",
+      "kategorija": "Životno i BU",
+      "izvor": "Pfefferminzia",
+      "link": "https://www.pfefferminzia.de/arbeit/berufsunfaehigkeit-und-dread-disease-wenn-der-alltag-kollabiert/",
+      "naslov": "Nova pravila za poslodavce: Kako se osigurati od radne nesposobnosti",
+      "sazetak": "U Njemačkoj su uvedena nova pravila koja se odnose na radnu nesposobnost i osiguranje zaposlenih. Poslodavci su dužni pravilno informisati svoje radnike o pravima i mogućnostima u slučaju bolesti ili nesposobnosti za rad.",
+      "zastoVazno": "Ovo je važno za sve radnike u Njemačkoj da znaju svoja prava i mogućnosti osiguranja u slučaju radne nesposobnosti."
+    },
+    {
+      "id": "2026-09-30-2",
+      "datum": "2026-09-28",
       "kategorija": "Zdravstveno",
       "izvor": "Pfefferminzia",
-      "link": "https://www.pfefferminzia.de/gesundheit/krankenkasse-dak-meldet-30-prozent-mehr-betrugsfaelle/",
-      "naslov": "Krankenkasse DAK izvještava o 30% više slučajeva prevara",
-      "sazetak": "Krankenkasse DAK je prijavila značajan porast slučajeva prevara u zdravstvenom sistemu. U 2024. i 2025. godini zabilježeno je oko 2.300 novih slučajeva, što predstavlja povećanje od 30% u odnosu na prethodne godine.",
-      "zastoVazno": "Ova informacija je važna za Bosance, Hrvate i Srbe u Njemačkoj jer se povećani slučajevi prevara mogu odraziti na visinu premija zdravstvenog osiguranja."
+      "link": "https://www.pfefferminzia.de/gesundheit/hand-aufs-herz-haben-sie-schon-mal-krankgemacht/",
+      "naslov": "Zdravstveno osiguranje: Šta trebate znati o promjenama zakona",
+      "sazetak": "U Njemačkoj je donesen zakon koji se odnosi na obavezno zdravstveno osiguranje. Promjene će značajno uticati na način na koji se zdravstveno osiguranje reguliše, i svi osiguranici bi trebali biti informisani.",
+      "zastoVazno": "Važno je da naši ljudi u Njemačkoj budu informisani o promjenama koje se tiču njihovog zdravstvenog osiguranja kako bi znali svoja prava."
     },
     {
-      "id": "2026-09-27-2",
-      "datum": "2026-09-24",
+      "id": "2026-09-30-3",
+      "datum": "2026-09-28",
       "kategorija": "Opšte",
       "izvor": "Pfefferminzia",
-      "link": "https://www.pfefferminzia.de/zuhause/pflicht-oder-nicht-elementarschutz-kommt-auf-den-tisch/",
-      "naslov": "Obavezni elementi osiguranja postaju tema rasprave",
-      "sazetak": "U Njemačkoj se vodi rasprava o mogućnosti uvođenja obavezne elementarne zaštite osiguranja. Ovo osiguranje može pružiti zaštitu od prirodnih katastrofa, što je tema koja se sve više ističe.",
-      "zastoVazno": "Za dijasporu u Njemačkoj, ovo može značiti obavezu da se osiguraju od prirodnih katastrofa, što može pomoći u zaštiti njihovih imanja."
-    },
-    {
-      "id": "2026-09-27-3",
-      "datum": "2026-09-23",
-      "kategorija": "Nekretnine",
-      "izvor": "Pfefferminzia",
-      "link": "https://versicherungswirtschaft-heute.de/maerkte-und-vertrieb/2026-09-24/bundesregierung-vor-durchbruch-bei-elementardeckung-setzt-aber-weiter-auf-bewaehrtes-versicherungssystem/",
-      "naslov": "Povećanje obaveznog osiguranja protiv elementarnih šteta",
-      "sazetak": "Njemačka vlada planira povećati broj osiguranih kuća i stanova od elementarnih šteta. Ovi potezi dolaze kao reakcija na povećane štete uzrokovane klimatskim promjenama.",
-      "zastoVazno": "Ova vijest je značajna za ljude u Njemačkoj jer može utjecati na troškove osiguranja i pravila o osiguranju doma."
-    },
-    {
-      "id": "2026-09-27-4",
-      "datum": "2026-09-23",
-      "kategorija": "Auto osiguranje",
-      "izvor": "Pfefferminzia",
-      "link": "https://www.pfefferminzia.de/vertrieb/ohne-stress-durch-die-kfz-wechselzeit-dank-digitaler-prozesse/",
-      "naslov": "Digitalni procesi olakšavaju vrijeme promjene auto osiguranja",
-      "sazetak": "Digitalni alati pomažu u pojednostavljenju procesa promjene auto osiguranja, što može ubrzati i olakšati prelazak na novo osiguranje. Webinar će se održati 8. oktobra.",
-      "zastoVazno": "Zbog promjena u osiguranju, važno je da dijaspora zna o ovim digitalnim rješenjima koja mogu smanjiti stres tokom ovih promjena."
+      "link": "https://www.pfefferminzia.de/gesundheit/hand-aufs-herz-haben-sie-schon-mal-krankgemacht/",
+      "naslov": "Kako se zaštititi od nesreća? Važnost osiguranja",
+      "sazetak": "Osiguranje od nesreća postaje sve važnije, posebno u trenutnom tržišnom okruženju. Razumijevanje osiguranja protiv nesreća može pomoći ljudima da se zaštite od neželjenih situacija.",
+      "zastoVazno": "Bitno je da ljudi prepoznaju vrednost osiguranja od nesreća, posebno oni koji su u srednjem i starijem uzrastu."
     }
   ]
 }

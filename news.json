@@ -1,35 +1,45 @@
 {
-  "azurirano": "2026-09-30T05:00:30.721Z",
+  "azurirano": "2026-10-01T05:00:31.072Z",
   "vijesti": [
     {
-      "id": "2026-09-30-1",
-      "datum": "2026-09-28",
-      "kategorija": "Životno i BU",
-      "izvor": "Pfefferminzia",
-      "link": "https://www.pfefferminzia.de/arbeit/berufsunfaehigkeit-und-dread-disease-wenn-der-alltag-kollabiert/",
-      "naslov": "Nova pravila za poslodavce: Kako se osigurati od radne nesposobnosti",
-      "sazetak": "U Njemačkoj su uvedena nova pravila koja se odnose na radnu nesposobnost i osiguranje zaposlenih. Poslodavci su dužni pravilno informisati svoje radnike o pravima i mogućnostima u slučaju bolesti ili nesposobnosti za rad.",
-      "zastoVazno": "Ovo je važno za sve radnike u Njemačkoj da znaju svoja prava i mogućnosti osiguranja u slučaju radne nesposobnosti."
+      "id": "2026-10-01-1",
+      "datum": "2026-09-29",
+      "kategorija": "Auto osiguranje",
+      "izvor": "VWheute",
+      "link": "https://versicherungswirtschaft-heute.de/politik-und-regulierung/2026-09-30/kfz-haftpflichtversicherung-mehr-als-zwoelf-millionen-autofahrer-erhalten-neue-typklasse/",
+      "naslov": "Promjene u Kfz-Haftpflicht: Nova tipna klasa za 12 miliona vozača",
+      "sazetak": "Za više od 12 miliona vozača u Njemačkoj dolazi do promjena u tipnim klasama njihove Kfz-Haftpflicht osiguranje. To znači da će mnogi vozači plaćati više, dok će neki drugi imati niže troškove.",
+      "zastoVazno": "Ove promjene mogu značajno uticati na troškove osiguranja automobila, što je ključno za budžete naših sugrađana u Njemačkoj."
     },
     {
-      "id": "2026-09-30-2",
-      "datum": "2026-09-28",
+      "id": "2026-10-01-2",
+      "datum": "2026-09-30",
+      "kategorija": "Zdravstveno",
+      "izvor": "VWheute",
+      "link": "https://versicherungswirtschaft-heute.de/politik-und-regulierung/2026-09-30/pflegereform-beschlossen-entscheidung-ueber-pkv-einbindung-auf-januar-vertagt/",
+      "naslov": "Reforme u njemačkom zdravstvu: Povećanje premija za privatno osiguranje",
+      "sazetak": "Novi zakon o reformi zdravstvene zaštite donosi povećanje premija za privatno zdravstveno osiguranje. Ove promjene će najviše pogoditi one koji su dobro zarađivali i bez djece.",
+      "zastoVazno": "Ovo je važno za one koji imaju privatno osiguranje, jer može značajno uticati na njihove mjesečne troškove."
+    },
+    {
+      "id": "2026-10-01-3",
+      "datum": "2026-09-30",
       "kategorija": "Zdravstveno",
       "izvor": "Pfefferminzia",
-      "link": "https://www.pfefferminzia.de/gesundheit/hand-aufs-herz-haben-sie-schon-mal-krankgemacht/",
-      "naslov": "Zdravstveno osiguranje: Šta trebate znati o promjenama zakona",
-      "sazetak": "U Njemačkoj je donesen zakon koji se odnosi na obavezno zdravstveno osiguranje. Promjene će značajno uticati na način na koji se zdravstveno osiguranje reguliše, i svi osiguranici bi trebali biti informisani.",
-      "zastoVazno": "Važno je da naši ljudi u Njemačkoj budu informisani o promjenama koje se tiču njihovog zdravstvenog osiguranja kako bi znali svoja prava."
+      "link": "https://www.pfefferminzia.de/vorsorge/kabinett-beschliesst-pflegereform-mit-geaenderten-details/",
+      "naslov": "Nova pravila o reformi zdravstva: Uključivanje privatnog osiguranje odgađa se",
+      "sazetak": "Njemačka vlada odgodila je odluku o uključivanju privatnog zdravstvenog osiguranja u novoj reformi za januar. Ova reforma nastoji stabilizirati finansije zdravstvenog sistema.",
+      "zastoVazno": "Važno je da naši ljudi budu svjesni promjena koje se dešavaju u zdravstvenom osiguranju kako bi mogli planirati svoje financije."
     },
     {
-      "id": "2026-09-30-3",
-      "datum": "2026-09-28",
-      "kategorija": "Opšte",
+      "id": "2026-10-01-4",
+      "datum": "2026-09-30",
+      "kategorija": "Penzija",
       "izvor": "Pfefferminzia",
-      "link": "https://www.pfefferminzia.de/gesundheit/hand-aufs-herz-haben-sie-schon-mal-krankgemacht/",
-      "naslov": "Kako se zaštititi od nesreća? Važnost osiguranja",
-      "sazetak": "Osiguranje od nesreća postaje sve važnije, posebno u trenutnom tržišnom okruženju. Razumijevanje osiguranja protiv nesreća može pomoći ljudima da se zaštite od neželjenih situacija.",
-      "zastoVazno": "Bitno je da ljudi prepoznaju vrednost osiguranja od nesreća, posebno oni koji su u srednjem i starijem uzrastu."
+      "link": "https://www.pfefferminzia.de/vorsorge/oekonomen-schreiben-brandbrief-fuer-die-rentenreform/",
+      "naslov": "Planirane promjene u penzionom sistemu izazivaju zabrinutost",
+      "sazetak": "Ekonomisti su upozorili na rizike povezane s planiranim reformama u penzionom sistemu, zahtijevajući da se sve preporuke sprovedu u potpunosti kako bi se održala stabilnost.",
+      "zastoVazno": "Ove reforme direktno utiču na buduće penzije mnogih naših sugrađana, pa je važno pratiti razvoj situacije."
     }
   ]
 }

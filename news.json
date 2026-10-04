@@ -1,45 +1,35 @@
 {
-  "azurirano": "2026-10-01T05:00:31.072Z",
+  "azurirano": "2026-10-04T05:00:29.577Z",
   "vijesti": [
     {
-      "id": "2026-10-01-1",
-      "datum": "2026-09-29",
+      "id": "2026-10-04-1",
+      "datum": "2026-10-02",
       "kategorija": "Auto osiguranje",
-      "izvor": "VWheute",
-      "link": "https://versicherungswirtschaft-heute.de/politik-und-regulierung/2026-09-30/kfz-haftpflichtversicherung-mehr-als-zwoelf-millionen-autofahrer-erhalten-neue-typklasse/",
-      "naslov": "Promjene u Kfz-Haftpflicht: Nova tipna klasa za 12 miliona vozača",
-      "sazetak": "Za više od 12 miliona vozača u Njemačkoj dolazi do promjena u tipnim klasama njihove Kfz-Haftpflicht osiguranje. To znači da će mnogi vozači plaćati više, dok će neki drugi imati niže troškove.",
-      "zastoVazno": "Ove promjene mogu značajno uticati na troškove osiguranja automobila, što je ključno za budžete naših sugrađana u Njemačkoj."
+      "izvor": "Pfefferminzia",
+      "link": "https://www.pfefferminzia.de/mobilitaet/andere-typklassen-fuer-millionen-autofahrer/",
+      "naslov": "Promjena tipklasa za milion vozača u njemačkoj",
+      "sazetak": "Više od 12 miliona vozača u Njemačkoj doživjet će promjene tipklasa u KFZ osiguranju. Ova nova klasifikacija bit će temeljena na novoj statistici šteta, što može utjecati na cijene osiguranja.",
+      "zastoVazno": "Ovo je važno za vozače u Njemačkoj jer može utjecati na njihove troškove osiguranja, posebno u usporedbi sa starim klasa-pozicijama."
     },
     {
-      "id": "2026-10-01-2",
-      "datum": "2026-09-30",
-      "kategorija": "Zdravstveno",
-      "izvor": "VWheute",
-      "link": "https://versicherungswirtschaft-heute.de/politik-und-regulierung/2026-09-30/pflegereform-beschlossen-entscheidung-ueber-pkv-einbindung-auf-januar-vertagt/",
-      "naslov": "Reforme u njemačkom zdravstvu: Povećanje premija za privatno osiguranje",
-      "sazetak": "Novi zakon o reformi zdravstvene zaštite donosi povećanje premija za privatno zdravstveno osiguranje. Ove promjene će najviše pogoditi one koji su dobro zarađivali i bez djece.",
-      "zastoVazno": "Ovo je važno za one koji imaju privatno osiguranje, jer može značajno uticati na njihove mjesečne troškove."
-    },
-    {
-      "id": "2026-10-01-3",
+      "id": "2026-10-04-2",
       "datum": "2026-09-30",
       "kategorija": "Zdravstveno",
       "izvor": "Pfefferminzia",
-      "link": "https://www.pfefferminzia.de/vorsorge/kabinett-beschliesst-pflegereform-mit-geaenderten-details/",
-      "naslov": "Nova pravila o reformi zdravstva: Uključivanje privatnog osiguranje odgađa se",
-      "sazetak": "Njemačka vlada odgodila je odluku o uključivanju privatnog zdravstvenog osiguranja u novoj reformi za januar. Ova reforma nastoji stabilizirati finansije zdravstvenog sistema.",
-      "zastoVazno": "Važno je da naši ljudi budu svjesni promjena koje se dešavaju u zdravstvenom osiguranju kako bi mogli planirati svoje financije."
+      "link": "https://www.pfefferminzia.de/politik-und-regulierung/pflegereform-beschlossen-entscheidung-ueber-pkv-einbindung-auf-januar-vertagt/",
+      "naslov": "Nova pravila za zdravstveno osiguranje u Njemačkoj",
+      "sazetak": "Nove reforme zdravstvenog osiguranja donose promjene koje će se odraziti na visinu premija i razinu usluga. Očekuje se da će se povećati troškovi za određene grupe osiguranika.",
+      "zastoVazno": "Važno je razumjeti kako ove promjene mogu utjecati na kvalitetu zdravstvene zaštite za naše ljude koji žive u Njemačkoj."
     },
     {
-      "id": "2026-10-01-4",
-      "datum": "2026-09-30",
-      "kategorija": "Penzija",
-      "izvor": "Pfefferminzia",
-      "link": "https://www.pfefferminzia.de/vorsorge/oekonomen-schreiben-brandbrief-fuer-die-rentenreform/",
-      "naslov": "Planirane promjene u penzionom sistemu izazivaju zabrinutost",
-      "sazetak": "Ekonomisti su upozorili na rizike povezane s planiranim reformama u penzionom sistemu, zahtijevajući da se sve preporuke sprovedu u potpunosti kako bi se održala stabilnost.",
-      "zastoVazno": "Ove reforme direktno utiču na buduće penzije mnogih naših sugrađana, pa je važno pratiti razvoj situacije."
+      "id": "2026-10-04-3",
+      "datum": "2026-10-01",
+      "kategorija": "Zdravstveno",
+      "izvor": "VWheute",
+      "link": "https://versicherungswirtschaft-heute.de/politik-und-regulierung/lebens-und-krankenversicherern-drohen-haftungsrisiken-durch-den-klimawandel/",
+      "naslov": "Povećanje premija u privatnom osiguranju",
+      "sazetak": "Za privatne osiguravatelje očekuje se povećanje premija zbog novi troškova i zahtjeva na tržištu. Ova promjena će dodatno opteretiti osiguranike.",
+      "zastoVazno": "S obzirom na to da mnogi naši ljudi imaju privatno zdravstveno osiguranje, bitno je pratiti promjene koje mogu utjecati na njihove financije."
     }
   ]
 }

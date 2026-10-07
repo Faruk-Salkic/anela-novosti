@@ -1,35 +1,35 @@
 {
-  "azurirano": "2026-10-04T05:00:29.577Z",
+  "azurirano": "2026-10-07T05:00:28.744Z",
   "vijesti": [
     {
-      "id": "2026-10-04-1",
-      "datum": "2026-10-02",
+      "id": "2026-10-07-1",
+      "datum": "2026-10-06",
       "kategorija": "Auto osiguranje",
-      "izvor": "Pfefferminzia",
-      "link": "https://www.pfefferminzia.de/mobilitaet/andere-typklassen-fuer-millionen-autofahrer/",
-      "naslov": "Promjena tipklasa za milion vozača u njemačkoj",
-      "sazetak": "Više od 12 miliona vozača u Njemačkoj doživjet će promjene tipklasa u KFZ osiguranju. Ova nova klasifikacija bit će temeljena na novoj statistici šteta, što može utjecati na cijene osiguranja.",
-      "zastoVazno": "Ovo je važno za vozače u Njemačkoj jer može utjecati na njihove troškove osiguranja, posebno u usporedbi sa starim klasa-pozicijama."
+      "izvor": "VWheute",
+      "link": "https://versicherungswirtschaft-heute.de/maerkte-und-vertrieb/2026-10-07/neue-regeln-fuer-kfz-versicherungen-justizministerium-legt-referentenentwurf-zur-reform-des-haftungsrechts-vor/",
+      "naslov": "Nove promjene za Kfz osiguranje: Reforma zakona o odgovornosti",
+      "sazetak": "Njemačko ministarstvo pravde je predstavilo nacrt zakona koji se bavi reformom zakona o odgovornosti i Kfz osiguranju. Ova reforma uključuje važne promjene u postupanju sa štetama kod leasing vozila i velikih nesreća na putu.",
+      "zastoVazno": "Ova reforma je bitna za vozače u Njemačkoj jer pomaže u bržem procesuiranju šteta i iznosima koji se isplaćuju u slučaju nesreća."
     },
     {
-      "id": "2026-10-04-2",
-      "datum": "2026-09-30",
-      "kategorija": "Zdravstveno",
+      "id": "2026-10-07-2",
+      "datum": "2026-10-06",
+      "kategorija": "Penzija",
       "izvor": "Pfefferminzia",
-      "link": "https://www.pfefferminzia.de/politik-und-regulierung/pflegereform-beschlossen-entscheidung-ueber-pkv-einbindung-auf-januar-vertagt/",
-      "naslov": "Nova pravila za zdravstveno osiguranje u Njemačkoj",
-      "sazetak": "Nove reforme zdravstvenog osiguranja donose promjene koje će se odraziti na visinu premija i razinu usluga. Očekuje se da će se povećati troškovi za određene grupe osiguranika.",
-      "zastoVazno": "Važno je razumjeti kako ove promjene mogu utjecati na kvalitetu zdravstvene zaštite za naše ljude koji žive u Njemačkoj."
+      "link": "https://www.pfefferminzia.de/vorsorge/altersvorsorgedepot-29-millionen-vertraege-zu-erwarten/",
+      "naslov": "Altersvorsorgedepot: Očekuje se 2,9 miliona novih ugovora",
+      "sazetak": "Prema najnovijim procjenama, do početka 2027. godine očekuje se da će biti zaključeno 2,9 miliona ugovora o starosnoj štednji. Ovo bi moglo donijeti godišnje premijske uplate od 6 milijardi evra.",
+      "zastoVazno": "Veća ponuda starosne štednje znači više opcija za naše ljude u Njemačkoj koji razmišljaju o svojoj penziji i financijskoj sigurnosti."
     },
     {
-      "id": "2026-10-04-3",
-      "datum": "2026-10-01",
+      "id": "2026-10-07-3",
+      "datum": "2026-10-06",
       "kategorija": "Zdravstveno",
       "izvor": "VWheute",
-      "link": "https://versicherungswirtschaft-heute.de/politik-und-regulierung/lebens-und-krankenversicherern-drohen-haftungsrisiken-durch-den-klimawandel/",
-      "naslov": "Povećanje premija u privatnom osiguranju",
-      "sazetak": "Za privatne osiguravatelje očekuje se povećanje premija zbog novi troškova i zahtjeva na tržištu. Ova promjena će dodatno opteretiti osiguranike.",
-      "zastoVazno": "S obzirom na to da mnogi naši ljudi imaju privatno zdravstveno osiguranje, bitno je pratiti promjene koje mogu utjecati na njihove financije."
+      "link": "https://versicherungswirtschaft-heute.de/unternehmen-und-management/2026-10-06/hdi-global-baut-internationales-healthcare-geschaeft-aus/",
+      "naslov": "Zdravstveno osiguranje: HDI Global širi svoj poslovni model",
+      "sazetak": "HDI Global planira proširiti svoje djelovanje u zdravstvenom sektoru, nudeći međunarodna rješenja za zdravstvene usluge. Ovo uključuje i osiguranje za bolničke rizike.",
+      "zastoVazno": "Ovo širenje može poboljšati dostupnost zdravstvenih usluga za nedavne imigrante i one koji koriste bolničke usluge u Njemačkoj."
     }
   ]
 }

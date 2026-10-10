@@ -1,35 +1,35 @@
 {
-  "azurirano": "2026-10-07T05:00:28.744Z",
+  "azurirano": "2026-10-10T05:00:28.925Z",
   "vijesti": [
     {
-      "id": "2026-10-07-1",
+      "id": "2026-10-10-1",
       "datum": "2026-10-06",
       "kategorija": "Auto osiguranje",
       "izvor": "VWheute",
       "link": "https://versicherungswirtschaft-heute.de/maerkte-und-vertrieb/2026-10-07/neue-regeln-fuer-kfz-versicherungen-justizministerium-legt-referentenentwurf-zur-reform-des-haftungsrechts-vor/",
-      "naslov": "Nove promjene za Kfz osiguranje: Reforma zakona o odgovornosti",
-      "sazetak": "Njemačko ministarstvo pravde je predstavilo nacrt zakona koji se bavi reformom zakona o odgovornosti i Kfz osiguranju. Ova reforma uključuje važne promjene u postupanju sa štetama kod leasing vozila i velikih nesreća na putu.",
-      "zastoVazno": "Ova reforma je bitna za vozače u Njemačkoj jer pomaže u bržem procesuiranju šteta i iznosima koji se isplaćuju u slučaju nesreća."
+      "naslov": "Nove promjene u zakonodavstvu o Kfz osiguranju u Njemačkoj",
+      "sazetak": "Njemačko ministarstvo pravde predložilo je izmjene zakona o osiguranju koja će unaprijediti obradu šteta za leasing vozila i velika osiguravajuća događanja. Ove promjene se posebno odnose na slučajeve kada se vozila koriste za izvršenje krivičnih djela.",
+      "zastoVazno": "Ova izmjena zakona može uticati na to kako se obrađuju štete u saobraćaju, što je od velikog značaja za sve vozače i korisnike osiguranja u Njemačkoj."
     },
     {
-      "id": "2026-10-07-2",
-      "datum": "2026-10-06",
-      "kategorija": "Penzija",
-      "izvor": "Pfefferminzia",
-      "link": "https://www.pfefferminzia.de/vorsorge/altersvorsorgedepot-29-millionen-vertraege-zu-erwarten/",
-      "naslov": "Altersvorsorgedepot: Očekuje se 2,9 miliona novih ugovora",
-      "sazetak": "Prema najnovijim procjenama, do početka 2027. godine očekuje se da će biti zaključeno 2,9 miliona ugovora o starosnoj štednji. Ovo bi moglo donijeti godišnje premijske uplate od 6 milijardi evra.",
-      "zastoVazno": "Veća ponuda starosne štednje znači više opcija za naše ljude u Njemačkoj koji razmišljaju o svojoj penziji i financijskoj sigurnosti."
-    },
-    {
-      "id": "2026-10-07-3",
-      "datum": "2026-10-06",
+      "id": "2026-10-10-2",
+      "datum": "2026-10-08",
       "kategorija": "Zdravstveno",
+      "izvor": "Pfefferminzia",
+      "link": "https://www.pfefferminzia.de/gesundheit/private-krankenversicherung-jede-zehnte-ist-hervorragend/",
+      "naslov": "Svaka deseta privatna zdravstvena osiguravajuća polica je 'izvrsna'",
+      "sazetak": "Prema novom izvještaju agencije Franke i Bornberg, svaka deseta privatna zdravstvena osiguravajuća polica ocijenjena je kao 'izvrsna'. U ocjenjivanju su uzeti u obzir kriteriji kao što su ekonomska stabilnost i održivost osiguravajućih društava.",
+      "zastoVazno": "Ova informacija pomaže ljudima da bolje razumiju izbore koje imaju pri odabiru privatnog zdravstvenog osiguranja, što je ključno za njihov okušavanju u njemačkom zdravstvenom sistemu."
+    },
+    {
+      "id": "2026-10-10-3",
+      "datum": "2026-10-09",
+      "kategorija": "Opšte",
       "izvor": "VWheute",
-      "link": "https://versicherungswirtschaft-heute.de/unternehmen-und-management/2026-10-06/hdi-global-baut-internationales-healthcare-geschaeft-aus/",
-      "naslov": "Zdravstveno osiguranje: HDI Global širi svoj poslovni model",
-      "sazetak": "HDI Global planira proširiti svoje djelovanje u zdravstvenom sektoru, nudeći međunarodna rješenja za zdravstvene usluge. Ovo uključuje i osiguranje za bolničke rizike.",
-      "zastoVazno": "Ovo širenje može poboljšati dostupnost zdravstvenih usluga za nedavne imigrante i one koji koriste bolničke usluge u Njemačkoj."
+      "link": "https://versicherungswirtschaft-heute.de/politik-und-regulierung/2026-10-09/geschaeftserwartungen-der-versicherer-sinken-deutlich/",
+      "naslov": "Uskoro izmjene u Zakonu o zaštiti prava potrošača u osiguranju",
+      "sazetak": "Ministarstvo pravde radi na izradi zakona koji bi poboljšao prava potrošača u vezi s osiguranjem. Očekuje se da će fokus biti na jasnijim informacijama o pravima i obavezama potrošača.",
+      "zastoVazno": "Ovo će pomoći osiguranicima da bolje razumiju svoja prava, što je posebno važno za dijasporu koja nije upoznata sa svim detaljima njemačkog tržišta osiguranja."
     }
   ]
 }

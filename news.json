@@ -1,35 +1,35 @@
 {
-  "azurirano": "2026-10-10T05:00:28.925Z",
+  "azurirano": "2026-10-13T05:00:28.627Z",
   "vijesti": [
     {
-      "id": "2026-10-10-1",
-      "datum": "2026-10-06",
+      "id": "2026-10-13-1",
+      "datum": "2026-10-12",
       "kategorija": "Auto osiguranje",
       "izvor": "VWheute",
-      "link": "https://versicherungswirtschaft-heute.de/maerkte-und-vertrieb/2026-10-07/neue-regeln-fuer-kfz-versicherungen-justizministerium-legt-referentenentwurf-zur-reform-des-haftungsrechts-vor/",
-      "naslov": "Nove promjene u zakonodavstvu o Kfz osiguranju u Njemačkoj",
-      "sazetak": "Njemačko ministarstvo pravde predložilo je izmjene zakona o osiguranju koja će unaprijediti obradu šteta za leasing vozila i velika osiguravajuća događanja. Ove promjene se posebno odnose na slučajeve kada se vozila koriste za izvršenje krivičnih djela.",
-      "zastoVazno": "Ova izmjena zakona može uticati na to kako se obrađuju štete u saobraćaju, što je od velikog značaja za sve vozače i korisnike osiguranja u Njemačkoj."
+      "link": "https://versicherungswirtschaft-heute.de/politik-und-regulierung/2026-10-12/gdv-ersatzteilpreise-seit-2016-um-ueber-80-prozent-gestiegen/",
+      "naslov": "Cijene auto dijelova porasle preko 80% od 2016. godine",
+      "sazetak": "Prema istraživanju GDV-a, cijene auto dijelova u Njemačkoj su od 2016. godine porasle za više od 80%. Samo u posljednjih godinu dana, cijene su porasle za više od 4%.",
+      "zastoVazno": "Ovo povećanje cijena može značajno utjecati na troškove auto osiguranja i popravki, što je važno za sva vozila u njemačkom sistemu saobraćaja."
     },
     {
-      "id": "2026-10-10-2",
-      "datum": "2026-10-08",
+      "id": "2026-10-13-2",
+      "datum": "2026-10-11",
+      "kategorija": "Penzija",
+      "izvor": "VWheute",
+      "link": "https://versicherungswirtschaft-heute.de/schlaglicht/2026-10-12/altersvorsorge-reform-die-gefahr-steckt-nicht-im-neugeschaeft-sondern-im-bestand/",
+      "naslov": "Reforma penzionog osiguranja: Mogućnosti za promjenu u 2027. godini",
+      "sazetak": "Prema zakonu o reformi penzijskog osiguranja, od januara 2027. godine, milioni klijenata će moći da pređu na novo penziono osiguranje. Takođe, biće mogućnost prelaska sredstava iz postojećih ugovora.",
+      "zastoVazno": "Ova reforma može značajno uticati na finansijsku sigurnost naših ljudi u Njemačkoj i pružiti mogućnost pametnijeg upravljanja penzijama."
+    },
+    {
+      "id": "2026-10-13-3",
+      "datum": "2026-10-12",
       "kategorija": "Zdravstveno",
       "izvor": "Pfefferminzia",
-      "link": "https://www.pfefferminzia.de/gesundheit/private-krankenversicherung-jede-zehnte-ist-hervorragend/",
-      "naslov": "Svaka deseta privatna zdravstvena osiguravajuća polica je 'izvrsna'",
-      "sazetak": "Prema novom izvještaju agencije Franke i Bornberg, svaka deseta privatna zdravstvena osiguravajuća polica ocijenjena je kao 'izvrsna'. U ocjenjivanju su uzeti u obzir kriteriji kao što su ekonomska stabilnost i održivost osiguravajućih društava.",
-      "zastoVazno": "Ova informacija pomaže ljudima da bolje razumiju izbore koje imaju pri odabiru privatnog zdravstvenog osiguranja, što je ključno za njihov okušavanju u njemačkom zdravstvenom sistemu."
-    },
-    {
-      "id": "2026-10-10-3",
-      "datum": "2026-10-09",
-      "kategorija": "Opšte",
-      "izvor": "VWheute",
-      "link": "https://versicherungswirtschaft-heute.de/politik-und-regulierung/2026-10-09/geschaeftserwartungen-der-versicherer-sinken-deutlich/",
-      "naslov": "Uskoro izmjene u Zakonu o zaštiti prava potrošača u osiguranju",
-      "sazetak": "Ministarstvo pravde radi na izradi zakona koji bi poboljšao prava potrošača u vezi s osiguranjem. Očekuje se da će fokus biti na jasnijim informacijama o pravima i obavezama potrošača.",
-      "zastoVazno": "Ovo će pomoći osiguranicima da bolje razumiju svoja prava, što je posebno važno za dijasporu koja nije upoznata sa svim detaljima njemačkog tržišta osiguranja."
+      "link": "https://www.pfefferminzia.de/vorsorge/pflegezusatzversicherung-hohes-beratungspotenzial/",
+      "naslov": "Visok potencijal za savjetovanje o dopunskom zdravstvenom osiguranju",
+      "sazetak": "Mnogi ljudi izbjegavaju razmišljanje o mogućoj potrebi za zdravstvenom njegom u starosti. U istraživanju, 69% ispitanika brine o gubitku samostalnosti, a ne o troškovima zdravstvene njege.",
+      "zastoVazno": "Ovo je važno jer može pomoći ljudima iz naše dijaspore da budu bolje pripremljeni za buduće zdravstvene troškove i da razumiju važnost dopunskog osiguranja."
     }
   ]
 }

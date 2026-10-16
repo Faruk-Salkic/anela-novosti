@@ -1,35 +1,35 @@
 {
-  "azurirano": "2026-10-13T05:00:28.627Z",
+  "azurirano": "2026-10-16T05:00:59.544Z",
   "vijesti": [
     {
-      "id": "2026-10-13-1",
-      "datum": "2026-10-12",
-      "kategorija": "Auto osiguranje",
-      "izvor": "VWheute",
-      "link": "https://versicherungswirtschaft-heute.de/politik-und-regulierung/2026-10-12/gdv-ersatzteilpreise-seit-2016-um-ueber-80-prozent-gestiegen/",
-      "naslov": "Cijene auto dijelova porasle preko 80% od 2016. godine",
-      "sazetak": "Prema istraživanju GDV-a, cijene auto dijelova u Njemačkoj su od 2016. godine porasle za više od 80%. Samo u posljednjih godinu dana, cijene su porasle za više od 4%.",
-      "zastoVazno": "Ovo povećanje cijena može značajno utjecati na troškove auto osiguranja i popravki, što je važno za sva vozila u njemačkom sistemu saobraćaja."
-    },
-    {
-      "id": "2026-10-13-2",
-      "datum": "2026-10-11",
-      "kategorija": "Penzija",
-      "izvor": "VWheute",
-      "link": "https://versicherungswirtschaft-heute.de/schlaglicht/2026-10-12/altersvorsorge-reform-die-gefahr-steckt-nicht-im-neugeschaeft-sondern-im-bestand/",
-      "naslov": "Reforma penzionog osiguranja: Mogućnosti za promjenu u 2027. godini",
-      "sazetak": "Prema zakonu o reformi penzijskog osiguranja, od januara 2027. godine, milioni klijenata će moći da pređu na novo penziono osiguranje. Takođe, biće mogućnost prelaska sredstava iz postojećih ugovora.",
-      "zastoVazno": "Ova reforma može značajno uticati na finansijsku sigurnost naših ljudi u Njemačkoj i pružiti mogućnost pametnijeg upravljanja penzijama."
-    },
-    {
-      "id": "2026-10-13-3",
-      "datum": "2026-10-12",
+      "id": "2026-10-16-1",
+      "datum": "2026-10-15",
       "kategorija": "Zdravstveno",
       "izvor": "Pfefferminzia",
-      "link": "https://www.pfefferminzia.de/vorsorge/pflegezusatzversicherung-hohes-beratungspotenzial/",
-      "naslov": "Visok potencijal za savjetovanje o dopunskom zdravstvenom osiguranju",
-      "sazetak": "Mnogi ljudi izbjegavaju razmišljanje o mogućoj potrebi za zdravstvenom njegom u starosti. U istraživanju, 69% ispitanika brine o gubitku samostalnosti, a ne o troškovima zdravstvene njege.",
-      "zastoVazno": "Ovo je važno jer može pomoći ljudima iz naše dijaspore da budu bolje pripremljeni za buduće zdravstvene troškove i da razumiju važnost dopunskog osiguranja."
+      "link": "https://www.pfefferminzia.de/gesundheit/durchschnittlicher-gkv-zusatzbeitrag-bleibt-bei-29-prozent/",
+      "naslov": "Prosječna dodatna premija za GKV ostaje na 2,9 posto",
+      "sazetak": "Stručnjaci su utvrdili da prosječna dodatna premija za zakonito zdravstveno osiguranje (GKV) ostaje na 2,9 posto za 2026. godinu. Očekuje se da će zdravstveni fond imati prihode od 312,2 milijardi eura tokom 2026.",
+      "zastoVazno": "Ovo je važno za sve osiguranike u Njemačkoj da budu svjesni visine svojih premija i očekivanih troškova zdravstvenog osiguranja, jer se to direktno odražava na njihov budžet."
+    },
+    {
+      "id": "2026-10-16-2",
+      "datum": "2026-10-14",
+      "kategorija": "Životno i BU",
+      "izvor": "Pfefferminzia",
+      "link": "https://www.pfefferminzia.de/arbeit/bu-versicherung-wann-sich-mehrere-vertraege-lohnen/",
+      "naslov": "BU osiguranje: Kada se isplati imati više ugovora",
+      "sazetak": "Iako se može činiti kompliciranim, ponekad je korisno imati više ugovora o osiguranju od profesionalne nesposobnosti (BU). Takva zaštita može biti korisna u raznim situacijama kada jedan ugovor ne pokriva sve potrebe.",
+      "zastoVazno": "Ovo znanje je korisno za radnike koji žele da se dodatno osiguraju i zaštite svoje prihode u slučaju nezaposlenosti ili nesposobnosti za rad."
+    },
+    {
+      "id": "2026-10-16-3",
+      "datum": "2026-10-14",
+      "kategorija": "Auto osiguranje",
+      "izvor": "Pfefferminzia",
+      "link": "https://www.pfefferminzia.de/branche/bgh-nur-bei-wettrennen-gilt-ausschlussklausel/",
+      "naslov": "BGH: Samo u slučaju trke izbacuje se klauzula isključenja",
+      "sazetak": "Njemački vrhovni sud odlučio je da se klauzula isključenja isplaćuje samo u slučaju takmičenja. Ova odluka je važna za vozače koji učestvuju u trkačkim događajima.",
+      "zastoVazno": "Ovo je važno za vozače i one koji imaju osiguranje, jer može uticati na način na koji se osiguravaju i pokrivenost koju dobijaju u slučaju nesreće."
     }
   ]
 }

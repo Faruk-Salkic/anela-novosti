@@ -1,35 +1,35 @@
 {
-  "azurirano": "2026-10-19T05:00:34.981Z",
+  "azurirano": "2026-10-22T05:00:35.236Z",
   "vijesti": [
     {
-      "id": "2026-10-19-1",
-      "datum": "2026-10-16",
-      "kategorija": "Penzija",
-      "izvor": "VWheute",
-      "link": "https://versicherungswirtschaft-heute.de/schlaglicht/2026-10-16/fruehstartrente-passiert-bundestag-vermittler-vermissen-beratungspflicht/",
-      "naslov": "Frühstartrente: Država pomaže djeci u štednji za penziju",
-      "sazetak": "Bundestag je usvojio reformu koja uvodi Frühstartrente. Ova reforma omogućava djeci da počnu štedjeti za penziju s samo 10 eura mjesečno, uz podršku države. Ovo je važno za dugoročnu financijsku sigurnost i planiranje penzije.",
-      "zastoVazno": "Za naše ljude u Njemačkoj, ova reforma donosi priliku za bolje planiranje penzije za djecu, što može biti važno za budućnost obitelji."
-    },
-    {
-      "id": "2026-10-19-2",
-      "datum": "2026-10-16",
+      "id": "2026-10-22-1",
+      "datum": "2026-10-21",
       "kategorija": "Nekretnine",
-      "izvor": "Pfefferminzia",
-      "link": "https://www.pfefferminzia.de/zuhause/klimawandel-macht-immobilienversicherungen-unbezahlbar/",
-      "naslov": "Klimatske promjene povećavaju cijene osiguranja nekretnina",
-      "sazetak": "Zbog klimatskih promjena, mnoge nekretnine će postati preskupe za osiguranje. Strahuje se da osiguravatelji neće moći ponuditi pristupačan osiguravajući zaštitu za određena područja. Ovo predstavlja veliki izazov za vlasnike nekretnina.",
-      "zastoVazno": "Za naše ljude koji posjeduju nekretnine, ovo je važno jer se cijene osiguranja mogu značajno povećati, što može utjecati na njihovu financijsku stabilnost."
+      "izvor": "VWheute",
+      "link": "https://versicherungswirtschaft-heute.de/politik-und-regulierung/2026-10-21/pflichtversicherung-gegen-elementarschaeden-wird-konkreter/",
+      "naslov": "Obavezno osiguranje od elementarnih šteta postaje realnost",
+      "sazetak": "Njemačka vlada radi na reformi osiguranja za kuće. Planiraju da novo osiguranje uključuje zaštitu od prirodnih katastrofa poput poplava i zemljotresa kao standard za vlasnike kuća.",
+      "zastoVazno": "Ova reforma će pomoći našim ljudima da budu bolje zaštićeni od prirodnih katastrofa, što je posebno važno za nekretnine u ugroženim područjima."
     },
     {
-      "id": "2026-10-19-3",
-      "datum": "2026-10-16",
-      "kategorija": "Penzija",
+      "id": "2026-10-22-2",
+      "datum": "2026-10-19",
+      "kategorija": "Auto osiguranje",
+      "izvor": "VWheute",
+      "link": "https://versicherungswirtschaft-heute.de/schlaglicht/2026-10-20/kfz-versicherung-sehr-profitable-anbieter-koennten-den-wettbewerb-wieder-verschaerfen/",
+      "naslov": "Osiguranje vozila: Povećanje premija i profitabilnost",
+      "sazetak": "Osiguravatelji u Njemačkoj su u posljednjim mjesecima povećali premije za osiguranje vozila. Ova prilagodba pomaže u smanjenju gubitaka i vraćanju stabilnosti na tržištu.",
+      "zastoVazno": "Važno je za vozače da budu svjesni promjena u premijama, kako bi mogli planirati svoje troškove i osigurati se od budućih poskupljenja."
+    },
+    {
+      "id": "2026-10-22-3",
+      "datum": "2026-10-20",
+      "kategorija": "Zdravstveno",
       "izvor": "Pfefferminzia",
-      "link": "https://www.pfefferminzia.de/top-thema-assekuranz-der-zukunft/altersvorsorge-reform-setzt-lebensversicherer-unter-druck/",
-      "naslov": "Osiguravajuće kompanije se pripremaju za promjene u zakonu o penzijama",
-      "sazetak": "Reforma privatne penzije donosi nova pravila i strateške prilagodbe za osiguravatelje. Od 2027. godine, uvode se nova rješenja za penzionu štednju, što će utjecati na ponudu osiguranja. Ovo može otvoriti nova pitanja za korisnike.",
-      "zastoVazno": "Za bosansku, hrvatsku i srpsku dijasporu, poznavanje ovih promjena može biti ključno za pravilno planiranje i osiguranje njihovih penzionih prava u Njemačkoj."
+      "link": "https://www.pfefferminzia.de/gesundheit/pkv-fuer-beamte-nur-wenige-tarife-glaenzen/",
+      "naslov": "Zdravstveno osiguranje: Pretpostavljeni porast cijena za 2027.",
+      "sazetak": "Četvrtina privatno osiguranih pacijenata u Njemačkoj suočit će se s povećanjem premija za zdravstveno osiguranje u 2027. godini.",
+      "zastoVazno": "Ovo povećanje može značajno utjecati na budžete naših ljudi, pa je važno da se informiraju o svojim opcijama osiguranja i mogućim rješenjima."
     }
   ]
 }

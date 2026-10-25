@@ -1,35 +1,45 @@
 {
-  "azurirano": "2026-10-22T05:00:35.236Z",
+  "azurirano": "2026-10-25T06:00:31.928Z",
   "vijesti": [
     {
-      "id": "2026-10-22-1",
+      "id": "2026-10-25-1",
       "datum": "2026-10-21",
       "kategorija": "Nekretnine",
       "izvor": "VWheute",
       "link": "https://versicherungswirtschaft-heute.de/politik-und-regulierung/2026-10-21/pflichtversicherung-gegen-elementarschaeden-wird-konkreter/",
-      "naslov": "Obavezno osiguranje od elementarnih šteta postaje realnost",
-      "sazetak": "Njemačka vlada radi na reformi osiguranja za kuće. Planiraju da novo osiguranje uključuje zaštitu od prirodnih katastrofa poput poplava i zemljotresa kao standard za vlasnike kuća.",
-      "zastoVazno": "Ova reforma će pomoći našim ljudima da budu bolje zaštićeni od prirodnih katastrofa, što je posebno važno za nekretnine u ugroženim područjima."
+      "naslov": "Obavezno osiguranje od elementarnih šteta postaje standard za vlasnike kuća",
+      "sazetak": "Njemačka vlada radi na reformi osiguranja zgrada, a novi propisi će obavezati vlasnike kuća na osiguranje od šteta uzrokovanih prirodnim katastrofama. Ovo uključuje pokriće za poplave, zemljotrese i lavine, čime će se osnažiti zaštita imovine.",
+      "zastoVazno": "Važno je za dijasporu da budu svjesni novih zakona koji mogu utjecati na njihovo osiguranje doma, posebno ako posjeduju nekretnine u Njemačkoj."
     },
     {
-      "id": "2026-10-22-2",
-      "datum": "2026-10-19",
-      "kategorija": "Auto osiguranje",
-      "izvor": "VWheute",
-      "link": "https://versicherungswirtschaft-heute.de/schlaglicht/2026-10-20/kfz-versicherung-sehr-profitable-anbieter-koennten-den-wettbewerb-wieder-verschaerfen/",
-      "naslov": "Osiguranje vozila: Povećanje premija i profitabilnost",
-      "sazetak": "Osiguravatelji u Njemačkoj su u posljednjim mjesecima povećali premije za osiguranje vozila. Ova prilagodba pomaže u smanjenju gubitaka i vraćanju stabilnosti na tržištu.",
-      "zastoVazno": "Važno je za vozače da budu svjesni promjena u premijama, kako bi mogli planirati svoje troškove i osigurati se od budućih poskupljenja."
-    },
-    {
-      "id": "2026-10-22-3",
-      "datum": "2026-10-20",
+      "id": "2026-10-25-2",
+      "datum": "2026-10-22",
       "kategorija": "Zdravstveno",
       "izvor": "Pfefferminzia",
-      "link": "https://www.pfefferminzia.de/gesundheit/pkv-fuer-beamte-nur-wenige-tarife-glaenzen/",
-      "naslov": "Zdravstveno osiguranje: Pretpostavljeni porast cijena za 2027.",
-      "sazetak": "Četvrtina privatno osiguranih pacijenata u Njemačkoj suočit će se s povećanjem premija za zdravstveno osiguranje u 2027. godini.",
-      "zastoVazno": "Ovo povećanje može značajno utjecati na budžete naših ljudi, pa je važno da se informiraju o svojim opcijama osiguranja i mogućim rješenjima."
+      "link": "https://www.pfefferminzia.de/vorsorge/dopunsko-zdravstveno-osiguranje-u-njemackoj/",
+      "naslov": "Zdravstveno osiguranje u Njemačkoj: Šta trebate znati o dopunskom osiguranju",
+      "sazetak": "Dopunsko zdravstveno osiguranje u Njemačkoj je važno za pokriće dodatnih troškova koji osnovno osiguranje ne pokriva, poput privatnih soba u bolnicama ili specijalističkih pregleda. Ovo osiguranje pomaže u vraćanju pacijenata bržem pristupu potrebnim uslugama.",
+      "zastoVazno": "Za naše ljude je bitno razumjeti prednosti dopunskog osiguranja kako bi se osigurali od dodatnih troškova koji mogu nastati tokom liječenja, što može biti važno posebno za one koji se suočavaju sa zdravstvenim problemima."
+    },
+    {
+      "id": "2026-10-25-3",
+      "datum": "2026-10-22",
+      "kategorija": "Penzija",
+      "izvor": "Pfefferminzia",
+      "link": "https://www.pfefferminzia.de/vorsorge/nova-ponuda-penzijskih-osiguranja/",
+      "naslov": "Nova ponuda osiguravajuće industrije za penzije i štednju",
+      "sazetak": "Osiguravači uvode nove proizvode za penzijsko osiguranje koji su prilagođeni potrebama modernih štednih planova. Ovi novi proizvodi nude fleksibilne opcije u korist budućih penzionera.",
+      "zastoVazno": "Važno je za dijasporu da se upozna sa novim penzionim rješenjima koja mogu pomoći u planiranju finansijske sigurnosti tokom starosti, posebno u kontekstu promjena na tržištu rada."
+    },
+    {
+      "id": "2026-10-25-4",
+      "datum": "2026-10-22",
+      "kategorija": "Auto osiguranje",
+      "izvor": "VWheute",
+      "link": "https://versicherungswirtschaft-heute.de/maerkte-und-vertrieb/2026-10-22/cijene-auto-osiguranja-raste/",
+      "naslov": "Cijene auto osiguranja rastu: Šta očekivati u budućnosti?",
+      "sazetak": "Cijene auto osiguranja u Njemačkoj se povećavaju usljed rasta troškova šteta i veće potražnje za osiguranjem. Analizirane su trenutne tendencije i predviđa se daljnji rast premija auto osiguranja.",
+      "zastoVazno": "Dijaspora treba biti svjesna rasta cijena auto osiguranja kako bi planirali svoje troškove i izabrali najbolje opcije osiguranja za svoja vozila."
     }
   ]
 }

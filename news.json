@@ -1,45 +1,35 @@
 {
-  "azurirano": "2026-10-25T06:00:31.928Z",
+  "azurirano": "2026-10-28T06:00:35.099Z",
   "vijesti": [
     {
-      "id": "2026-10-25-1",
-      "datum": "2026-10-21",
+      "id": "2026-10-28-1",
+      "datum": "2026-10-28",
       "kategorija": "Nekretnine",
       "izvor": "VWheute",
-      "link": "https://versicherungswirtschaft-heute.de/politik-und-regulierung/2026-10-21/pflichtversicherung-gegen-elementarschaeden-wird-konkreter/",
-      "naslov": "Obavezno osiguranje od elementarnih šteta postaje standard za vlasnike kuća",
-      "sazetak": "Njemačka vlada radi na reformi osiguranja zgrada, a novi propisi će obavezati vlasnike kuća na osiguranje od šteta uzrokovanih prirodnim katastrofama. Ovo uključuje pokriće za poplave, zemljotrese i lavine, čime će se osnažiti zaštita imovine.",
-      "zastoVazno": "Važno je za dijasporu da budu svjesni novih zakona koji mogu utjecati na njihovo osiguranje doma, posebno ako posjeduju nekretnine u Njemačkoj."
+      "link": "https://versicherungswirtschaft-heute.de/maerkte-und-vertrieb/2026-10-28/elementar-pflicht-es-ist-davon-auszugehen-dass-versicherer-diese-reform-nutzen-werden-um-sich-von-alten-untertarifierten-vertraegen-zu-trennen/",
+      "naslov": "Preporučuje se osiguranje od elementarnih šteta zbog novih pravila",
+      "sazetak": "Postoje nove preporuke za obavezno osiguranje od elementarnih šteta, koje je izazvano reformama u zakonodavstvu. Savjetnici ukazuju na moguće rizike za osiguravače i klijente kada je riječ o starim ugovorima.",
+      "zastoVazno": "Ovo je važno za naše ljude u Njemačkoj kako bi se zaštitili od potencijalnih gubitaka i problema sa osiguranim ugovorima."
     },
     {
-      "id": "2026-10-25-2",
-      "datum": "2026-10-22",
-      "kategorija": "Zdravstveno",
-      "izvor": "Pfefferminzia",
-      "link": "https://www.pfefferminzia.de/vorsorge/dopunsko-zdravstveno-osiguranje-u-njemackoj/",
-      "naslov": "Zdravstveno osiguranje u Njemačkoj: Šta trebate znati o dopunskom osiguranju",
-      "sazetak": "Dopunsko zdravstveno osiguranje u Njemačkoj je važno za pokriće dodatnih troškova koji osnovno osiguranje ne pokriva, poput privatnih soba u bolnicama ili specijalističkih pregleda. Ovo osiguranje pomaže u vraćanju pacijenata bržem pristupu potrebnim uslugama.",
-      "zastoVazno": "Za naše ljude je bitno razumjeti prednosti dopunskog osiguranja kako bi se osigurali od dodatnih troškova koji mogu nastati tokom liječenja, što može biti važno posebno za one koji se suočavaju sa zdravstvenim problemima."
-    },
-    {
-      "id": "2026-10-25-3",
-      "datum": "2026-10-22",
-      "kategorija": "Penzija",
-      "izvor": "Pfefferminzia",
-      "link": "https://www.pfefferminzia.de/vorsorge/nova-ponuda-penzijskih-osiguranja/",
-      "naslov": "Nova ponuda osiguravajuće industrije za penzije i štednju",
-      "sazetak": "Osiguravači uvode nove proizvode za penzijsko osiguranje koji su prilagođeni potrebama modernih štednih planova. Ovi novi proizvodi nude fleksibilne opcije u korist budućih penzionera.",
-      "zastoVazno": "Važno je za dijasporu da se upozna sa novim penzionim rješenjima koja mogu pomoći u planiranju finansijske sigurnosti tokom starosti, posebno u kontekstu promjena na tržištu rada."
-    },
-    {
-      "id": "2026-10-25-4",
-      "datum": "2026-10-22",
+      "id": "2026-10-28-2",
+      "datum": "2026-10-27",
       "kategorija": "Auto osiguranje",
+      "izvor": "Pfefferminzia",
+      "link": "https://www.pfefferminzia.de/mobilitaet/wechselsaison-kfz-versicherer-liefern-sich-wieder-einen-preiskampf/",
+      "naslov": "Poskupljenje auto osiguranja: Prekidi u cijenama usljed promjena",
+      "sazetak": "Osiguravači za automobile su započeli borbu za nove kupce s povećanjem cijena u odnosu na prethodne godine. U prosjeku, nove tarife su 2% više nego prethodne godine, što ukazuje na stabilizaciju tržišta.",
+      "zastoVazno": "Za naše ljude u Njemačkoj ovo znači da trebaju pažljivo razmotriti svoje opcije prilikom odabira auto osiguranja, kako bi izbjegli nepotrebne troškove."
+    },
+    {
+      "id": "2026-10-28-3",
+      "datum": "2026-10-26",
+      "kategorija": "Zdravstveno",
       "izvor": "VWheute",
-      "link": "https://versicherungswirtschaft-heute.de/maerkte-und-vertrieb/2026-10-22/cijene-auto-osiguranja-raste/",
-      "naslov": "Cijene auto osiguranja rastu: Šta očekivati u budućnosti?",
-      "sazetak": "Cijene auto osiguranja u Njemačkoj se povećavaju usljed rasta troškova šteta i veće potražnje za osiguranjem. Analizirane su trenutne tendencije i predviđa se daljnji rast premija auto osiguranja.",
-      "zastoVazno": "Dijaspora treba biti svjesna rasta cijena auto osiguranja kako bi planirali svoje troškove i izabrali najbolje opcije osiguranja za svoja vozila."
+      "link": "https://versicherungswirtschaft-heute.de/politik-und-regulierung/2026-10-26/warnung-im-ipo-prospekt-anthropics-boersenplaene-lenken-den-blick-auf-ki-haftungsluecken-der-versicherer/",
+      "naslov": "Zdravstveno osiguranje: Promjene u postupku i cijenama",
+      "sazetak": "Planiraju se promjene za sistem zdravstvenih osiguranja koje će se odraziti na cijene i postupke u narednim godinama. Očekuje se da će troškovi rasti zbog inflacije i veće potražnje za zdravstvenim uslugama.",
+      "zastoVazno": "Ovo je bitno za naše ljude jer će utjecati na dostupnost i cijenu zdravstvenih usluga, što može imati direktan utjecaj na njihove živote."
     }
   ]
 }

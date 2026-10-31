@@ -1,35 +1,35 @@
 {
-  "azurirano": "2026-10-28T06:00:35.099Z",
+  "azurirano": "2026-10-31T06:00:30.906Z",
   "vijesti": [
     {
-      "id": "2026-10-28-1",
-      "datum": "2026-10-28",
-      "kategorija": "Nekretnine",
-      "izvor": "VWheute",
-      "link": "https://versicherungswirtschaft-heute.de/maerkte-und-vertrieb/2026-10-28/elementar-pflicht-es-ist-davon-auszugehen-dass-versicherer-diese-reform-nutzen-werden-um-sich-von-alten-untertarifierten-vertraegen-zu-trennen/",
-      "naslov": "Preporučuje se osiguranje od elementarnih šteta zbog novih pravila",
-      "sazetak": "Postoje nove preporuke za obavezno osiguranje od elementarnih šteta, koje je izazvano reformama u zakonodavstvu. Savjetnici ukazuju na moguće rizike za osiguravače i klijente kada je riječ o starim ugovorima.",
-      "zastoVazno": "Ovo je važno za naše ljude u Njemačkoj kako bi se zaštitili od potencijalnih gubitaka i problema sa osiguranim ugovorima."
-    },
-    {
-      "id": "2026-10-28-2",
-      "datum": "2026-10-27",
+      "id": "2026-10-31-1",
+      "datum": "2026-10-29",
       "kategorija": "Auto osiguranje",
-      "izvor": "Pfefferminzia",
-      "link": "https://www.pfefferminzia.de/mobilitaet/wechselsaison-kfz-versicherer-liefern-sich-wieder-einen-preiskampf/",
-      "naslov": "Poskupljenje auto osiguranja: Prekidi u cijenama usljed promjena",
-      "sazetak": "Osiguravači za automobile su započeli borbu za nove kupce s povećanjem cijena u odnosu na prethodne godine. U prosjeku, nove tarife su 2% više nego prethodne godine, što ukazuje na stabilizaciju tržišta.",
-      "zastoVazno": "Za naše ljude u Njemačkoj ovo znači da trebaju pažljivo razmotriti svoje opcije prilikom odabira auto osiguranja, kako bi izbjegli nepotrebne troškove."
+      "izvor": "VWheute",
+      "link": "https://versicherungswirtschaft-heute.de/schlaglicht/2026-10-30/axa-dreht-an-der-preisschraube-deutsche-privatkunden-zahlen-ueber-5-prozent-mehr/",
+      "naslov": "Axa povećava cijene osiguranja za više od 5%",
+      "sazetak": "Francuski osiguravajući koncern Axa je saopštio da će njemački privatni kupci plaćati više od 5% za osiguranje. Promjena cijene je izazvana prilagođavanjem tarife u privatnom sektoru osiguranja, što je rezultat porasta troškova.",
+      "zastoVazno": "Ovo poskupljenje može uticati na budžet mnogih naših ljudi u Njemačkoj koji se oslanjaju na privatna osiguranja."
     },
     {
-      "id": "2026-10-28-3",
-      "datum": "2026-10-26",
-      "kategorija": "Zdravstveno",
+      "id": "2026-10-31-2",
+      "datum": "2026-10-29",
+      "kategorija": "Auto osiguranje",
       "izvor": "VWheute",
-      "link": "https://versicherungswirtschaft-heute.de/politik-und-regulierung/2026-10-26/warnung-im-ipo-prospekt-anthropics-boersenplaene-lenken-den-blick-auf-ki-haftungsluecken-der-versicherer/",
-      "naslov": "Zdravstveno osiguranje: Promjene u postupku i cijenama",
-      "sazetak": "Planiraju se promjene za sistem zdravstvenih osiguranja koje će se odraziti na cijene i postupke u narednim godinama. Očekuje se da će troškovi rasti zbog inflacije i veće potražnje za zdravstvenim uslugama.",
-      "zastoVazno": "Ovo je bitno za naše ljude jer će utjecati na dostupnost i cijenu zdravstvenih usluga, što može imati direktan utjecaj na njihove živote."
+      "link": "https://versicherungswirtschaft-heute.de/politik-und-regulierung/2026-10-29/gdv-hochrechnung-fuer-2026-kfz-versicherer-muehen-sich-zur-schwarzen-null-und-ruesten-bereits-zur-naechsten-preisschlacht/",
+      "naslov": "Kfz osiguravači se bore za stabilizaciju u 2026. godini",
+      "sazetak": "Njemački Kfz osiguravači zabilježavaju teške godine, a prema predviđanjima, završit će 2026. s visokom štetnom stopom. Unatoč poskupljenju, osiguravatelji se suočavaju s izazovima zbog rastućih troškova popravki.",
+      "zastoVazno": "Ovo je važno za vozače u Njemačkoj, jer može uticati na troškove njihovih osiguravajućih premija."
+    },
+    {
+      "id": "2026-10-31-3",
+      "datum": "2026-10-29",
+      "kategorija": "Zdravstveno",
+      "izvor": "Pfefferminzia",
+      "link": "https://www.pfefferminzia.de/advertorial/die-rv-ist-ihr-starker-gesundheitspartner/",
+      "naslov": "Zdravstveno osiguranje i pritisak na cijene u Njemačkoj",
+      "sazetak": "Tržište zdravstvenog osiguranja u Njemačkoj suočava se s porastom troškova i pritiskom na cjelokupni sistem. Čini se da su osiguravači prisiljeni da prilagode svoje cijene usled povećanih troškova zdravstvene zaštite.",
+      "zastoVazno": "To je bitno za naše ljude u Njemačkoj, jer promjene u cijeni zdravstvenog osiguranja direktno utiču na njihove mjesečne troškove."
     }
   ]
 }

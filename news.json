@@ -1,35 +1,35 @@
 {
-  "azurirano": "2026-10-31T06:00:30.906Z",
+  "azurirano": "2026-11-03T06:00:30.368Z",
   "vijesti": [
     {
-      "id": "2026-10-31-1",
-      "datum": "2026-10-29",
+      "id": "2026-11-03-1",
+      "datum": "2026-11-02",
       "kategorija": "Auto osiguranje",
       "izvor": "VWheute",
-      "link": "https://versicherungswirtschaft-heute.de/schlaglicht/2026-10-30/axa-dreht-an-der-preisschraube-deutsche-privatkunden-zahlen-ueber-5-prozent-mehr/",
-      "naslov": "Axa povećava cijene osiguranja za više od 5%",
-      "sazetak": "Francuski osiguravajući koncern Axa je saopštio da će njemački privatni kupci plaćati više od 5% za osiguranje. Promjena cijene je izazvana prilagođavanjem tarife u privatnom sektoru osiguranja, što je rezultat porasta troškova.",
-      "zastoVazno": "Ovo poskupljenje može uticati na budžet mnogih naših ljudi u Njemačkoj koji se oslanjaju na privatna osiguranja."
+      "link": "https://versicherungswirtschaft-heute.de/maerkte-und-vertrieb/2026-11-03/da-direkt-will-mit-dashcam-deal-in-der-wechselzeit-punkten/",
+      "naslov": "DA Direkt nudi popust na auto osiguranje uz dashcam",
+      "sazetak": "Osiguravajuća kompanija DA Direkt je uvela popust od 15% na KFZ osiguranje za korisnike koji kupe dashcam kameru. Ova akcija je usmjerena na poboljšanje sigurnosti vožnje i rješavanje nesreća.",
+      "zastoVazno": "Ova ponuda može pomoći vozačima da uštede novac na osiguranju, a istovremeno im pruža dodatnu sigurnost na cesti."
     },
     {
-      "id": "2026-10-31-2",
-      "datum": "2026-10-29",
-      "kategorija": "Auto osiguranje",
-      "izvor": "VWheute",
-      "link": "https://versicherungswirtschaft-heute.de/politik-und-regulierung/2026-10-29/gdv-hochrechnung-fuer-2026-kfz-versicherer-muehen-sich-zur-schwarzen-null-und-ruesten-bereits-zur-naechsten-preisschlacht/",
-      "naslov": "Kfz osiguravači se bore za stabilizaciju u 2026. godini",
-      "sazetak": "Njemački Kfz osiguravači zabilježavaju teške godine, a prema predviđanjima, završit će 2026. s visokom štetnom stopom. Unatoč poskupljenju, osiguravatelji se suočavaju s izazovima zbog rastućih troškova popravki.",
-      "zastoVazno": "Ovo je važno za vozače u Njemačkoj, jer može uticati na troškove njihovih osiguravajućih premija."
-    },
-    {
-      "id": "2026-10-31-3",
-      "datum": "2026-10-29",
-      "kategorija": "Zdravstveno",
+      "id": "2026-11-03-2",
+      "datum": "2026-11-02",
+      "kategorija": "Penzija",
       "izvor": "Pfefferminzia",
-      "link": "https://www.pfefferminzia.de/advertorial/die-rv-ist-ihr-starker-gesundheitspartner/",
-      "naslov": "Zdravstveno osiguranje i pritisak na cijene u Njemačkoj",
-      "sazetak": "Tržište zdravstvenog osiguranja u Njemačkoj suočava se s porastom troškova i pritiskom na cjelokupni sistem. Čini se da su osiguravači prisiljeni da prilagode svoje cijene usled povećanih troškova zdravstvene zaštite.",
-      "zastoVazno": "To je bitno za naše ljude u Njemačkoj, jer promjene u cijeni zdravstvenog osiguranja direktno utiču na njihove mjesečne troškove."
+      "link": "https://www.pfefferminzia.de/vorsorge/standard-life-erhoeht-rentenzins-auf-325-prozent/",
+      "naslov": "Standard Life povećava kamatu na penzije na 3,25 posto",
+      "sazetak": "Osiguranje Standard Life je povećalo kamatu za izračunavanje penzija na 3,25%. Ovo povećanje važi za sve nove ugovore kao i za postojeće ugovore koji sada započinju isplatu penzije.",
+      "zastoVazno": "Povećanje kamate na penzije može pozitivno uticati na buduće isplate naših dijasporaca koji planiraju da se vrate ili ostanu u Njemačkoj."
+    },
+    {
+      "id": "2026-11-03-3",
+      "datum": "2026-11-02",
+      "kategorija": "Penzija",
+      "izvor": "Pfefferminzia",
+      "link": "https://www.pfefferminzia.de/vorsorge/staatliches-altersvorsorgedepot-das-schweigen-von-berlin/",
+      "naslov": "Planirano državno penzijsko osiguranje i dalje bez odgovora",
+      "sazetak": "Vlasti u Berlinu nisu dale konkretne informacije o planiranom državnom penzijskom osiguranju, koje bi trebalo da pomogne građanima u privatnoj penzijskoj štednji. Očekuje se veća aktivnost na ovom polju.",
+      "zastoVazno": "Što više informacija o ovom planu imamo, bolje možemo planirati svoju penziju, što je posebno važno za one koji žive u inostranstvu."
     }
   ]
 }

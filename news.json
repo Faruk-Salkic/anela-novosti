@@ -1,35 +1,35 @@
 {
-  "azurirano": "2026-11-03T06:00:30.368Z",
+  "azurirano": "2026-11-06T06:00:31.802Z",
   "vijesti": [
     {
-      "id": "2026-11-03-1",
-      "datum": "2026-11-02",
+      "id": "2026-11-06-1",
+      "datum": "2026-11-05",
       "kategorija": "Auto osiguranje",
       "izvor": "VWheute",
-      "link": "https://versicherungswirtschaft-heute.de/maerkte-und-vertrieb/2026-11-03/da-direkt-will-mit-dashcam-deal-in-der-wechselzeit-punkten/",
-      "naslov": "DA Direkt nudi popust na auto osiguranje uz dashcam",
-      "sazetak": "Osiguravajuća kompanija DA Direkt je uvela popust od 15% na KFZ osiguranje za korisnike koji kupe dashcam kameru. Ova akcija je usmjerena na poboljšanje sigurnosti vožnje i rješavanje nesreća.",
-      "zastoVazno": "Ova ponuda može pomoći vozačima da uštede novac na osiguranju, a istovremeno im pruža dodatnu sigurnost na cesti."
+      "link": "https://versicherungswirtschaft-heute.de/politik-und-regulierung/2026-11-05/bdv-warnt-kfz-versicherte-vor-voreiligen-tarifwechseln/",
+      "naslov": "BdV upozorava osiguranike na preuranjene promjene tarife",
+      "sazetak": "Osigurani u oblasti automobila suočavaju se sa velikim povećanjem premija. Zbog nadolazećeg roka 30. novembra, stručnjaci savjetuju da se ne vrši preuranjena promjena osiguravajuće kompanije, jer je važnije da se razmotri nivo usluge nego cijena.",
+      "zastoVazno": "Ova informacija je važna za vozače u Njemačkoj kako bi izbjegli nepovoljnosti prilikom odabira osiguravača i osigurali da dobiju adekvatnu zaštitu."
     },
     {
-      "id": "2026-11-03-2",
-      "datum": "2026-11-02",
-      "kategorija": "Penzija",
+      "id": "2026-11-06-2",
+      "datum": "2026-11-05",
+      "kategorija": "Zdravstveno",
       "izvor": "Pfefferminzia",
-      "link": "https://www.pfefferminzia.de/vorsorge/standard-life-erhoeht-rentenzins-auf-325-prozent/",
-      "naslov": "Standard Life povećava kamatu na penzije na 3,25 posto",
-      "sazetak": "Osiguranje Standard Life je povećalo kamatu za izračunavanje penzija na 3,25%. Ovo povećanje važi za sve nove ugovore kao i za postojeće ugovore koji sada započinju isplatu penzije.",
-      "zastoVazno": "Povećanje kamate na penzije može pozitivno uticati na buduće isplate naših dijasporaca koji planiraju da se vrate ili ostanu u Njemačkoj."
+      "link": "https://www.pfefferminzia.de/gesundheit/gkv-reform-zusatzversicherer-rechnen-mit-schub/",
+      "naslov": "GKV reforma: Manji doprinosi, ali i slabija pokrića",
+      "sazetak": "Reforma zakonskog zdravstvenog osiguranja dovodi do smanjenja doprinosa, ali i slabljenja pokrića za zubne usluge. Od 2027. godine, doprinosi za ortopedske usluge opadaju sa 60% na 50%.",
+      "zastoVazno": "Ovo je važno za dijasporu jer može uticati na troškove zdravstvenih usluga u Njemačkoj, posebno za zubne tretmane gdje se može očekivati veće samofinansiranje."
     },
     {
-      "id": "2026-11-03-3",
-      "datum": "2026-11-02",
-      "kategorija": "Penzija",
+      "id": "2026-11-06-3",
+      "datum": "2026-11-05",
+      "kategorija": "Auto osiguranje",
       "izvor": "Pfefferminzia",
-      "link": "https://www.pfefferminzia.de/vorsorge/staatliches-altersvorsorgedepot-das-schweigen-von-berlin/",
-      "naslov": "Planirano državno penzijsko osiguranje i dalje bez odgovora",
-      "sazetak": "Vlasti u Berlinu nisu dale konkretne informacije o planiranom državnom penzijskom osiguranju, koje bi trebalo da pomogne građanima u privatnoj penzijskoj štednji. Očekuje se veća aktivnost na ovom polju.",
-      "zastoVazno": "Što više informacija o ovom planu imamo, bolje možemo planirati svoju penziju, što je posebno važno za one koji žive u inostranstvu."
+      "link": "https://www.pfefferminzia.de/branche/kfz-wechselsaison-warum-billig-nicht-immer-besser-ist/",
+      "naslov": "Sezona promjena osiguranja vozila: Jeftino ne znači uvijek bolje",
+      "sazetak": "U sezoni zamjena osiguranja za 2026. godinu, stručnjaci upozoravaju da niska cijena ne garantuje dobru pokrivenost. Osigurani treba pažljivo da pregledaju šta sve polica pokriva.",
+      "zastoVazno": "Ova informacija može pomoći vozačima da donesu bolje odluke kada biraju osiguranje, izbjegavajući neželjene situacije kasnije."
     }
   ]
 }

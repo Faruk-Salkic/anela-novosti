@@ -1,35 +1,35 @@
 {
-  "azurirano": "2026-11-09T06:00:30.446Z",
+  "azurirano": "2026-11-12T06:00:31.319Z",
   "vijesti": [
     {
-      "id": "2026-11-09-1",
-      "datum": "2026-11-05",
-      "kategorija": "Auto osiguranje",
+      "id": "2026-11-12-1",
+      "datum": "2026-11-11",
+      "kategorija": "Pravna zaštita",
       "izvor": "VWheute",
-      "link": "https://versicherungswirtschaft-heute.de/politik-und-regulierung/2026-11-05/bdv-warnt-kfz-versicherte-vor-voreiligen-tarifwechseln/",
-      "naslov": "BdV upozorava Kfz osigurane na prerane promjene tarifa",
-      "sazetak": "Zbog povećanja cijena i sporih postupaka regulacije štete, korisnicima Kfz osiguranja savjetuje se oprez prilikom promjene osiguravajuće kuće. Stručnjaci ističu da je važnije zadržati pokriće nego samo smanjiti premiju.",
-      "zastoVazno": "Mnogi naši ljudi ne poznaju dobro njemački sistem osiguranja i mogu napraviti skupu grešku ako previše hrane na premije umjesto na pokriće."
+      "link": "https://versicherungswirtschaft-heute.de/politik-und-regulierung/2026-11-11/streit-um-impfschaeden-bgh-kippt-urteil-zu-rechtsschutz/",
+      "naslov": "Pravo na osiguranje od štete nakon vakcinacije protiv COVID-19",
+      "sazetak": "Njemački sud je donio presudu koja jača prava klijenata osiguravajućih kuća kada je u pitanju naknada štete prouzrokovane vakcinacijom. Osiguravajuća društva ne mogu automatski odbiti pokriće ako smatraju da nije bilo uspjeha u sporu protiv proizvođača vakcine.",
+      "zastoVazno": "Ova presuda je važna jer može pomoći ljudima koji su pretrpjeli štetu nakon vakcinacije da dobiju finansijsku podršku u situacijama kada se suočavaju s potraživanjima od osiguravajućih kuća."
     },
     {
-      "id": "2026-11-09-2",
-      "datum": "2026-11-06",
-      "kategorija": "Životno i BU",
+      "id": "2026-11-12-2",
+      "datum": "2026-11-10",
+      "kategorija": "Penzija",
       "izvor": "Pfefferminzia",
-      "link": "https://www.pfefferminzia.de/arbeit/mehr-menschen-beziehen-bu-rente-psyche-bleibt-hauptgrund/",
-      "naslov": "Više ljudi prima BU penziju - psiha glavni uzrok",
-      "sazetak": "Psihički poremećaji su glavni razlog zbog kojeg mnogi ljudi napuštaju svoje poslove. Analiza ukazuje da više od 45% slučajeva invaliditeta potiče od ovih problema.",
-      "zastoVazno": "Radna nesposobnost može uticati na svakoga, a važno je biti svjestan uzroka i pravila koja se primjenjuju u Njemačkoj."
+      "link": "https://www.pfefferminzia.de/vorsorge/ruhestandsplanung-warum-sich-das-feld-fuer-makler-lohnt/",
+      "naslov": "Planiranje penzije: Osiguranje kao nova prilika za maklere",
+      "sazetak": "S obzirom na promjene u zakonodavstvu o penzionim fondovima, stručnjaci ističu prilike za maklere da pomognu klijentima tokom tranzicije u penziju. Postavlja se pitanje kako bolje iskoristiti štednje za penziju uz naznačene reforme.",
+      "zastoVazno": "Ovo je motivacija za naše ljude da planiraju svoju budućnost i iskoriste dostupne mogućnosti, posebno u vezi s novim zakonima o pravima penzionera."
     },
     {
-      "id": "2026-11-09-3",
-      "datum": "2026-11-05",
-      "kategorija": "Nekretnine",
+      "id": "2026-11-12-3",
+      "datum": "2026-11-09",
+      "kategorija": "Penzija",
       "izvor": "VWheute",
-      "link": "https://versicherungswirtschaft-heute.de/politik-und-regulierung/2026-11-05/rv-versicherung-verzeichnet-kraeftigen-anstieg-bei-frostschaden/",
-      "naslov": "R+V osiguranje prijavljuje porast šteta od mraza",
-      "sazetak": "R+V osiguranje beleži značajan porast šteta na nekretninama usled mraza i snežnih padavina u prvim mesecima 2026. godine. Troškovi šteta su dostigli više od 3 miliona evra.",
-      "zastoVazno": "Razumevanje rizičnih faktora poput vremenskih uslova može pomoći našoj dijaspori da bolje osigura svoje imovine i domaćinstva."
+      "link": "https://versicherungswirtschaft-heute.de/unternehmen-und-management/2026-11-09/franke-und-bornberg-29-von-38-versicherern-planen-angebote-fuer-das-altersvorsorgedepot/",
+      "naslov": "Većina osiguravajućih kuća planira nova rješenja za penziju",
+      "sazetak": "Studija pokazuje da 29 od 38 osiguravajućih kuća u Njemačkoj namjerava ponuditi nova rješenja za penziju od 1. januara 2027. godine, kada stupa na snagu reforma penzijske štednje.",
+      "zastoVazno": "Za naše ljude u Njemačkoj, ovo može biti prilika za bolju finansijsku sigurnost tokom penzije, stoga je bitno informirati se o dostupnim proizvodima."
     }
   ]
 }

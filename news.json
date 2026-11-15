@@ -1,35 +1,35 @@
 {
-  "azurirano": "2026-11-12T06:00:31.319Z",
+  "azurirano": "2026-11-15T06:00:30.342Z",
   "vijesti": [
     {
-      "id": "2026-11-12-1",
-      "datum": "2026-11-11",
+      "id": "2026-11-15-1",
+      "datum": "2026-11-12",
       "kategorija": "Pravna zaštita",
-      "izvor": "VWheute",
-      "link": "https://versicherungswirtschaft-heute.de/politik-und-regulierung/2026-11-11/streit-um-impfschaeden-bgh-kippt-urteil-zu-rechtsschutz/",
-      "naslov": "Pravo na osiguranje od štete nakon vakcinacije protiv COVID-19",
-      "sazetak": "Njemački sud je donio presudu koja jača prava klijenata osiguravajućih kuća kada je u pitanju naknada štete prouzrokovane vakcinacijom. Osiguravajuća društva ne mogu automatski odbiti pokriće ako smatraju da nije bilo uspjeha u sporu protiv proizvođača vakcine.",
-      "zastoVazno": "Ova presuda je važna jer može pomoći ljudima koji su pretrpjeli štetu nakon vakcinacije da dobiju finansijsku podršku u situacijama kada se suočavaju s potraživanjima od osiguravajućih kuća."
-    },
-    {
-      "id": "2026-11-12-2",
-      "datum": "2026-11-10",
-      "kategorija": "Penzija",
       "izvor": "Pfefferminzia",
-      "link": "https://www.pfefferminzia.de/vorsorge/ruhestandsplanung-warum-sich-das-feld-fuer-makler-lohnt/",
-      "naslov": "Planiranje penzije: Osiguranje kao nova prilika za maklere",
-      "sazetak": "S obzirom na promjene u zakonodavstvu o penzionim fondovima, stručnjaci ističu prilike za maklere da pomognu klijentima tokom tranzicije u penziju. Postavlja se pitanje kako bolje iskoristiti štednje za penziju uz naznačene reforme.",
-      "zastoVazno": "Ovo je motivacija za naše ljude da planiraju svoju budućnost i iskoriste dostupne mogućnosti, posebno u vezi s novim zakonima o pravima penzionera."
+      "link": "https://www.pfefferminzia.de/mobilitaet/bgh-rechtsschutz-darf-impfgeschaedigten-nicht-abweisen/",
+      "naslov": "Zdravstveni osiguravači ne mogu odbiti pokriće za oštećenje od vakcine",
+      "sazetak": "Savezni sud je donio presudu da zdravstveni osiguravači ne smiju lako odbijati pokriće za sporove vezane za štetu od vakcina. Ova odluka se odnosi na slučajeve gdje se klijent želi žaliti na vakcine poput Biontech-ovog proizvoda.",
+      "zastoVazno": "Ova presuda je važna za sve koji su pretrpjeli štetu zbog vakcina, jer im omogućava pristup pravnom pokriću."
     },
     {
-      "id": "2026-11-12-3",
-      "datum": "2026-11-09",
-      "kategorija": "Penzija",
-      "izvor": "VWheute",
-      "link": "https://versicherungswirtschaft-heute.de/unternehmen-und-management/2026-11-09/franke-und-bornberg-29-von-38-versicherern-planen-angebote-fuer-das-altersvorsorgedepot/",
-      "naslov": "Većina osiguravajućih kuća planira nova rješenja za penziju",
-      "sazetak": "Studija pokazuje da 29 od 38 osiguravajućih kuća u Njemačkoj namjerava ponuditi nova rješenja za penziju od 1. januara 2027. godine, kada stupa na snagu reforma penzijske štednje.",
-      "zastoVazno": "Za naše ljude u Njemačkoj, ovo može biti prilika za bolju finansijsku sigurnost tokom penzije, stoga je bitno informirati se o dostupnim proizvodima."
+      "id": "2026-11-15-2",
+      "datum": "2026-11-13",
+      "kategorija": "Opšte",
+      "izvor": "Pfefferminzia",
+      "link": "https://www.pfefferminzia.de/branche/kundenbetreuung-die-besten-versicherer-und-finanzvertriebe/",
+      "naslov": "Strest o pravima klijenata u vezi sa osiguranjima",
+      "sazetak": "Nova studija istražuje kako se osiguravatelji ponašaju prema svojim klijentima, posebno kada je riječ o pružanju pomoći i usluga nakon ugovora. Proučeni su različiti osigurateljski subjekti u Hrvatskoj.",
+      "zastoVazno": "Ovaj izvještaj može pomoći našim ljudima da prepoznaju koji osiguravatelji nude bolju uslugu i kako mogu očekivati da će biti tretirani."
+    },
+    {
+      "id": "2026-11-15-3",
+      "datum": "2026-11-12",
+      "kategorija": "Zdravstveno",
+      "izvor": "Pfefferminzia",
+      "link": "https://www.pfefferminzia.de/versorgung/alle-informationen-zur-unfallversicherung/",
+      "naslov": "Sve što trebate znati o osiguranju od nezgoda",
+      "sazetak": "Osiguranje od nezgoda može vam pružiti dodatnu sigurnost u slučaju povrede. Osiguravači nude različite opcije i pokrića, a važno je odabrati policu koja najbolje odgovara vašim potrebama.",
+      "zastoVazno": "Ovo osiguranje je ključno za sve radnike i ljude koji se bave rizičnim aktivnostima jer im omogućava da pokriju troškove u slučaju povrede."
     }
   ]
 }

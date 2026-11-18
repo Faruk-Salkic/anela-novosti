@@ -1,35 +1,35 @@
 {
-  "azurirano": "2026-11-15T06:00:30.342Z",
+  "azurirano": "2026-11-18T06:00:32.074Z",
   "vijesti": [
     {
-      "id": "2026-11-15-1",
-      "datum": "2026-11-12",
-      "kategorija": "Pravna zaštita",
-      "izvor": "Pfefferminzia",
-      "link": "https://www.pfefferminzia.de/mobilitaet/bgh-rechtsschutz-darf-impfgeschaedigten-nicht-abweisen/",
-      "naslov": "Zdravstveni osiguravači ne mogu odbiti pokriće za oštećenje od vakcine",
-      "sazetak": "Savezni sud je donio presudu da zdravstveni osiguravači ne smiju lako odbijati pokriće za sporove vezane za štetu od vakcina. Ova odluka se odnosi na slučajeve gdje se klijent želi žaliti na vakcine poput Biontech-ovog proizvoda.",
-      "zastoVazno": "Ova presuda je važna za sve koji su pretrpjeli štetu zbog vakcina, jer im omogućava pristup pravnom pokriću."
+      "id": "2026-11-18-1",
+      "datum": "2026-11-18",
+      "kategorija": "Opšte",
+      "izvor": "VWheute",
+      "link": "https://versicherungswirtschaft-heute.de/politik-und-regulierung/2026-11-18/black-friday-bund-der-versicherten-warnt-vor-embedded-insurance/",
+      "naslov": "Black Friday: Pazite na dodatna osiguranja kod kupovine elektronike",
+      "sazetak": "Pred Black Friday, stručnjaci upozoravaju kupce da budu oprezni pri zakupu dodatnih osiguranja za elektroniku. Mnoge dodatne zaštite dolaze s visokim premijama, ali nude malo usluga.",
+      "zastoVazno": "Ova tema je važna jer mnogi ljudi u Njemačkoj kupuju elektroniku tokom Black Friday-a i mogu biti prevareni visokim troškovima dodatnih osiguranja."
     },
     {
-      "id": "2026-11-15-2",
-      "datum": "2026-11-13",
+      "id": "2026-11-18-2",
+      "datum": "2026-11-16",
+      "kategorija": "Zdravstveno",
+      "izvor": "VWheute",
+      "link": "https://versicherungswirtschaft-heute.de/maerkte-und-vertrieb/2026-11-16/neu-die-stationaere-zusatzversicherung-der-allianz-2/",
+      "naslov": "Nova dodatna zdravstvena osiguranja: Kako izabrati pravo",
+      "sazetak": "Allianz je uvela nove tarife dodatnog zdravstvenog osiguranja koje su jasnije i jednostavnije za korištenje. Ove tarife su dizajnirane da pomognu osiguranicima u bržem pristupu potrebnoj zdravstvenoj zaštiti.",
+      "zastoVazno": "Ovo je relevantno jer se mnogo ljudi u Njemačkoj oslanja na dodatna osiguranja kako bi pokrili dodatne troškove zdravstvene zaštite."
+    },
+    {
+      "id": "2026-11-18-3",
+      "datum": "2026-11-16",
       "kategorija": "Opšte",
       "izvor": "Pfefferminzia",
-      "link": "https://www.pfefferminzia.de/branche/kundenbetreuung-die-besten-versicherer-und-finanzvertriebe/",
-      "naslov": "Strest o pravima klijenata u vezi sa osiguranjima",
-      "sazetak": "Nova studija istražuje kako se osiguravatelji ponašaju prema svojim klijentima, posebno kada je riječ o pružanju pomoći i usluga nakon ugovora. Proučeni su različiti osigurateljski subjekti u Hrvatskoj.",
-      "zastoVazno": "Ovaj izvještaj može pomoći našim ljudima da prepoznaju koji osiguravatelji nude bolju uslugu i kako mogu očekivati da će biti tretirani."
-    },
-    {
-      "id": "2026-11-15-3",
-      "datum": "2026-11-12",
-      "kategorija": "Zdravstveno",
-      "izvor": "Pfefferminzia",
-      "link": "https://www.pfefferminzia.de/versorgung/alle-informationen-zur-unfallversicherung/",
-      "naslov": "Sve što trebate znati o osiguranju od nezgoda",
-      "sazetak": "Osiguranje od nezgoda može vam pružiti dodatnu sigurnost u slučaju povrede. Osiguravači nude različite opcije i pokrića, a važno je odabrati policu koja najbolje odgovara vašim potrebama.",
-      "zastoVazno": "Ovo osiguranje je ključno za sve radnike i ljude koji se bave rizičnim aktivnostima jer im omogućava da pokriju troškove u slučaju povrede."
+      "link": "https://www.pfefferminzia.de/branche/risiko-lv-beitraege-leistungen-und-die-haeufigsten-fehler/",
+      "naslov": "Preporuke za osiguranje od nezgoda: Najčešće greške kod odabira",
+      "sazetak": "Mnogi ljudi prilikom odabira osiguranja od nezgoda prave iste greške. Razumijevanje faktora koji utiču na cijenu osiguranja može pomoći u uštedi značajnog novca tokom vremena.",
+      "zastoVazno": "Važno je razumjeti kako funkcionišu osiguravajuće premije kako bi se izbjegle skupe greške u procesu izbora osiguranja."
     }
   ]
 }

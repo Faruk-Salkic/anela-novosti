@@ -1,35 +1,35 @@
 {
-  "azurirano": "2026-11-18T06:00:32.074Z",
+  "azurirano": "2026-11-21T06:00:39.026Z",
   "vijesti": [
     {
-      "id": "2026-11-18-1",
+      "id": "2026-11-21-1",
       "datum": "2026-11-18",
-      "kategorija": "Opšte",
+      "kategorija": "Auto osiguranje",
       "izvor": "VWheute",
-      "link": "https://versicherungswirtschaft-heute.de/politik-und-regulierung/2026-11-18/black-friday-bund-der-versicherten-warnt-vor-embedded-insurance/",
-      "naslov": "Black Friday: Pazite na dodatna osiguranja kod kupovine elektronike",
-      "sazetak": "Pred Black Friday, stručnjaci upozoravaju kupce da budu oprezni pri zakupu dodatnih osiguranja za elektroniku. Mnoge dodatne zaštite dolaze s visokim premijama, ali nude malo usluga.",
-      "zastoVazno": "Ova tema je važna jer mnogi ljudi u Njemačkoj kupuju elektroniku tokom Black Friday-a i mogu biti prevareni visokim troškovima dodatnih osiguranja."
+      "link": "https://versicherungswirtschaft-heute.de/maerkte-und-vertrieb/2026-11-18/autohaus-kuert-beste-kfz-versicherer-volvo-und-allianz-beenden-toyota-siegesserie/",
+      "naslov": "Autohaus bira najbolje KFZ osiguratelje: Volvo i Allianz prevazišli Toyotu",
+      "sazetak": "Prema recentnoj anketi, Volvo i Allianz su prekinuli 13-godišnju vladavinu Toyote kao najbolje ocjenjenog osiguratelja. Ova promjena ukazuje na rastuću konkurenciju u industriji auto osiguranja.",
+      "zastoVazno": "Ova informacija može pomoći vozačima da bolje razumiju opcije auto osiguranja i naprave informirane odluke prilikom izbora osiguratelja."
     },
     {
-      "id": "2026-11-18-2",
-      "datum": "2026-11-16",
+      "id": "2026-11-21-2",
+      "datum": "2026-11-18",
+      "kategorija": "Auto osiguranje",
+      "izvor": "VWheute",
+      "link": "https://versicherungswirtschaft-heute.de/maerkte-und-vertrieb/2026-11-18/trustpilot-analyse-fast-jeder-zweite-autofahrer-mit-kfz-versicherung-unzufrieden/",
+      "naslov": "Sk nearly half of drivers dissatisfied with their car insurance",
+      "sazetak": "Recent analysis shows that nearly 50% of drivers are unhappy with their car insurance. Issues like inadequate communication during claims are common causes of dissatisfaction.",
+      "zastoVazno": "Ovo može biti posebno važno za novopridošlice i druge vozače koji često nisu upoznati s pravima i uslugama osiguratelja."
+    },
+    {
+      "id": "2026-11-21-3",
+      "datum": "2026-11-19",
       "kategorija": "Zdravstveno",
       "izvor": "VWheute",
-      "link": "https://versicherungswirtschaft-heute.de/maerkte-und-vertrieb/2026-11-16/neu-die-stationaere-zusatzversicherung-der-allianz-2/",
-      "naslov": "Nova dodatna zdravstvena osiguranja: Kako izabrati pravo",
-      "sazetak": "Allianz je uvela nove tarife dodatnog zdravstvenog osiguranja koje su jasnije i jednostavnije za korištenje. Ove tarife su dizajnirane da pomognu osiguranicima u bržem pristupu potrebnoj zdravstvenoj zaštiti.",
-      "zastoVazno": "Ovo je relevantno jer se mnogo ljudi u Njemačkoj oslanja na dodatna osiguranja kako bi pokrili dodatne troškove zdravstvene zaštite."
-    },
-    {
-      "id": "2026-11-18-3",
-      "datum": "2026-11-16",
-      "kategorija": "Opšte",
-      "izvor": "Pfefferminzia",
-      "link": "https://www.pfefferminzia.de/branche/risiko-lv-beitraege-leistungen-und-die-haeufigsten-fehler/",
-      "naslov": "Preporuke za osiguranje od nezgoda: Najčešće greške kod odabira",
-      "sazetak": "Mnogi ljudi prilikom odabira osiguranja od nezgoda prave iste greške. Razumijevanje faktora koji utiču na cijenu osiguranja može pomoći u uštedi značajnog novca tokom vremena.",
-      "zastoVazno": "Važno je razumjeti kako funkcionišu osiguravajuće premije kako bi se izbjegle skupe greške u procesu izbora osiguranja."
+      "link": "https://versicherungswirtschaft-heute.de/politik-und-regulierung/2026-11-19/tk-chef-baas-will-pkv-auslaufen-lassen-solange-wir-zwei-parallele-systeme-haben-wird-es-immer-fehlanreize-geben/",
+      "naslov": "Dijalog o napretku: promjene u regulaciji osiguranja za zdrastveno i mirovinsko",
+      "sazetak": "Nedavna rasprava o promjenama u zakonu o zdravstvenom i mirovinskom osiguranju ukazuje na moguće reforme koje će značajno utjecati na osiguranike. Predložene su mjere koje mogu poboljšati sistem zdravstvene zaštite.",
+      "zastoVazno": "Razumijevanje ovih promjena je ključno za građane, posebno za one koji ovise o zdravstvenoj i mirovinskoj zaštiti u Njemačkoj."
     }
   ]
 }

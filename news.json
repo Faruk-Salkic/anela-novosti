@@ -1,35 +1,35 @@
 {
-  "azurirano": "2026-11-21T06:00:39.026Z",
+  "azurirano": "2026-11-24T06:00:46.198Z",
   "vijesti": [
     {
-      "id": "2026-11-21-1",
-      "datum": "2026-11-18",
-      "kategorija": "Auto osiguranje",
-      "izvor": "VWheute",
-      "link": "https://versicherungswirtschaft-heute.de/maerkte-und-vertrieb/2026-11-18/autohaus-kuert-beste-kfz-versicherer-volvo-und-allianz-beenden-toyota-siegesserie/",
-      "naslov": "Autohaus bira najbolje KFZ osiguratelje: Volvo i Allianz prevazišli Toyotu",
-      "sazetak": "Prema recentnoj anketi, Volvo i Allianz su prekinuli 13-godišnju vladavinu Toyote kao najbolje ocjenjenog osiguratelja. Ova promjena ukazuje na rastuću konkurenciju u industriji auto osiguranja.",
-      "zastoVazno": "Ova informacija može pomoći vozačima da bolje razumiju opcije auto osiguranja i naprave informirane odluke prilikom izbora osiguratelja."
+      "id": "2026-11-24-1",
+      "datum": "2026-11-23",
+      "kategorija": "Nekretnine",
+      "izvor": "Pfefferminzia",
+      "link": "https://www.pfefferminzia.de/zuhause/leitungswasserschaeden-weniger-faelle-aber-hoehere-kosten/",
+      "naslov": "Smanjenje broja vodovodnih šteta, ali povećanje troškova",
+      "sazetak": "Prema saopštenju GDV-a, u 2025. godini zabilježeno je manje šteta od vodovoda nego prethodne godine, međutim, troškovi za svaki pojedinačni slučaj su porasli. U 2024. godini prijavljeno je oko 1,07 miliona šteta, što je smanjenje od 5,5% u odnosu na 2024.",
+      "zastoVazno": "Za naše ljude u Njemačkoj ovog tipa osiguranje može značajno uticati na finansijsku stabilnost domaćinstava, pa je važno biti svjestan ovog trenda."
     },
     {
-      "id": "2026-11-21-2",
-      "datum": "2026-11-18",
-      "kategorija": "Auto osiguranje",
-      "izvor": "VWheute",
-      "link": "https://versicherungswirtschaft-heute.de/maerkte-und-vertrieb/2026-11-18/trustpilot-analyse-fast-jeder-zweite-autofahrer-mit-kfz-versicherung-unzufrieden/",
-      "naslov": "Sk nearly half of drivers dissatisfied with their car insurance",
-      "sazetak": "Recent analysis shows that nearly 50% of drivers are unhappy with their car insurance. Issues like inadequate communication during claims are common causes of dissatisfaction.",
-      "zastoVazno": "Ovo može biti posebno važno za novopridošlice i druge vozače koji često nisu upoznati s pravima i uslugama osiguratelja."
-    },
-    {
-      "id": "2026-11-21-3",
-      "datum": "2026-11-19",
+      "id": "2026-11-24-2",
+      "datum": "2026-11-23",
       "kategorija": "Zdravstveno",
-      "izvor": "VWheute",
-      "link": "https://versicherungswirtschaft-heute.de/politik-und-regulierung/2026-11-19/tk-chef-baas-will-pkv-auslaufen-lassen-solange-wir-zwei-parallele-systeme-haben-wird-es-immer-fehlanreize-geben/",
-      "naslov": "Dijalog o napretku: promjene u regulaciji osiguranja za zdrastveno i mirovinsko",
-      "sazetak": "Nedavna rasprava o promjenama u zakonu o zdravstvenom i mirovinskom osiguranju ukazuje na moguće reforme koje će značajno utjecati na osiguranike. Predložene su mjere koje mogu poboljšati sistem zdravstvene zaštite.",
-      "zastoVazno": "Razumijevanje ovih promjena je ključno za građane, posebno za one koji ovise o zdravstvenoj i mirovinskoj zaštiti u Njemačkoj."
+      "izvor": "Pfefferminzia",
+      "link": "https://www.pfefferminzia.de/gesundheit/ivfp-rating-beitraege-steigen-ertragskraft-der-pkv-unternehmen-sinkt/",
+      "naslov": "Porast troškova zdravstvenog osiguranja u Njemačkoj",
+      "sazetak": "Prema najnovijem IVFP-ovom rejtingu, doprinosi za privatno zdravstveno osiguranje (PKV) su u porastu, dok se profitabilnost osiguravajućih društava smanjuje. Ove promjene utiču na mnoge osigurane građane.",
+      "zastoVazno": "Za našu dijasporu, razumijevanje ovih informacija može pomoći u donošenju boljih odluka o zdravstvenoj zaštiti i osiguranju."
+    },
+    {
+      "id": "2026-11-24-3",
+      "datum": "2026-11-23",
+      "kategorija": "Životno i BU",
+      "izvor": "Pfefferminzia",
+      "link": "https://www.pfefferminzia.de/advertorial/bu-ist-viel-mehr-als-eine-rente/",
+      "naslov": "Osiguranje od profesionalne nesposobnosti važnije nego ikad",
+      "sazetak": "Osiguranje od profesionalne nesposobnosti (BU) je ključna komponenta finansijske sigurnosti. Ova polisa osigurava vašu finansijsku stabilnost u slučaju gubitka radne sposobnosti.",
+      "zastoVazno": "Ovaj tip osiguranja je posebno važno za naše ljude koji se suočavaju sa raznim rizicima u radu i žele osigurati svoju budućnost."
     }
   ]
 }

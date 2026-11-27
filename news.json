@@ -1,35 +1,35 @@
 {
-  "azurirano": "2026-11-24T06:00:46.198Z",
+  "azurirano": "2026-11-27T06:00:31.974Z",
   "vijesti": [
     {
-      "id": "2026-11-24-1",
-      "datum": "2026-11-23",
-      "kategorija": "Nekretnine",
-      "izvor": "Pfefferminzia",
-      "link": "https://www.pfefferminzia.de/zuhause/leitungswasserschaeden-weniger-faelle-aber-hoehere-kosten/",
-      "naslov": "Smanjenje broja vodovodnih šteta, ali povećanje troškova",
-      "sazetak": "Prema saopštenju GDV-a, u 2025. godini zabilježeno je manje šteta od vodovoda nego prethodne godine, međutim, troškovi za svaki pojedinačni slučaj su porasli. U 2024. godini prijavljeno je oko 1,07 miliona šteta, što je smanjenje od 5,5% u odnosu na 2024.",
-      "zastoVazno": "Za naše ljude u Njemačkoj ovog tipa osiguranje može značajno uticati na finansijsku stabilnost domaćinstava, pa je važno biti svjestan ovog trenda."
-    },
-    {
-      "id": "2026-11-24-2",
-      "datum": "2026-11-23",
+      "id": "2026-11-27-1",
+      "datum": "2026-11-26",
       "kategorija": "Zdravstveno",
       "izvor": "Pfefferminzia",
-      "link": "https://www.pfefferminzia.de/gesundheit/ivfp-rating-beitraege-steigen-ertragskraft-der-pkv-unternehmen-sinkt/",
-      "naslov": "Porast troškova zdravstvenog osiguranja u Njemačkoj",
-      "sazetak": "Prema najnovijem IVFP-ovom rejtingu, doprinosi za privatno zdravstveno osiguranje (PKV) su u porastu, dok se profitabilnost osiguravajućih društava smanjuje. Ove promjene utiču na mnoge osigurane građane.",
-      "zastoVazno": "Za našu dijasporu, razumijevanje ovih informacija može pomoći u donošenju boljih odluka o zdravstvenoj zaštiti i osiguranju."
+      "link": "https://www.pfefferminzia.de/gesundheit/pkv-neugeschaeft-wird-2027-um-56-prozent-teurer/",
+      "naslov": "Cijene privatnog zdravstvenog osiguranja rastu za 5,6% u 2027. godini",
+      "sazetak": "Ako planirate da se privatno zdravstveno osigurate 2027. godine, budite spremni na povećanje troškova od 5,6% u odnosu na 2026. godinu. To se može drastično odraziti na vašu finansijsku situaciju, s obzirom na to da će se cijene razlikovati među osiguravačima.",
+      "zastoVazno": "Ovo je važno za naše ljude u Njemačkoj jer privatno zdravstveno osiguranje može pružiti bolje uslove liječenja, ali je bitno planirati troškove."
     },
     {
-      "id": "2026-11-24-3",
-      "datum": "2026-11-23",
-      "kategorija": "Životno i BU",
+      "id": "2026-11-27-2",
+      "datum": "2026-11-25",
+      "kategorija": "Auto osiguranje",
       "izvor": "Pfefferminzia",
-      "link": "https://www.pfefferminzia.de/advertorial/bu-ist-viel-mehr-als-eine-rente/",
-      "naslov": "Osiguranje od profesionalne nesposobnosti važnije nego ikad",
-      "sazetak": "Osiguranje od profesionalne nesposobnosti (BU) je ključna komponenta finansijske sigurnosti. Ova polisa osigurava vašu finansijsku stabilnost u slučaju gubitka radne sposobnosti.",
-      "zastoVazno": "Ovaj tip osiguranja je posebno važno za naše ljude koji se suočavaju sa raznim rizicima u radu i žele osigurati svoju budućnost."
+      "link": "https://www.pfefferminzia.de/mobilitaet/bundesweit-deutlich-weniger-autos-geklaut/",
+      "naslov": "Smanjenje broja ukradenih automobila u Njemačkoj",
+      "sazetak": "U Njemačkoj se 2025. godine zabilježen pad od skoro 14% u broju ukradenih automobila, što je dobra vijest za osiguravajuće kompanije. Ovaj trend može smanjiti troškove kasko osiguranja.",
+      "zastoVazno": "Smanjenje krađa automobila može značiti niže premije za osiguranje, što je korisno za sve vozače u Njemačkoj."
+    },
+    {
+      "id": "2026-11-27-3",
+      "datum": "2026-11-24",
+      "kategorija": "Penzija",
+      "izvor": "VWheute",
+      "link": "https://versicherungswirtschaft-heute.de/unternehmen-und-management/2026-11-24/mitzlaff-das-gesetz-von-frau-warken-ist-gut/",
+      "naslov": "Promjena u zakonodavstvu o penzijama u Njemačkoj",
+      "sazetak": "Novi prijedlog zakona ukazuje na potrebu za reformom penzionog sistema sa ciljem poboljšanja uslova za buduće penzionere. Očekuje se da će se predlozi razmatrati u narednim mjesecima.",
+      "zastoVazno": "Ova informacija je posebno važna za naše ljude u Njemačkoj kako bi se mogli bolje pripremiti za svoje buduće penzijone planove."
     }
   ]
 }
